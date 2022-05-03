@@ -28,7 +28,7 @@ and visitor_id = 'd96b0beb-c796-48ce-afb4-79e0098e45fb'
 
 -- pvp landing page has been successfully classified as pvpViewProduct in landing_page_type
 -- since the test traffics from 2022-04-26 hr = 20
-select visitor_id, user_name, session_id, landing_page_type, landing_page_url, dt, hr 
+select visitor_id, user_name, session_id, landing_page_type, landing_page_url, dt, hr, medium, refid 
 from l2.session_summary
 where dt >= '2022-04-26'
 and session_id in (
