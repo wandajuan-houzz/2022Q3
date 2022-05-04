@@ -60,6 +60,37 @@ and session_id in (
 					where page_behavior = 'pvpViewProduct'
 					and dt >= '2022-04-26' 
 					)
-					
+		
+-- Feb
+with t as (
+select visitor_id, dt, session_id, device_cat, landing_page_type, landing_page_url, medium, refid, browse_products, view_product, 
+		row_number() over (partition by device_cat, landing_page_type) ind
+from l2.session_analytics 
+where dt = '2022-02-20'
+and medium = 'PAID'
+and landing_page_type in ('VIEW_PRODUCT', 'pvp', 'pvpViewProduct')
+and view_product = 0
+)
+select *
+from t
+where ind = 1
 
-					
+
+with t as (
+select visitor_id, dt, session_id, device_cat, landing_page_type, landing_page_url, medium, refid, browse_products, view_product, 
+		row_number() over (partition by landing_page_type) ind
+from l2.session_analytics 
+where dt = '2022-05-02'
+and medium = 'PAID'
+and landing_page_type in ('VIEW_PRODUCT', 'pvp', 'pvpViewProduct')
+--and view_product = 0
+)
+select *
+from t
+where ind = 1
+
+
+pvp  _> BP
+in may -> view Poruct -> VP
+
+view prodct(redirect) -> pvp   
