@@ -1,6 +1,5 @@
 -- admarketplace conversion table
 
-
 with t as (
 select sa.session_id,
 		ad.request_id,
@@ -22,7 +21,7 @@ select sa.session_id,
 		po.gmv,
 		po.adjusted_cm
 from l2.session_analytics sa
-join wandajuan.mp_admp_click_events ad
+join dm.mp_admp_click_events ad
 on sa.landing_page_key = ad.request_id and sa.dt = ad.dt
 left join (
 select *,
