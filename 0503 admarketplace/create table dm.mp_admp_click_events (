@@ -1,0 +1,18 @@
+create table dm.mp_admp_click_events (
+ts double,
+session_id string,
+request_id string,
+visitor_id string,
+user_id int,
+campaign_id string,
+adgroup_id string,
+kwd_id string,
+adcid string,
+refid string,
+event_metadata string
+)
+PARTITIONED BY (                                                               
+  dt STRING                                                                    
+) 
+LOCATION
+  's3a://houzz-data-data-us-west-2/impala_export/dm.db/mp_admp_click_events'

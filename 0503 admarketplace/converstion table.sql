@@ -31,13 +31,20 @@ where
 -- this is to attribute an order to last admarketplace touch 
 -- remove dt filter to relax to window to 30d
 medium = 'PAID' and refid like '%us-dsp-mpl-admp-%'
-and dt = '2022-04-27'
+and dt = '2022-05-06'
 ) os
 on sa.dt = os.dt and sa.session_id = os.session_id and rk = 1
 left join mp.order_metrics_with_adjustments po
 on os.order_id = po.order_id and os.order_date = substr(po.created, 1, 10)
-where sa.dt = '2022-04-27'
+where sa.dt = '2022-05-06'
 )
-select dt, campaign_id, adgroup_id, kwd_id, adcid, from_unixtime(conversion_ts, 'America/New_York') as conversion_time, count(distinct order_id) conversions, sum(gmv) as revenue, sum(adjusted_cm) as net_revenue
+select dt, campaign_id, adgroup_id, kwd_id, adcid, 
+		from_unixtime(conversion_ts, 'America/New_York') as conversion_time_in_EST, 
+		count(distinct order_id) conversions, 
+		sum(gmv) as revenue, 
+		sum(adjusted_cm) as net_revenue
 from t
 group by 1, 2, 3, 4, 5, 6
+
+
+select * from dm.mp_admp_conversions_daily 
