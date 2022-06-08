@@ -61,7 +61,7 @@ inner join (
 ) pv
 on base.dt = pv.dt and base.visitor_id = pv.visitor_id
 where base.dt >= '2022-05-14'
-and base.test_name = 'mp_dweb_best_seller_label_v2' --'mp_mweb_best_seller_label_v2'
+and base.test_name = 'mp_mweb_best_seller_label_v2' --'mp_dweb_best_seller_label_v2' --
 --and base.site_id = 101
 --and base.device_cat in ('Smartphone', 'Tablet')
 --and base.test_variant in ('control', 'treatment_a', 'treatment_b')
@@ -91,5 +91,11 @@ where user_id in (
 73187723
 )
 
+-- 
+select distinct visitor_id from l2.page_transition_daily
+where dt >= '2022-05-14'
+and comp_id = 'best_seller_topic'
 
-select
+
+and visitor_id = 'd96b0beb-c796-48ce-afb4-79e0098e45fb'
+and anchor_text 

@@ -46,5 +46,21 @@ select dt, campaign_id, adgroup_id, kwd_id, adcid,
 from t
 group by 1, 2, 3, 4, 5, 6
 
-
+create table wandajuan.mp_admp_conversions_daily_0602 as (
 select * from dm.mp_admp_conversions_daily 
+where dt = '2022-06-02'
+and adcid = '1652809847020100000'
+
+select * from dm.mp_admp_click_events 
+where adcid = '1652809847020100000'
+
+
+
+select * from dm.order_sess 
+where session_id = 'f5d95ccc72b365038eec2d3addd45000'
+and dt = '2022-06-02'
+
+
+
+
+select from_unixtime(1654220576)

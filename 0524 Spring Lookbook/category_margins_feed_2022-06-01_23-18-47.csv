@@ -1,0 +1,1961 @@
+categoryId,categoryName,categoryPath,categoryLevel,status,categoryMarginId,categoryMarginFloor,categoryMarginRecommended,brands,tradeStatus
+2,products,2,1,Active,,0,0,[],Consumer
+2007,"baby and kids","2 → 2007",2,Active,,0,0,[],Consumer
+29401,"baby and kids tableware","2 → 2007 → 29401",3,Active,756,10,25,[],Consumer
+29403,"baby and kids silverware","2 → 2007 → 29401 → 29403",4,Active,1022,12.49,25,[],Consumer
+29402,"baby cups and dishes","2 → 2007 → 29401 → 29402",4,Active,1387,12.49,25,[],Consumer
+29404,"baby and kids toys","2 → 2007 → 29404",3,Active,689,10,26,[],Consumer
+16006,"baby and toddler toys","2 → 2007 → 29404 → 16006",4,Active,1024,12.49,26,[],Consumer
+29406,"baby gyms and play mats","2 → 2007 → 29404 → 29406",4,Active,1378,12.49,26,[],Consumer
+16015,"baby swings and bouncers","2 → 2007 → 29404 → 16015",4,Active,1026,12.49,26,[],Consumer
+16009,"kids toys and games","2 → 2007 → 29404 → 16009",4,Active,1195,12.49,26,[],Consumer
+29405,playpens,"2 → 2007 → 29404 → 29405",4,Active,,0,0,[],Consumer
+16022,"baby gates and child safety","2 → 2007 → 16022",3,Active,1029,12.49,25,[],Consumer
+16012,"kids decor","2 → 2007 → 16012",3,Active,727,10,25,[],Consumer
+29407,"growth charts","2 → 2007 → 16012 → 29407",4,Active,,0,0,[],Consumer
+29410,"kids clocks","2 → 2007 → 16012 → 29410",4,Active,1027,12.49,25,[],Consumer
+29411,"kids hampers","2 → 2007 → 16012 → 29411",4,Active,,0,0,[],Consumer
+29412,"kids jewelry boxes","2 → 2007 → 16012 → 29412",4,Active,,0,0,[],Consumer
+29413,"kids mirrors","2 → 2007 → 16012 → 29413",4,Active,,0,0,[],Consumer
+29415,"kids room accessories","2 → 2007 → 16012 → 29415",4,Active,1025,12.49,25,[],Consumer
+29414,"kids wall decor","2 → 2007 → 16012 → 29414",4,Active,1031,12.49,25,[],Consumer
+29408,"piggy banks","2 → 2007 → 16012 → 29408",4,Active,1023,12.49,25,[],Consumer
+29409,"wall letters","2 → 2007 → 16012 → 29409",4,Active,1030,12.49,25,[],Consumer
+16018,"nursery decor","2 → 2007 → 16018",3,Active,753,10,25,[],Consumer
+16020,"baby mobiles","2 → 2007 → 16018 → 16020",4,Active,1354,12.49,25,[],Consumer
+16003,"diaper pails and stackers","2 → 2007 → 16018 → 16003",4,Active,1028,12.49,25,[],Consumer
+2003,"bath products","2 → 2003",2,Active,,0,0,[],Consumer
+12005,"bathroom accessories","2 → 2003 → 12005",3,Active,1361,12.99,25,[],Consumer
+12007,"bath mats","2 → 2003 → 12005 → 12007",4,Active,937,13.42,25,[],Consumer
+29175,"bathroom accessory sets","2 → 2003 → 12005 → 29175",4,Active,1209,12.99,25,[],Consumer
+29416,"bathroom canisters","2 → 2003 → 12005 → 29416",4,Active,968,12.99,25,[],Consumer
+29191,"bathroom organizers","2 → 2003 → 12005 → 29191",4,Active,966,12.99,25,[],Consumer
+29171,"bathroom safety","2 → 2003 → 12005 → 29171",4,Active,,0,0,[],Consumer
+29172,"grab bars","2 → 2003 → 12005 → 29171 → 29172",5,Active,1170,12.99,25,[],Consumer
+29173,"shower benches & seats","2 → 2003 → 12005 → 29171 → 29173",5,Active,1123,11.63,25,[],Consumer
+29174,"toilet safety accessories","2 → 2003 → 12005 → 29171 → 29174",5,Active,,0,0,[],Consumer
+29176,"bathroom scales","2 → 2003 → 12005 → 29176",4,Active,964,12.99,25,[],Consumer
+16021,"kids bathroom accessories","2 → 2003 → 12005 → 16021",4,Active,965,12.99,25,[],Consumer
+12016,"shower caddies","2 → 2003 → 12005 → 12016",4,Active,969,12.99,25,[],Consumer
+29177,"shower curtain rings","2 → 2003 → 12005 → 29177",4,Active,1314,12.99,25,[],Consumer
+29178,"shower curtain rods","2 → 2003 → 12005 → 29178",4,Active,961,12.99,25,[],Consumer
+12002,"shower curtains","2 → 2003 → 12005 → 12002",4,Active,1172,12.99,25,[],Consumer
+29179,"soap & lotion dispensers","2 → 2003 → 12005 → 29179",4,Active,1187,12.99,25,[],Consumer
+29180,"soap dishes & holders","2 → 2003 → 12005 → 29180",4,Active,963,12.99,25,[],Consumer
+29181,"tissue box holders","2 → 2003 → 12005 → 29181",4,Active,967,12.99,25,[],Consumer
+12006,"toilet accessories","2 → 2003 → 12005 → 12006",4,Active,1397,12.99,25,[],Consumer
+29182,"toilet brushes & holders","2 → 2003 → 12005 → 12006 → 29182",5,Active,1248,12.99,25,[],Consumer
+29184,"toilet paper holders","2 → 2003 → 12005 → 12006 → 29184",5,Active,1148,11.91,25,[],Consumer
+29183,"toilet plungers & holders","2 → 2003 → 12005 → 12006 → 29183",5,Active,962,12.99,25,[],Consumer
+29185,"toothbrush holders","2 → 2003 → 12005 → 29185",4,Active,1309,12.99,25,[],Consumer
+12017,"bathroom cabinets","2 → 2003 → 12017",3,Active,1125,16.61,25,[],Consumer
+29551,"bathroom fixture parts","2 → 2003 → 29551",3,Active,651,5,25,[],Consumer
+29424,"bathroom sink and faucet parts","2 → 2003 → 29551 → 29424",4,Active,,0,0,[],Consumer
+29432,"bidet and toilet parts","2 → 2003 → 29551 → 29432",4,Active,,0,0,[],Consumer
+29428,"shower doors","2 → 2003 → 29551 → 29428",4,Active,,0,0,[],Consumer
+29427,"shower pans and bases","2 → 2003 → 29551 → 29427",4,Active,,0,0,[],Consumer
+29426,"showerhead parts","2 → 2003 → 29551 → 29426",4,Active,,0,0,[],Consumer
+29434,"toilet handles and levers","2 → 2003 → 29551 → 29434",4,Active,,0,0,[],Consumer
+29433,"toilet seats","2 → 2003 → 29551 → 29433",4,Active,,0,0,[],Consumer
+29665,"tub and shower parts","2 → 2003 → 29551 → 29665",4,Active,,0,0,[],Consumer
+29417,"bathroom fixtures","2 → 2003 → 29417",3,Active,628,5,25,[],Consumer
+12008,"bathroom faucets and showerheads","2 → 2003 → 29417 → 12008",4,Active,,0,0,[],Consumer
+29419,"bathroom sink faucets","2 → 2003 → 29417 → 12008 → 29419",5,Active,,0,0,[],Consumer
+29421,"bathtub faucets","2 → 2003 → 29417 → 12008 → 29421",5,Active,,0,0,[],Consumer
+29420,"bidet faucets","2 → 2003 → 29417 → 12008 → 29420",5,Active,,0,0,[],Consumer
+29429,"shower panels and columns","2 → 2003 → 29417 → 12008 → 29429",5,Active,,0,0,[],Consumer
+12011,"showerheads and body sprays","2 → 2003 → 29417 → 12008 → 12011",5,Active,,0,0,[],Consumer
+29422,"tub and shower faucet sets","2 → 2003 → 29417 → 12008 → 29422",5,Active,,0,0,[],Consumer
+12009,"bathroom sinks","2 → 2003 → 29417 → 12009",4,Active,,0,0,[],Consumer
+12010,bathtubs,"2 → 2003 → 29417 → 12010",4,Active,,0,0,[],Consumer
+29425,bidets,"2 → 2003 → 29417 → 29425",4,Active,,0,0,[],Consumer
+29430,"shower stalls and kits","2 → 2003 → 29417 → 29430",4,Active,,0,0,[],Consumer
+29431,"steam showers","2 → 2003 → 29417 → 29431",4,Active,,0,0,[],Consumer
+12012,toilets,"2 → 2003 → 29417 → 12012",4,Active,,0,0,[],Consumer
+29423,urinals,"2 → 2003 → 29417 → 29423",4,Active,,0,0,[],Consumer
+29715,"bathroom shelves","2 → 2003 → 29715",3,Active,1185,15.69,25,[],Consumer
+12014,"bathroom tile","2 → 2003 → 12014",3,Inactive,,0,0,[],Consumer
+12013,"bathroom vanities and sink consoles","2 → 2003 → 12013",3,Active,838,15.84,25,[],Consumer
+22009,"medicine cabinets","2 → 2003 → 22009",3,Active,647,5,30,[],Consumer
+12003,"towel bars and hooks","2 → 2003 → 12003",3,Active,655,5,25,[],Consumer
+29190,"robe & towel hooks","2 → 2003 → 12003 → 29190",4,Active,,0,0,[],Consumer
+29188,"towel bars","2 → 2003 → 12003 → 29188",4,Active,,0,0,[],Consumer
+29186,"towel racks & stands","2 → 2003 → 12003 → 29186",4,Active,,0,0,[],Consumer
+29189,"towel rings","2 → 2003 → 12003 → 29189",4,Active,,0,0,[],Consumer
+29187,"towel warmers","2 → 2003 → 12003 → 29187",4,Active,,0,0,[],Consumer
+12004,towels,"2 → 2003 → 12004",3,Active,680,10,30,[],Consumer
+29214,"bath towels","2 → 2003 → 12004 → 29214",4,Active,1178,12.06,30,[],Consumer
+29215,bathrobes,"2 → 2003 → 12004 → 29215",4,Active,1295,13.13,30,[],Consumer
+29216,"beach towels","2 → 2003 → 12004 → 29216",4,Active,957,13.13,30,[],Consumer
+29217,"kids towels","2 → 2003 → 12004 → 29217",4,Active,959,13.13,30,[],Consumer
+12018,"vanity stools and benches","2 → 2003 → 12018",3,Active,1161,12.65,25,[],Consumer
+12015,"vanity tops and side splashes","2 → 2003 → 12015",3,Active,1201,15.69,25,[],Consumer
+2006,"bedroom products","2 → 2006",2,Active,,0,0,[],Consumer
+15002,bedding,"2 → 2006 → 15002",3,Active,649,10,28,[],Consumer
+16005,"baby bedding","2 → 2006 → 15002 → 16005",4,Active,,0,0,[],Consumer
+29704,"baby blankets","2 → 2006 → 15002 → 16005 → 29704",5,Active,916,13.76,28,[],Consumer
+29705,"baby quilts","2 → 2006 → 15002 → 16005 → 29705",5,Active,,0,0,[],Consumer
+29707,"crib accessories","2 → 2006 → 15002 → 16005 → 29707",5,Active,1417,13.76,28,[],Consumer
+29706,"crib bedding sets","2 → 2006 → 15002 → 16005 → 29706",5,Active,1406,13.76,28,[],Consumer
+29708,"crib mattress pads & protectors","2 → 2006 → 15002 → 16005 → 29708",5,Active,,0,0,[],Consumer
+29703,"fitted crib sheets","2 → 2006 → 15002 → 16005 → 29703",5,Active,1418,13.76,28,[],Consumer
+29436,"bed accessories","2 → 2006 → 15002 → 29436",4,Active,1283,13.76,28,[],Consumer
+15006,"bed pillows","2 → 2006 → 15002 → 15006",4,Active,1186,13.76,28,[],Consumer
+15007,bedskirts,"2 → 2006 → 15002 → 15007",4,Active,1263,13.76,28,[],Consumer
+29269,blankets,"2 → 2006 → 15002 → 29269",4,Active,911,13.76,28,[],Consumer
+29274,"comforters and comforter sets","2 → 2006 → 15002 → 29274",4,Active,938,13.4,28,[],Consumer
+15003,"duvet covers and duvet sets","2 → 2006 → 15002 → 15003",4,Active,914,13.76,28,[],Consumer
+29270,"duvet inserts","2 → 2006 → 15002 → 29270",4,Active,1291,13.76,28,[],Consumer
+16008,"kids bedding","2 → 2006 → 15002 → 16008",4,Active,,0,0,[],Consumer
+29709,"kids bedding sets","2 → 2006 → 15002 → 16008 → 29709",5,Active,1388,13.76,28,[],Consumer
+29711,"kids blankets & quilts","2 → 2006 → 15002 → 16008 → 29711",5,Active,908,13.76,28,[],Consumer
+29714,"kids comforters","2 → 2006 → 15002 → 16008 → 29714",5,Active,1393,13.76,28,[],Consumer
+29713,"kids pillowcases & shams","2 → 2006 → 15002 → 16008 → 29713",5,Active,,0,0,[],Consumer
+29710,"kids pillows","2 → 2006 → 15002 → 16008 → 29710",5,Active,915,13.76,28,[],Consumer
+29712,"kids sheets","2 → 2006 → 15002 → 16008 → 29712",5,Active,,0,0,[],Consumer
+29272,"mattress protectors and covers","2 → 2006 → 15002 → 29272",4,Active,1303,13.76,28,[],Consumer
+29271,"mattress toppers and pads","2 → 2006 → 15002 → 29271",4,Active,1240,13.76,28,[],Consumer
+29273,"pillow protectors","2 → 2006 → 15002 → 29273",4,Active,1370,13.76,28,[],Consumer
+15014,"pillowcases and shams","2 → 2006 → 15002 → 15014",4,Active,913,13.76,28,[],Consumer
+15004,"quilts and quilt sets","2 → 2006 → 15002 → 15004",4,Active,909,13.76,28,[],Consumer
+15005,sheets,"2 → 2006 → 15002 → 15005",4,Active,,0,0,[],Consumer
+29275,"fitted sheets","2 → 2006 → 15002 → 15005 → 29275",5,Active,912,13.76,28,[],Consumer
+29276,"flat sheets","2 → 2006 → 15002 → 15005 → 29276",5,Active,1348,13.76,28,[],Consumer
+29277,"sheet and pillowcase sets","2 → 2006 → 15002 → 15005 → 29277",5,Active,1165,13.76,28,[],Consumer
+29435,"toddler bedding","2 → 2006 → 15002 → 29435",4,Active,910,13.76,28,[],Consumer
+2017,fabric,"2 → 2017",2,Active,,0,0,[],Consumer
+29122,"drapery fabric","2 → 2017 → 29122",3,Active,773,19.76,33,[],Consumer
+29123,"fabric trim","2 → 2017 → 29123",3,Active,774,19.76,33,[],Consumer
+26002,"outdoor fabric","2 → 2017 → 26002",3,Active,772,19.76,33,[],Consumer
+26001,"upholstery fabric","2 → 2017 → 26001",3,Active,1163,10.57,33,[],Consumer
+2005,furniture,"2 → 2005",2,Active,,0,0,[],Consumer
+29278,"assistive furniture","2 → 2005 → 29278",3,Active,739,10,26,[],Consumer
+29283,"adjustable beds","2 → 2005 → 29278 → 29283",4,Active,1318,19.03,26,[],Consumer
+29284,"lift chairs","2 → 2005 → 29278 → 29284",4,Active,,0,0,[],Consumer
+29279,"bedroom furniture","2 → 2005 → 29279",3,Active,626,10,27,[],Consumer
+29285,"armoires and wardrobes","2 → 2005 → 29279 → 29285",4,Active,1127,20,27,[],Consumer
+29286,"bed frames","2 → 2005 → 29279 → 29286",4,Active,1236,20,27,[],Consumer
+29219,"bedroom & makeup vanities","2 → 2005 → 29279 → 29219",4,Active,1158,20,27,[],Consumer
+29287,"bedroom furniture sets","2 → 2005 → 29279 → 29287",4,Active,764,20,27,[],Consumer
+15008,beds,"2 → 2005 → 29279 → 15008",4,Active,771,20,27,[],Consumer
+29290,"bunk beds","2 → 2005 → 29279 → 15008 → 29290",5,Active,1149,20,27,[],Consumer
+29291,"canopy beds","2 → 2005 → 29279 → 15008 → 29291",5,Active,1145,20,27,[],Consumer
+29292,daybeds,"2 → 2005 → 29279 → 15008 → 29292",5,Active,1146,20,27,[],Consumer
+29296,"folding beds","2 → 2005 → 29279 → 15008 → 29296",5,Active,1344,20,27,[],Consumer
+29293,"loft beds","2 → 2005 → 29279 → 15008 → 29293",5,Active,763,20,27,[],Consumer
+29294,"murphy beds","2 → 2005 → 29279 → 15008 → 29294",5,Active,1142,20,27,[],Consumer
+29418,"panel beds","2 → 2005 → 29279 → 15008 → 29418",5,Active,769,20,27,[],Consumer
+29295,"platform beds","2 → 2005 → 29279 → 15008 → 29295",5,Active,767,20,27,[],Consumer
+29297,"sleigh beds","2 → 2005 → 29279 → 15008 → 29297",5,Active,762,20,27,[],Consumer
+29288,"blanket and quilt racks","2 → 2005 → 29279 → 29288",4,Active,1254,20,27,[],Consumer
+15012,dressers,"2 → 2005 → 29279 → 15012",4,Active,1104,20,27,[],Consumer
+15010,headboards,"2 → 2005 → 29279 → 15010",4,Active,1122,20,27,[],Consumer
+29289,"jewelry armoires","2 → 2005 → 29279 → 29289",4,Active,1182,20,27,[],Consumer
+15015,mattresses,"2 → 2005 → 29279 → 15015",4,Active,1147,20,27,[],Consumer
+15011,"nightstands and bedside tables","2 → 2005 → 29279 → 15011",4,Active,1103,17.72,27,[],Consumer
+14023,bookcases,"2 → 2005 → 14023",3,Active,1110,16.26,25,[],Consumer
+14014,"dining chairs and benches","2 → 2005 → 14014",3,Inactive,715,10,26,[],Consumer
+29280,"futons and accessories","2 → 2005 → 29280",3,Active,693,10,26,[],Consumer
+29298,"futon covers","2 → 2005 → 29280 → 29298",4,Active,1400,19.03,26,[],Consumer
+29299,"futon frames","2 → 2005 → 29280 → 29299",4,Active,781,19.03,26,[],Consumer
+29300,"futon mattresses","2 → 2005 → 29280 → 29300",4,Active,1338,19.03,26,[],Consumer
+15013,futons,"2 → 2005 → 29280 → 15013",4,Active,777,19.03,26,[],Consumer
+29281,"game room and bar furniture","2 → 2005 → 29281",3,Active,808,18.15,26,[],Consumer
+29301,"bean bag chairs","2 → 2005 → 29281 → 29301",4,Active,1207,18.15,26,[],Consumer
+29170,"game table accessories","2 → 2005 → 29281 → 29170",4,Active,1353,18.15,26,[],Consumer
+21901,"game tables","2 → 2005 → 29281 → 21901",4,Active,806,18.15,26,[],Consumer
+29302,"gaming chairs","2 → 2005 → 29281 → 29302",4,Active,807,18.15,26,[],Consumer
+14025,"indoor pub and bistro sets","2 → 2005 → 29281 → 14025",4,Active,805,18.15,26,[],Consumer
+14011,"indoor pub and bistro tables","2 → 2005 → 29281 → 14011",4,Active,1129,18.15,26,[],Consumer
+29303,"theater seating","2 → 2005 → 29281 → 29303",4,Active,,0,0,[],Consumer
+29304,"wine and bar cabinets","2 → 2005 → 29281 → 29304",4,Active,1133,18.15,26,[],Consumer
+29282,"home office furniture","2 → 2005 → 29282",3,Active,1360,17.1,26,[],Consumer
+17001,"desks and hutches","2 → 2005 → 29282 → 17001",4,Active,810,17.47,26,[],Consumer
+29305,"drafting tables","2 → 2005 → 29282 → 29305",4,Active,1210,17.1,26,[],Consumer
+17005,"filing cabinets","2 → 2005 → 29282 → 17005",4,Active,1130,17.1,26,[],Consumer
+14024,"office carts and stands","2 → 2005 → 29282 → 14024",4,Active,813,17.1,26,[],Consumer
+17002,"office chairs","2 → 2005 → 29282 → 17002",4,Active,899,13.79,26,[],Consumer
+14009,"indoor benches","2 → 2005 → 14009",3,Active,648,10,26,[],Consumer
+29437,"accent and storage benches","2 → 2005 → 14009 → 29437",4,Active,850,15.26,26,[],Consumer
+22014,"hall trees","2 → 2005 → 14009 → 22014",4,Active,849,15.26,26,[],Consumer
+15009,"upholstered benches","2 → 2005 → 14009 → 15009",4,Active,1112,15.28,26,[],Consumer
+29438,"kids furniture","2 → 2005 → 29438",3,Active,670,10,25,[],Consumer
+29441,"kids bedroom furniture sets","2 → 2005 → 29438 → 29441",4,Active,,0,0,[],Consumer
+29442,"kids bedroom vanities","2 → 2005 → 29438 → 29442",4,Active,,0,0,[],Consumer
+16004,"kids beds","2 → 2005 → 29438 → 16004",4,Active,1059,12.39,25,[],Consumer
+29439,"kids bookcases","2 → 2005 → 29438 → 29439",4,Active,1286,12.39,25,[],Consumer
+16011,"kids chairs","2 → 2005 → 29438 → 16011",4,Active,1056,12.39,25,[],Consumer
+29440,"kids desks and desk sets","2 → 2005 → 29438 → 29440",4,Active,1281,12.39,25,[],Consumer
+16019,"kids dressers and armoires","2 → 2005 → 29438 → 16019",4,Active,1304,12.39,25,[],Consumer
+29445,"kids nightstands","2 → 2005 → 29438 → 29445",4,Active,1055,12.39,25,[],Consumer
+29443,"kids sofas","2 → 2005 → 29438 → 29443",4,Active,,0,0,[],Consumer
+29444,"kids step stools and stools","2 → 2005 → 29438 → 29444",4,Active,1060,12.39,25,[],Consumer
+29446,"kids storage benches and toy boxes","2 → 2005 → 29438 → 29446",4,Active,1054,12.39,25,[],Consumer
+16010,"kids tables and chairs","2 → 2005 → 29438 → 16010",4,Active,1251,12.39,25,[],Consumer
+16016,"toy organizers","2 → 2005 → 29438 → 16016",4,Active,1057,12.39,25,[],Consumer
+29447,"kitchen and dining furniture","2 → 2005 → 29447",3,Active,621,10,25,[],Consumer
+29448,"baker's racks","2 → 2005 → 29447 → 29448",4,Active,1242,18.84,25,[],Consumer
+14012,"bar carts","2 → 2005 → 29447 → 14012",4,Active,788,18.84,25,[],Consumer
+10002,"bar stools and counter stools","2 → 2005 → 29447 → 10002",4,Active,1090,17.18,25,[],Consumer
+14016,"buffets and sideboards","2 → 2005 → 29447 → 14016",4,Active,795,18.84,25,[],Consumer
+29449,"china cabinets and hutches","2 → 2005 → 29447 → 29449",4,Active,794,18.84,25,[],Consumer
+14022,"dining benches","2 → 2005 → 29447 → 14022",4,Active,790,18.84,25,[],Consumer
+14021,"dining chairs","2 → 2005 → 29447 → 14021",4,Active,1092,15.64,25,[],Consumer
+14020,"dining sets","2 → 2005 → 29447 → 14020",4,Active,1113,18.84,25,[],Consumer
+14013,"dining tables","2 → 2005 → 29447 → 14013",4,Active,765,20,25,[],Consumer
+29452,"folding chairs and stools","2 → 2005 → 29447 → 29452",4,Active,792,18.84,25,[],Consumer
+29450,"folding tables","2 → 2005 → 29447 → 29450",4,Active,793,18.84,25,[],Consumer
+10032,"kitchen islands and kitchen carts","2 → 2005 → 29447 → 10032",4,Active,787,18.84,25,[],Consumer
+10022,"pantry cabinets","2 → 2005 → 29447 → 10022",4,Active,789,18.84,25,[],Consumer
+29451,"table tops and bases","2 → 2005 → 29447 → 29451",4,Active,791,18.84,25,[],Consumer
+29453,"living room furniture","2 → 2005 → 29453",3,Active,1267,18.69,26,[],Consumer
+29454,"accent chests and cabinets","2 → 2005 → 29453 → 29454",4,Active,766,20,26,[],Consumer
+29457,"coffee and accent tables","2 → 2005 → 29453 → 29457",4,Active,,0,0,[],Consumer
+29458,"coffee table sets","2 → 2005 → 29453 → 29457 → 29458",5,Active,798,18.69,26,[],Consumer
+14006,"coffee tables","2 → 2005 → 29453 → 29457 → 14006",5,Active,1097,20,26,[],Consumer
+14027,"console tables","2 → 2005 → 29453 → 29457 → 14027",5,Active,1107,17.49,26,[],Consumer
+29459,"plant stands and telephone tables","2 → 2005 → 29453 → 29457 → 29459",5,Active,801,18.69,26,[],Consumer
+14007,"side tables and end tables","2 → 2005 → 29453 → 29457 → 14007",5,Active,817,16.61,26,[],Consumer
+29460,"tv trays","2 → 2005 → 29453 → 29457 → 29460",5,Active,1188,18.69,26,[],Consumer
+14005,"footstools and ottomans","2 → 2005 → 29453 → 14005",4,Active,840,15.57,26,[],Consumer
+14008,"living room chairs","2 → 2005 → 29453 → 14008",4,Active,796,18.69,26,[],Consumer
+14003,"armchairs and accent chairs","2 → 2005 → 29453 → 14008 → 14003",5,Active,1094,16.33,26,[],Consumer
+16014,gliders,"2 → 2005 → 29453 → 14008 → 16014",5,Active,797,18.69,26,[],Consumer
+29463,"hanging chairs","2 → 2005 → 29453 → 14008 → 29463",5,Active,1175,18.69,26,[],Consumer
+14004,"indoor chaise lounge chairs","2 → 2005 → 29453 → 14008 → 14004",5,Active,800,18.69,26,[],Consumer
+29464,"massage chairs","2 → 2005 → 29453 → 14008 → 29464",5,Active,1227,18.69,26,[],Consumer
+29686,"recliner chairs","2 → 2005 → 29453 → 14008 → 29686",5,Active,804,18.69,26,[],Consumer
+14018,"rocking chairs","2 → 2005 → 29453 → 14008 → 14018",5,Active,802,18.69,26,[],Consumer
+29462,"sleeper chairs","2 → 2005 → 29453 → 14008 → 29462",5,Active,1261,18.69,26,[],Consumer
+29461,"living room furniture sets","2 → 2005 → 29453 → 29461",4,Active,1141,18.69,26,[],Consumer
+29455,"sofas and sectionals","2 → 2005 → 29453 → 29455",4,Active,,0,0,[],Consumer
+14002,loveseats,"2 → 2005 → 29453 → 29455 → 14002",5,Active,799,18.69,26,[],Consumer
+14001,"sectional sofas","2 → 2005 → 29453 → 29455 → 14001",5,Active,803,18.69,26,[],Consumer
+29456,"sleeper sofas","2 → 2005 → 29453 → 29455 → 29456",5,Active,1139,18.69,26,[],Consumer
+14010,sofas,"2 → 2005 → 29453 → 29455 → 14010",5,Active,1102,18.69,26,[],Consumer
+22008,"media storage","2 → 2005 → 22008",3,Active,641,10,27,[],Consumer
+29306,"entertainment centers and tv stands","2 → 2005 → 22008 → 29306",4,Active,1106,20,27,[],Consumer
+29308,"media cabinets","2 → 2005 → 22008 → 29308",4,Active,768,20,27,[],Consumer
+29307,"media racks and towers","2 → 2005 → 22008 → 29307",4,Active,1273,20,27,[],Consumer
+29465,"nursery furniture","2 → 2005 → 29465",3,Active,700,10,26,[],Consumer
+29467,"bed rails","2 → 2005 → 29465 → 29467",4,Active,778,19.03,26,[],Consumer
+29466,"changing table pads and covers","2 → 2005 → 29465 → 29466",4,Active,782,19.03,26,[],Consumer
+16002,"changing tables","2 → 2005 → 29465 → 16002",4,Active,1323,19.03,26,[],Consumer
+29469,"cradles and bassinets","2 → 2005 → 29465 → 29469",4,Active,783,19.03,26,[],Consumer
+29470,"crib mattresses","2 → 2005 → 29465 → 29470",4,Active,780,19.03,26,[],Consumer
+16001,cribs,"2 → 2005 → 29465 → 16001",4,Active,1217,19.03,26,[],Consumer
+16007,"high chairs and booster seats","2 → 2005 → 29465 → 16007",4,Active,779,19.03,26,[],Consumer
+29468,"nursery furniture sets","2 → 2005 → 29465 → 29468",4,Active,,0,0,[],Consumer
+29471,"toddler beds","2 → 2005 → 29465 → 29471",4,Active,1302,19.03,26,[],Consumer
+29716,"gift cards","2 → 29716",2,Active,,0,0,[],Consumer
+2004,"home decor","2 → 2004",2,Active,,0,0,[],Consumer
+13019,artwork,"2 → 2004 → 13019",3,Active,821,16.1,29,[],Consumer
+29161,"drawings and illustrations","2 → 2004 → 13019 → 29161",4,Active,,0,0,[],Consumer
+29165,"fine art prints","2 → 2004 → 13019 → 29165",4,Active,1192,16.1,29,[],Consumer
+29162,"mixed media art","2 → 2004 → 13019 → 29162",4,Active,1269,16.1,29,[],Consumer
+13028,paintings,"2 → 2004 → 13019 → 13028",4,Active,815,16.86,29,[],Consumer
+29163,photographs,"2 → 2004 → 13019 → 29163",4,Active,1285,16.1,29,[],Consumer
+13031,sculptures,"2 → 2004 → 13019 → 13031",4,Active,820,16.1,29,[],Consumer
+13002,clocks,"2 → 2004 → 13002",3,Active,580,10,30,[],Consumer
+29106,"alarm clocks","2 → 2004 → 13002 → 29106",4,Active,785,18.88,30,[],Consumer
+29107,"cuckoo clocks","2 → 2004 → 13002 → 29107",4,Active,1276,18.88,30,[],Consumer
+29108,"desk and mantel clocks","2 → 2004 → 13002 → 29108",4,Active,1206,18.88,30,[],Consumer
+29109,"floor and grandfather clocks","2 → 2004 → 13002 → 29109",4,Active,784,18.88,30,[],Consumer
+29111,"outdoor clocks","2 → 2004 → 13002 → 29111",4,Active,1262,18.88,30,[],Consumer
+29110,"wall clocks","2 → 2004 → 13002 → 29110",4,Active,1131,20,30,[],Consumer
+29112,"decorative accents","2 → 2004 → 29112",3,Active,629,10,28,[],Consumer
+13030,"artificial flowers plants and trees","2 → 2004 → 29112 → 13030",4,Active,822,16.09,28,[],Consumer
+29133,"artificial flower arrangements","2 → 2004 → 29112 → 13030 → 29133",5,Active,1151,16.09,28,[],Consumer
+29134,"artificial plants and trees","2 → 2004 → 29112 → 13030 → 29134",5,Active,1118,13.65,28,[],Consumer
+22012,baskets,"2 → 2004 → 29112 → 22012",4,Active,829,16.09,28,[],Consumer
+29115,bookends,"2 → 2004 → 29112 → 29115",4,Active,1204,16.09,28,[],Consumer
+13016,books,"2 → 2004 → 29112 → 13016",4,Active,1219,16.09,28,[],Consumer
+13001,"candles and candleholders","2 → 2004 → 29112 → 13001",4,Active,,0,0,[],Consumer
+29128,candleholders,"2 → 2004 → 29112 → 13001 → 29128",5,Active,786,18.88,28,[],Consumer
+29127,candles,"2 → 2004 → 29112 → 13001 → 29127",5,Active,1230,16.09,28,[],Consumer
+29130,"decorative bowls","2 → 2004 → 29112 → 29130",4,Active,1159,16.09,28,[],Consumer
+29129,"decorative boxes","2 → 2004 → 29112 → 29129",4,Active,1199,16.09,28,[],Consumer
+29691,"decorative jars and urns","2 → 2004 → 29112 → 29691",4,Active,828,16.09,28,[],Consumer
+29218,"decorative objects and figurines","2 → 2004 → 29112 → 29218",4,Active,1114,16.38,28,[],Consumer
+13010,"decorative pillows","2 → 2004 → 29112 → 13010",4,Active,1111,17.24,28,[],Consumer
+29131,"decorative plates","2 → 2004 → 29112 → 29131",4,Active,1265,16.09,28,[],Consumer
+29113,"decorative trunks","2 → 2004 → 29112 → 29113",4,Active,1173,16.09,28,[],Consumer
+29118,"floor pillows and poufs","2 → 2004 → 29112 → 29118",4,Active,1157,16.09,28,[],Consumer
+13018,"home fragrances","2 → 2004 → 29112 → 13018",4,Active,824,16.09,28,[],Consumer
+13004,"indoor fountains","2 → 2004 → 29112 → 13004",4,Active,826,16.09,28,[],Consumer
+13011,"indoor pots and planters","2 → 2004 → 29112 → 13011",4,Active,1135,18.62,28,[],Consumer
+29116,"jewelry boxes and organizers","2 → 2004 → 29112 → 29116",4,Active,1228,16.09,28,[],Consumer
+29117,"photo albums","2 → 2004 → 29112 → 29117",4,Active,,0,0,[],Consumer
+13005,"picture frames","2 → 2004 → 29112 → 13005",4,Active,984,12.75,28,[],Consumer
+13024,plants,"2 → 2004 → 29112 → 13024",4,Active,1293,16.09,28,[],Consumer
+29132,"plate stands and hangers","2 → 2004 → 29112 → 29132",4,Active,825,16.09,28,[],Consumer
+13023,"screens and room dividers","2 → 2004 → 29112 → 13023",4,Active,1140,16.09,28,[],Consumer
+29119,"stained glass panels","2 → 2004 → 29112 → 29119",4,Active,827,16.09,28,[],Consumer
+29136,telescopes,"2 → 2004 → 29112 → 29136",4,Active,823,16.09,28,[],Consumer
+29135,terrariums,"2 → 2004 → 29112 → 29135",4,Active,1315,16.09,28,[],Consumer
+13013,throws,"2 → 2004 → 29112 → 13013",4,Active,1154,18.36,28,[],Consumer
+13014,vases,"2 → 2004 → 29112 → 13014",4,Active,1126,18.14,28,[],Consumer
+29137,"world globes","2 → 2004 → 29112 → 29137",4,Active,1226,16.09,28,[],Consumer
+29121,"game room and bar decor","2 → 2004 → 29121",3,Active,719,10,25,[],Consumer
+29126,"game room wall art and signs","2 → 2004 → 29121 → 29126",4,Active,1312,16.36,25,[],Consumer
+29125,"sports and game room memorabilia","2 → 2004 → 29121 → 29125",4,Active,1216,16.36,25,[],Consumer
+13006,"holiday decorations","2 → 2004 → 13006",3,Active,991,12.75,25,[],Consumer
+29151,"christmas decorations","2 → 2004 → 13006 → 29151",4,Active,983,12.75,25,[],Consumer
+29152,"christmas ornaments","2 → 2004 → 13006 → 29151 → 29152",5,Active,1174,12.75,25,[],Consumer
+29153,"christmas stockings and holders","2 → 2004 → 13006 → 29151 → 29153",5,Active,989,12.75,25,[],Consumer
+29154,"christmas tree skirts","2 → 2004 → 13006 → 29151 → 29154",5,Active,986,12.75,25,[],Consumer
+29155,"christmas tree stands and care","2 → 2004 → 13006 → 29151 → 29155",5,Active,1342,12.75,25,[],Consumer
+29156,"christmas trees","2 → 2004 → 13006 → 29151 → 29156",5,Active,985,12.75,25,[],Consumer
+29157,"holiday accents and figurines","2 → 2004 → 13006 → 29157",4,Active,1150,12.86,25,[],Consumer
+29158,"holiday lighting","2 → 2004 → 13006 → 29158",4,Active,1203,12.75,25,[],Consumer
+29159,"wreaths and garlands","2 → 2004 → 13006 → 29159",4,Active,958,13.13,25,[],Consumer
+13007,mirrors,"2 → 2004 → 13007",3,Active,1355,19.29,29,[],Consumer
+12001,"bathroom mirrors","2 → 2004 → 13007 → 12001",4,Active,814,16.88,29,[],Consumer
+29400,"floor mirrors","2 → 2004 → 13007 → 29400",4,Active,776,19.29,29,[],Consumer
+15001,"makeup mirrors","2 → 2004 → 13007 → 15001",4,Active,1171,19.29,29,[],Consumer
+29399,"wall mirrors","2 → 2004 → 13007 → 29399",4,Active,1101,20,29,[],Consumer
+13012,rugs,"2 → 2004 → 13012",3,Active,841,15.45,25,[],Consumer
+29147,"area rugs","2 → 2004 → 13012 → 29147",4,Active,1091,15.9,25,[],Consumer
+23027,doormats,"2 → 2004 → 13012 → 23027",4,Active,1088,11.57,25,[],Consumer
+29148,"hall and stair runners","2 → 2004 → 13012 → 29148",4,Active,889,14.3,25,[],Consumer
+16017,"kids rugs","2 → 2004 → 13012 → 16017",4,Active,1194,15.45,25,[],Consumer
+29717,"kitchen mats","2 → 2004 → 13012 → 29717",4,Active,,0,0,[],Consumer
+29150,"novelty rugs","2 → 2004 → 13012 → 29150",4,Active,1137,15.45,25,[],Consumer
+23025,"outdoor rugs","2 → 2004 → 13012 → 23025",4,Active,975,12.95,25,[],Consumer
+29194,"rug pads","2 → 2004 → 13012 → 29194",4,Active,1168,15.45,25,[],Consumer
+29149,"stair tread rugs","2 → 2004 → 13012 → 29149",4,Active,842,15.45,25,[],Consumer
+14015,"seat cushions","2 → 2004 → 14015",3,Active,1155,15.93,27,[],Consumer
+29120,"slipcovers and chair covers","2 → 2004 → 29120",3,Active,1213,16.36,28,[],Consumer
+29220,"wall decor","2 → 2004 → 29220",3,Active,1410,15.35,27,[],Consumer
+29690,"metal wall art","2 → 2004 → 29220 → 29690",4,Active,1128,15.9,27,[],Consumer
+29160,"novelty signs","2 → 2004 → 29220 → 29160",4,Active,1222,15.35,27,[],Consumer
+13029,"prints and posters","2 → 2004 → 29220 → 13029",4,Active,844,15.41,27,[],Consumer
+29164,tapestries,"2 → 2004 → 29220 → 29164",4,Active,1200,15.35,27,[],Consumer
+29689,"wall accents","2 → 2004 → 29220 → 29689",4,Active,818,16.19,27,[],Consumer
+13022,"wall decals","2 → 2004 → 29220 → 13022",4,Active,846,15.35,27,[],Consumer
+29589,"wall sculptures","2 → 2004 → 29220 → 29589",4,Active,1152,15.35,27,[],Consumer
+13020,"home electronics","2 → 13020",2,Active,,0,0,[],Consumer
+2015,"home improvement","2 → 2015",2,Active,,0,0,[],Consumer
+29495,"building materials","2 → 2015 → 29495",3,Active,639,5,25,[],Consumer
+29684,"bricks and masonry","2 → 2015 → 29495 → 29684",4,Active,,0,0,[],Consumer
+10011,"kitchen countertops","2 → 2015 → 29495 → 10011",4,Active,,0,0,[],Consumer
+11500,"molding and millwork","2 → 2015 → 29495 → 11500",4,Active,,0,0,[],Consumer
+11504,"columns and capitals","2 → 2015 → 29495 → 11500 → 11504",5,Active,,0,0,[],Consumer
+11501,corbels,"2 → 2015 → 29495 → 11500 → 11501",5,Active,,0,0,[],Consumer
+11502,"molding and trim","2 → 2015 → 29495 → 11500 → 11502",5,Active,515,10,24,[],Consumer
+11503,"onlays and appliques","2 → 2015 → 29495 → 11500 → 11503",5,Active,,0,0,[],Consumer
+29499,"roofing and gutters","2 → 2015 → 29495 → 29499",4,Active,,0,0,[],Consumer
+29496,"siding and stone veneer","2 → 2015 → 29495 → 29496",4,Active,,0,0,[],Consumer
+29500,"stair parts","2 → 2015 → 29495 → 29500",4,Active,,0,0,[],Consumer
+29501,"wall panels","2 → 2015 → 29495 → 29501",4,Active,,0,0,[],Consumer
+2016,"windows and doors","2 → 2015 → 29495 → 2016",4,Active,,0,0,[],Consumer
+29498,"exterior shutters","2 → 2015 → 29495 → 2016 → 29498",5,Active,,0,0,[],Consumer
+25002,"front doors","2 → 2015 → 29495 → 2016 → 25002",5,Active,,0,0,[],Consumer
+25001,"garage doors and openers","2 → 2015 → 29495 → 2016 → 25001",5,Active,,0,0,[],Consumer
+25003,"interior doors","2 → 2015 → 29495 → 2016 → 25003",5,Active,,0,0,[],Consumer
+29497,"patio doors","2 → 2015 → 29495 → 2016 → 29497",5,Active,,0,0,[],Consumer
+25004,"screen doors","2 → 2015 → 29495 → 2016 → 25004",5,Active,,0,0,[],Consumer
+25005,skylights,"2 → 2015 → 29495 → 2016 → 25005",5,Active,,0,0,[],Consumer
+25006,windows,"2 → 2015 → 29495 → 2016 → 25006",5,Active,,0,0,[],Consumer
+29502,"electrical supplies","2 → 2015 → 29502",3,Active,679,10,28,[],Consumer
+29503,"extension cords and power strips","2 → 2015 → 29502 → 29503",4,Active,1058,12.39,28,[],Consumer
+24004,"switch plates and outlet covers","2 → 2015 → 29502 → 24004",4,Active,1013,12.63,28,[],Consumer
+29504,"switches and outlets","2 → 2015 → 29502 → 29504",4,Active,1218,12.39,28,[],Consumer
+2010,flooring,"2 → 2015 → 2010",3,Active,687,10,25,[],Consumer
+29491,"bamboo flooring","2 → 2015 → 2010 → 29491",4,Active,,0,0,[],Consumer
+19003,"carpet tiles","2 → 2015 → 2010 → 19003",4,Active,1270,13.46,25,[],Consumer
+29492,"cork flooring","2 → 2015 → 2010 → 29492",4,Active,1300,13.46,25,[],Consumer
+29493,"engineered wood flooring","2 → 2015 → 2010 → 29493",4,Active,1250,13.46,25,[],Consumer
+29494,"floor medallions and inlays","2 → 2015 → 2010 → 29494",4,Active,936,13.46,25,[],Consumer
+19001,"hardwood flooring","2 → 2015 → 2010 → 19001",4,Active,1237,13.46,25,[],Consumer
+19002,"laminate flooring","2 → 2015 → 2010 → 19002",4,Active,1321,13.46,25,[],Consumer
+19005,"vinyl flooring","2 → 2015 → 2010 → 19005",4,Active,935,13.46,25,[],Consumer
+29509,hardware,"2 → 2015 → 29509",3,Active,153,5,31,[],Consumer
+24005,brackets,"2 → 2015 → 29509 → 24005",4,Active,,0,0,[],Consumer
+29510,"cabinet and drawer hardware","2 → 2015 → 29509 → 29510",4,Active,,0,0,[],Consumer
+24003,"cabinet and drawer handle pulls","2 → 2015 → 29509 → 29510 → 24003",5,Active,,0,0,[],Consumer
+24002,"cabinet and drawer knobs","2 → 2015 → 29509 → 29510 → 24002",5,Active,,0,0,[],Consumer
+24001,"door hardware","2 → 2015 → 29509 → 24001",4,Active,,0,0,[],Consumer
+29518,"barn door hardware","2 → 2015 → 29509 → 24001 → 29518",5,Active,,0,0,[],Consumer
+29512,"door entry sets","2 → 2015 → 29509 → 24001 → 29512",5,Active,,0,0,[],Consumer
+29515,"door knockers","2 → 2015 → 29509 → 24001 → 29515",5,Active,,0,0,[],Consumer
+29513,"door levers","2 → 2015 → 29509 → 24001 → 29513",5,Active,,0,0,[],Consumer
+29516,"door locks","2 → 2015 → 29509 → 24001 → 29516",5,Active,,0,0,[],Consumer
+29517,"door stops","2 → 2015 → 29509 → 24001 → 29517",5,Active,,0,0,[],Consumer
+29511,"doorbells and chimes","2 → 2015 → 29509 → 24001 → 29511",5,Active,,0,0,[],Consumer
+29514,doorknobs,"2 → 2015 → 29509 → 24001 → 29514",5,Active,,0,0,[],Consumer
+29519,"pocket door hardware","2 → 2015 → 29509 → 24001 → 29519",5,Active,,0,0,[],Consumer
+29520,hinges,"2 → 2015 → 29509 → 29520",4,Active,,0,0,[],Consumer
+29521,"nails screws and fasteners","2 → 2015 → 29509 → 29521",4,Active,,0,0,[],Consumer
+29522,"window hardware and parts","2 → 2015 → 29509 → 29522",4,Active,,0,0,[],Consumer
+28000,"heating and cooling","2 → 2015 → 28000",3,Active,643,5,25,[],Consumer
+29529,"air conditioner accessories","2 → 2015 → 28000 → 29529",4,Active,,0,0,[],Consumer
+28002,"air conditioners","2 → 2015 → 28000 → 28002",4,Active,,0,0,[],Consumer
+29530,"bathroom exhaust fans","2 → 2015 → 28000 → 29530",4,Active,,0,0,[],Consumer
+28004,"electric fans","2 → 2015 → 28000 → 28004",4,Active,,0,0,[],Consumer
+13003,"fireplace accessories","2 → 2015 → 28000 → 13003",4,Active,,0,0,[],Consumer
+29525,"fire starters and fuel","2 → 2015 → 28000 → 13003 → 29525",5,Active,,0,0,[],Consumer
+29524,"fireplace grates and andirons","2 → 2015 → 28000 → 13003 → 29524",5,Active,,0,0,[],Consumer
+13032,"fireplace mantels","2 → 2015 → 28000 → 13003 → 13032",5,Active,,0,0,[],Consumer
+29526,"fireplace screens","2 → 2015 → 28000 → 13003 → 29526",5,Active,,0,0,[],Consumer
+29523,"fireplace tools","2 → 2015 → 28000 → 13003 → 29523",5,Active,,0,0,[],Consumer
+29528,"freestanding stoves","2 → 2015 → 28000 → 29528",4,Active,,0,0,[],Consumer
+28003,"humidifiers and purifiers","2 → 2015 → 28000 → 28003",4,Active,,0,0,[],Consumer
+29535,"air purifiers","2 → 2015 → 28000 → 28003 → 29535",5,Active,,0,0,[],Consumer
+29536,dehumidifiers,"2 → 2015 → 28000 → 28003 → 29536",5,Active,,0,0,[],Consumer
+29537,humidifiers,"2 → 2015 → 28000 → 28003 → 29537",5,Active,,0,0,[],Consumer
+13027,"indoor fireplaces","2 → 2015 → 28000 → 13027",4,Active,,0,0,[],Consumer
+29531,"patio heaters","2 → 2015 → 28000 → 29531",4,Active,,0,0,[],Consumer
+29532,radiators,"2 → 2015 → 28000 → 29532",4,Active,,0,0,[],Consumer
+29533,"registers grilles and vents","2 → 2015 → 28000 → 29533",4,Active,,0,0,[],Consumer
+28001,"space heaters","2 → 2015 → 28000 → 28001",4,Active,,0,0,[],Consumer
+29527,"tabletop fireplaces","2 → 2015 → 28000 → 29527",4,Active,,0,0,[],Consumer
+29534,thermostats,"2 → 2015 → 28000 → 29534",4,Active,,0,0,[],Consumer
+29541,"home safety and security","2 → 2015 → 29541",3,Active,736,10,25,[],Consumer
+29547,"carbon monoxide and smoke detectors","2 → 2015 → 29541 → 29547",4,Active,,0,0,[],Consumer
+29542,"emergency and first aid kits","2 → 2015 → 29541 → 29542",4,Active,1415,15.12,25,[],Consumer
+29544,"fire protection","2 → 2015 → 29541 → 29544",4,Active,,0,0,[],Consumer
+29543,flashlights,"2 → 2015 → 29541 → 29543",4,Active,,0,0,[],Consumer
+29545,"home security and surveillance","2 → 2015 → 29541 → 29545",4,Active,852,15.12,25,[],Consumer
+29546,safes,"2 → 2015 → 29541 → 29546",4,Active,853,15.12,25,[],Consumer
+13026,"paint and wall covering supplies","2 → 2015 → 13026",3,Active,666,10,25,[],Consumer
+29538,paint,"2 → 2015 → 13026 → 29538",4,Active,1307,11.86,25,[],Consumer
+29539,primers,"2 → 2015 → 13026 → 29539",4,Active,,0,0,[],Consumer
+29540,"stains and varnishes","2 → 2015 → 13026 → 29540",4,Active,1238,11.86,25,[],Consumer
+13025,"wall stencils","2 → 2015 → 13026 → 13025",4,Active,,0,0,[],Consumer
+13015,wallpaper,"2 → 2015 → 13026 → 13015",4,Active,1117,11.71,25,[],Consumer
+10034,tile,"2 → 2015 → 10034",3,Active,642,10,25,[],Consumer
+29505,"accent trim and border tile","2 → 2015 → 10034 → 29505",4,Active,809,17.89,25,[],Consumer
+29506,"ceiling tile","2 → 2015 → 10034 → 29506",4,Active,1214,17.89,25,[],Consumer
+29507,"mosaic tile","2 → 2015 → 10034 → 29507",4,Active,1116,15.15,25,[],Consumer
+29508,"tile murals","2 → 2015 → 10034 → 29508",4,Active,1153,17.89,25,[],Consumer
+19004,"wall and floor tile","2 → 2015 → 10034 → 19004",4,Active,1420,10,10,[],Consumer
+29221,"tools and equipment","2 → 2015 → 29221",3,Active,695,5,25,[],Consumer
+29222,"hand tools and tool sets","2 → 2015 → 29221 → 29222",4,Active,,0,0,[],Consumer
+27005,"ladders and step stools","2 → 2015 → 29221 → 27005",4,Active,,0,0,[],Consumer
+29548,"painting tools","2 → 2015 → 29221 → 29548",4,Active,,0,0,[],Consumer
+29223,"power tools","2 → 2015 → 29221 → 29223",4,Active,,0,0,[],Consumer
+2008,"home office accessories","2 → 2008",2,Active,,0,0,[],Consumer
+17007,"bulletin boards and chalkboards","2 → 2008 → 17007",3,Active,1089,11.37,27,[],Consumer
+17003,"cable management","2 → 2008 → 17003",3,Active,1306,11.37,27,[],Consumer
+29213,"chair mats","2 → 2008 → 29213",3,Active,1289,11.37,27,[],Consumer
+17004,"desk accessories","2 → 2008 → 17004",3,Active,1202,11.27,27,[],Consumer
+2018,housekeeping,"2 → 2018",2,Active,,0,0,[],Consumer
+29192,"drawer & shelf liners","2 → 2018 → 29192",3,Active,1225,12.51,25,[],Consumer
+29193,"furniture floor protectors","2 → 2018 → 29193",3,Active,1015,12.51,25,[],Consumer
+27001,"household cleaning supplies","2 → 2018 → 27001",3,Active,730,10,25,[],Consumer
+29199,"cleaning buckets","2 → 2018 → 27001 → 29199",4,Active,1408,12.51,25,[],Consumer
+29201,"cleaning cloths","2 → 2018 → 27001 → 29201",4,Active,1017,12.51,25,[],Consumer
+29200,"cleaning gloves","2 → 2018 → 27001 → 29200",4,Active,1016,12.51,25,[],Consumer
+29195,dusters,"2 → 2018 → 27001 → 29195",4,Active,1020,12.51,25,[],Consumer
+29196,"household cleaning products","2 → 2018 → 27001 → 29196",4,Active,1021,12.51,25,[],Consumer
+27002,"mops brooms and dustpans","2 → 2018 → 27001 → 27002",4,Active,1019,12.51,25,[],Consumer
+29197,"scrub brushes & sponges","2 → 2018 → 27001 → 29197",4,Active,1349,12.51,25,[],Consumer
+29198,squeegees,"2 → 2018 → 27001 → 29198",4,Active,1345,12.51,25,[],Consumer
+27004,"laundry products","2 → 2018 → 27004",3,Active,672,10,25,[],Consumer
+18004,clotheslines,"2 → 2018 → 27004 → 18004",4,Active,1048,12.41,25,[],Consumer
+18005,"drying racks","2 → 2018 → 27004 → 18005",4,Active,1241,12.41,25,[],Consumer
+29682,"garment steamers","2 → 2018 → 27004 → 29682",4,Active,1386,12.41,25,[],Consumer
+18006,hampers,"2 → 2018 → 27004 → 18006",4,Active,1050,12.41,25,[],Consumer
+18007,"ironing board covers","2 → 2018 → 27004 → 18007",4,Active,1052,12.41,25,[],Consumer
+18002,"ironing boards","2 → 2018 → 27004 → 18002",4,Active,1245,12.41,25,[],Consumer
+18003,irons,"2 → 2018 → 27004 → 18003",4,Active,1051,12.41,25,[],Consumer
+18001,"laundry room appliances","2 → 2018 → 27004 → 18001",4,Active,1049,12.41,25,[],Consumer
+29205,dryers,"2 → 2018 → 27004 → 18001 → 29205",5,Active,1334,12.41,25,[],Consumer
+29206,"washing machines","2 → 2018 → 27004 → 18001 → 29206",5,Active,1053,12.41,25,[],Consumer
+29208,"sewing machines","2 → 2018 → 29208",3,Active,599,10,30,[],Consumer
+29209,"trash & recycling","2 → 2018 → 29209",3,Active,667,10,25,[],Consumer
+29211,"outdoor trash cans","2 → 2018 → 29209 → 29211",4,Active,934,13.6,25,[],Consumer
+29210,"recycling bins","2 → 2018 → 29209 → 29210",4,Active,1364,13.6,25,[],Consumer
+29346,"trash and recycling accessories","2 → 2018 → 29209 → 29346",4,Active,933,13.6,25,[],Consumer
+10030,"trash cans","2 → 2018 → 29209 → 10030",4,Active,1181,13.6,25,[],Consumer
+29212,"trash compactors","2 → 2018 → 29209 → 29212",4,Active,1308,13.6,25,[],Consumer
+13017,wastebaskets,"2 → 2018 → 29209 → 13017",4,Active,932,13.6,25,[],Consumer
+29202,"vacuums & floor care","2 → 2018 → 29202",3,Active,691,10,25,[],Consumer
+29203,"carpet & steam cleaners","2 → 2018 → 29202 → 29203",4,Active,,0,0,[],Consumer
+29204,"vacuum & floor care accessories","2 → 2018 → 29202 → 29204",4,Active,1018,12.51,25,[],Consumer
+27003,"vacuum cleaners","2 → 2018 → 29202 → 27003",4,Active,1014,12.51,25,[],Consumer
+2001,"kitchen products","2 → 2001",2,Active,,0,0,[],Consumer
+10061,bakeware,"2 → 2001 → 10061",3,Active,732,10,25,[],Consumer
+29310,"bakeware sets","2 → 2001 → 10061 → 29310",4,Active,1390,13.99,25,[],Consumer
+10200,"baking dishes","2 → 2001 → 10061 → 10200",4,Active,897,13.99,25,[],Consumer
+10201,"baking tools","2 → 2001 → 10061 → 10201",4,Active,,0,0,[],Consumer
+29315,"baking cups","2 → 2001 → 10061 → 10201 → 29315",5,Active,1416,13.99,25,[],Consumer
+29318,"baking mats and liners","2 → 2001 → 10061 → 10201 → 29318",5,Active,898,13.99,25,[],Consumer
+10203,"cookie cutters","2 → 2001 → 10061 → 10201 → 10203",5,Active,,0,0,[],Consumer
+29313,"cookie presses","2 → 2001 → 10061 → 10201 → 29313",5,Active,,0,0,[],Consumer
+29312,"cookie stamps","2 → 2001 → 10061 → 10201 → 29312",5,Active,,0,0,[],Consumer
+29314,"cooling racks","2 → 2001 → 10061 → 10201 → 29314",5,Active,,0,0,[],Consumer
+29320,"kitchen torches","2 → 2001 → 10061 → 10201 → 29320",5,Active,,0,0,[],Consumer
+29317,"pastry bags and tips","2 → 2001 → 10061 → 10201 → 29317",5,Active,,0,0,[],Consumer
+29322,"pastry blenders","2 → 2001 → 10061 → 10201 → 29322",5,Active,,0,0,[],Consumer
+29316,"pastry brushes","2 → 2001 → 10061 → 10201 → 29316",5,Active,,0,0,[],Consumer
+29321,"pastry scrapers","2 → 2001 → 10061 → 10201 → 29321",5,Active,,0,0,[],Consumer
+29319,"pie weights","2 → 2001 → 10061 → 10201 → 29319",5,Active,,0,0,[],Consumer
+29311,"rolling pins","2 → 2001 → 10061 → 10201 → 29311",5,Active,1399,13.99,25,[],Consumer
+29323,sifters,"2 → 2001 → 10061 → 10201 → 29323",5,Active,,0,0,[],Consumer
+29324,"specialty baking tools","2 → 2001 → 10061 → 10201 → 29324",5,Active,896,13.99,25,[],Consumer
+10202,"cake pans","2 → 2001 → 10061 → 10202",4,Active,1380,13.99,25,[],Consumer
+29325,"candy and chocolate molds","2 → 2001 → 10061 → 29325",4,Active,1412,13.99,25,[],Consumer
+10204,"cookie sheets","2 → 2001 → 10061 → 10204",4,Active,892,13.99,25,[],Consumer
+10205,"cupcake and muffin pans","2 → 2001 → 10061 → 10205",4,Active,1407,13.99,25,[],Consumer
+10207,"loaf pans","2 → 2001 → 10061 → 10207",4,Active,1396,13.99,25,[],Consumer
+10206,"pie and tart pans","2 → 2001 → 10061 → 10206",4,Active,,0,0,[],Consumer
+29326,"ramekins and souffle dishes","2 → 2001 → 10061 → 29326",4,Active,895,13.99,25,[],Consumer
+10029,"coffee and tea makers","2 → 2001 → 10029",3,Active,712,10,25,[],Consumer
+29573,"coffee and tea maker accessories","2 → 2001 → 10029 → 29573",4,Active,1384,13.99,25,[],Consumer
+29574,"coffee filters","2 → 2001 → 10029 → 29573 → 29574",5,Active,,0,0,[],Consumer
+29575,"tea infusers and strainers","2 → 2001 → 10029 → 29573 → 29575",5,Active,1414,13.99,25,[],Consumer
+29572,"coffee grinders","2 → 2001 → 10029 → 29572",4,Active,,0,0,[],Consumer
+29571,"coffee makers","2 → 2001 → 10029 → 29571",4,Active,1299,13.99,25,[],Consumer
+29569,"espresso machines","2 → 2001 → 10029 → 29569",4,Active,1233,13.99,25,[],Consumer
+29570,"french presses","2 → 2001 → 10029 → 29570",4,Active,891,13.99,25,[],Consumer
+10104,kettles,"2 → 2001 → 10029 → 10104",4,Active,1292,13.99,25,[],Consumer
+29576,"milk frothers","2 → 2001 → 10029 → 29576",4,Active,893,13.99,25,[],Consumer
+29350,cookbooks,"2 → 2001 → 29350",3,Active,759,10,25,[],Consumer
+10060,cookware,"2 → 2001 → 10060",3,Active,698,10,26,[],Consumer
+29335,"chafing dishes","2 → 2001 → 10060 → 29335",4,Active,1377,12.64,26,[],Consumer
+10100,"cookware sets","2 → 2001 → 10060 → 10100",4,Active,1007,12.64,26,[],Consumer
+10101,"dutch ovens and casseroles","2 → 2001 → 10060 → 10101",4,Active,1006,12.64,26,[],Consumer
+10102,"frying pans and skillets","2 → 2001 → 10060 → 10102",4,Active,1010,12.64,26,[],Consumer
+10103,"griddles and grill pans","2 → 2001 → 10060 → 10103",4,Active,1330,12.64,26,[],Consumer
+29559,"pressure cookers","2 → 2001 → 10060 → 29559",4,Active,1356,12.64,26,[],Consumer
+10108,"roasting pans and racks","2 → 2001 → 10060 → 10108",4,Active,1009,12.64,26,[],Consumer
+10106,saucepans,"2 → 2001 → 10060 → 10106",4,Active,1320,12.64,26,[],Consumer
+10107,"saute pans","2 → 2001 → 10060 → 10107",4,Active,1008,12.64,26,[],Consumer
+10110,"specialty cookware","2 → 2001 → 10060 → 10110",4,Active,1294,12.64,26,[],Consumer
+10109,stockpots,"2 → 2001 → 10060 → 10109",4,Active,1005,12.64,26,[],Consumer
+29336,"woks and stirfry pans","2 → 2001 → 10060 → 29336",4,Active,1004,12.64,26,[],Consumer
+29560,"cookware accessories","2 → 2001 → 29560",3,Active,894,13.99,25,[],Consumer
+29561,"pot and pan lids","2 → 2001 → 29560 → 29561",4,Active,1395,13.99,25,[],Consumer
+29562,"steamer baskets","2 → 2001 → 29560 → 29562",4,Active,,0,0,[],Consumer
+10004,"cookware and bakeware","2 → 2001 → 10004",3,Inactive,600,5,30,[],Consumer
+11008,"kitchen and table linens","2 → 2001 → 11008",3,Active,684,10,30,[],Consumer
+10001,aprons,"2 → 2001 → 11008 → 10001",4,Active,859,15.06,30,[],Consumer
+10005,"dish towels","2 → 2001 → 11008 → 10005",4,Active,856,15.06,30,[],Consumer
+11401,napkins,"2 → 2001 → 11008 → 11401",4,Active,854,15.06,30,[],Consumer
+10037,"oven mitts and pot holders","2 → 2001 → 11008 → 10037",4,Active,857,15.06,30,[],Consumer
+11402,placemats,"2 → 2001 → 11008 → 11402",4,Active,858,15.06,30,[],Consumer
+29339,"table pads","2 → 2001 → 11008 → 29339",4,Active,1413,15.06,30,[],Consumer
+29340,"table runners","2 → 2001 → 11008 → 29340",4,Active,1246,15.06,30,[],Consumer
+11400,tablecloths,"2 → 2001 → 11008 → 11400",4,Active,855,15.06,30,[],Consumer
+29550,"kitchen fixture parts","2 → 2001 → 29550",3,Active,710,5,25,[],Consumer
+29549,"kitchen fixtures","2 → 2001 → 29549",3,Active,637,5,25,[],Consumer
+29557,"bar faucets","2 → 2001 → 29549 → 29557",4,Active,,0,0,[],Consumer
+29558,"bar sinks","2 → 2001 → 29549 → 29558",4,Active,,0,0,[],Consumer
+29552,"garbage disposals","2 → 2001 → 29549 → 29552",4,Active,,0,0,[],Consumer
+29555,"hot water dispensers","2 → 2001 → 29549 → 29555",4,Active,,0,0,[],Consumer
+10007,"kitchen faucets","2 → 2001 → 29549 → 10007",4,Active,,0,0,[],Consumer
+10008,"kitchen sinks","2 → 2001 → 29549 → 10008",4,Active,,0,0,[],Consumer
+29553,"pot fillers","2 → 2001 → 29549 → 29553",4,Active,,0,0,[],Consumer
+29554,"utility sink faucets","2 → 2001 → 29549 → 29554",4,Active,,0,0,[],Consumer
+18008,"utility sinks","2 → 2001 → 29549 → 18008",4,Active,,0,0,[],Consumer
+29556,"water filtration systems","2 → 2001 → 29549 → 29556",4,Active,,0,0,[],Consumer
+10062,"kitchen knives and accessories","2 → 2001 → 10062",3,Active,705,10,25,[],Consumer
+10400,"boning knives","2 → 2001 → 10062 → 10400",4,Active,,0,0,[],Consumer
+10401,"bread knives","2 → 2001 → 10062 → 10401",4,Active,1379,11.95,25,[],Consumer
+10402,"ceramic knives","2 → 2001 → 10062 → 10402",4,Inactive,,0,0,[],Consumer
+10404,"cheese knives","2 → 2001 → 10062 → 10404",4,Active,1375,11.95,25,[],Consumer
+10403,"chef's knives","2 → 2001 → 10062 → 10403",4,Active,1328,11.95,25,[],Consumer
+10405,cleavers,"2 → 2001 → 10062 → 10405",4,Active,1076,11.95,25,[],Consumer
+10411,"cutting boards","2 → 2001 → 10062 → 10411",4,Active,1223,11.95,25,[],Consumer
+10408,"kitchen shears","2 → 2001 → 10062 → 10408",4,Active,1385,11.95,25,[],Consumer
+10413,"knife sets","2 → 2001 → 10062 → 10413",4,Active,1078,11.95,25,[],Consumer
+10412,"knife sharpeners","2 → 2001 → 10062 → 10412",4,Active,1079,11.95,25,[],Consumer
+10414,"knife storage","2 → 2001 → 10062 → 10414",4,Active,1327,11.95,25,[],Consumer
+10406,"paring knives","2 → 2001 → 10062 → 10406",4,Active,,0,0,[],Consumer
+10407,"santoku knives","2 → 2001 → 10062 → 10407",4,Active,1359,11.95,25,[],Consumer
+29337,"slicing and carving knives","2 → 2001 → 10062 → 29337",4,Active,,0,0,[],Consumer
+29338,"specialty knives","2 → 2001 → 10062 → 29338",4,Active,1373,11.95,25,[],Consumer
+10409,"steak knives","2 → 2001 → 10062 → 10409",4,Active,1339,11.95,25,[],Consumer
+10410,"utility knives","2 → 2001 → 10062 → 10410",4,Active,1075,11.95,25,[],Consumer
+29563,"kitchen sink accessories","2 → 2001 → 29563",3,Active,707,5,25,[],Consumer
+29341,"kitchen storage and organization","2 → 2001 → 29341",3,Active,1032,12.43,26,[],Consumer
+29368,"cookbook stands and recipe holders","2 → 2001 → 29341 → 29368",4,Active,1045,12.43,26,[],Consumer
+29342,"dinnerware and stemware storage","2 → 2001 → 29341 → 29342",4,Active,1037,12.43,26,[],Consumer
+10003,"dish racks","2 → 2001 → 29341 → 10003",4,Active,1280,12.43,26,[],Consumer
+29343,"flatware storage","2 → 2001 → 29341 → 29343",4,Active,1040,12.43,26,[],Consumer
+29354,"food and beverage carriers","2 → 2001 → 29341 → 29354",4,Active,,0,0,[],Consumer
+29359,"coolers and ice chests","2 → 2001 → 29341 → 29354 → 29359",5,Active,1042,12.43,26,[],Consumer
+29357,"drink sleeves","2 → 2001 → 29341 → 29354 → 29357",5,Active,1394,12.43,26,[],Consumer
+29360,"lunch boxes and totes","2 → 2001 → 29341 → 29354 → 29360",5,Active,1401,12.43,26,[],Consumer
+29355,"picnic baskets","2 → 2001 → 29341 → 29354 → 29355",5,Active,1046,12.43,26,[],Consumer
+29358,thermoses,"2 → 2001 → 29341 → 29354 → 29358",5,Active,1357,12.43,26,[],Consumer
+29356,"water bottles","2 → 2001 → 29341 → 29354 → 29356",5,Active,1403,12.43,26,[],Consumer
+10006,"food containers and storage","2 → 2001 → 29341 → 10006",4,Active,,0,0,[],Consumer
+29344,"bread boxes","2 → 2001 → 29341 → 10006 → 29344",5,Active,1335,12.43,26,[],Consumer
+29347,"dry food dispensers","2 → 2001 → 29341 → 10006 → 29347",5,Active,1034,12.43,26,[],Consumer
+29373,"food storage containers","2 → 2001 → 29341 → 10006 → 29373",5,Active,1316,12.43,26,[],Consumer
+29345,"kitchen canisters and jars","2 → 2001 → 29341 → 10006 → 29345",5,Active,1208,12.43,26,[],Consumer
+29348,"oil and vinegar dispensers","2 → 2001 → 29341 → 10006 → 29348",5,Active,1033,12.43,26,[],Consumer
+10010,"kitchen cabinetry","2 → 2001 → 29341 → 10010",4,Active,1043,12.43,26,[],Consumer
+10036,"kitchen drawer organizers","2 → 2001 → 29341 → 10036",4,Active,1038,12.43,26,[],Consumer
+29361,"napkin holders","2 → 2001 → 29341 → 29361",4,Active,1044,12.43,26,[],Consumer
+29349,"pantry and cabinet organizers","2 → 2001 → 29341 → 29349",4,Active,1041,12.43,26,[],Consumer
+29351,"paper towel holders","2 → 2001 → 29341 → 29351",4,Active,1036,12.43,26,[],Consumer
+10024,"pot racks and accessories","2 → 2001 → 29341 → 10024",4,Active,1035,12.43,26,[],Consumer
+29352,"spice jars and spice racks","2 → 2001 → 29341 → 29352",4,Active,1047,12.43,26,[],Consumer
+29353,"utensil holders and racks","2 → 2001 → 29341 → 29353",4,Active,1325,12.43,26,[],Consumer
+10031,"wine racks","2 → 2001 → 29341 → 10031",4,Active,1039,12.43,26,[],Consumer
+10033,"kitchen tools and gadgets","2 → 2001 → 10033",3,Active,699,10,26,[],Consumer
+10301,"can openers","2 → 2001 → 10033 → 10301",4,Active,1405,12.68,26,[],Consumer
+10302,"colanders and strainers","2 → 2001 → 10033 → 10302",4,Active,1003,12.68,26,[],Consumer
+10303,"cooking utensils","2 → 2001 → 10033 → 10303",4,Active,,0,0,[],Consumer
+29363,"cooking spoons","2 → 2001 → 10033 → 10303 → 29363",5,Active,1409,12.68,26,[],Consumer
+29693,"cooking utensil sets","2 → 2001 → 10033 → 10303 → 29693",5,Active,1336,12.68,26,[],Consumer
+29367,"kitchen tongs","2 → 2001 → 10033 → 10303 → 29367",5,Active,995,12.68,26,[],Consumer
+29364,ladles,"2 → 2001 → 10033 → 10303 → 29364",5,Active,,0,0,[],Consumer
+29366,"potato mashers","2 → 2001 → 10033 → 10303 → 29366",5,Active,,0,0,[],Consumer
+29362,spatulas,"2 → 2001 → 10033 → 10303 → 29362",5,Active,1001,12.68,26,[],Consumer
+29365,whisks,"2 → 2001 → 10033 → 10303 → 29365",5,Active,,0,0,[],Consumer
+29564,"food slicers","2 → 2001 → 10033 → 29564",4,Active,1333,12.68,26,[],Consumer
+10304,graters,"2 → 2001 → 10033 → 10304",4,Active,1389,12.68,26,[],Consumer
+29372,"ice trays and molds","2 → 2001 → 10033 → 29372",4,Active,,0,0,[],Consumer
+10310,"kitchen scales","2 → 2001 → 10033 → 10310",4,Active,1411,12.68,26,[],Consumer
+29566,"kitchen thermometers","2 → 2001 → 10033 → 29566",4,Active,997,12.68,26,[],Consumer
+29565,"kitchen timers","2 → 2001 → 10033 → 29565",4,Active,,0,0,[],Consumer
+10306,mandolines,"2 → 2001 → 10033 → 10306",4,Active,,0,0,[],Consumer
+10307,"measuring cups","2 → 2001 → 10033 → 10307",4,Active,1381,12.68,26,[],Consumer
+29374,"measuring spoons","2 → 2001 → 10033 → 29374",4,Active,,0,0,[],Consumer
+10300,"mixing bowls","2 → 2001 → 10033 → 10300",4,Active,1337,12.68,26,[],Consumer
+29371,"peelers and corers","2 → 2001 → 10033 → 29371",4,Active,,0,0,[],Consumer
+10309,"salt and pepper shakers and mills","2 → 2001 → 10033 → 10309",4,Active,996,12.68,26,[],Consumer
+10311,"specialty kitchen tools","2 → 2001 → 10033 → 10311",4,Active,1391,12.68,26,[],Consumer
+29375,basters,"2 → 2001 → 10033 → 10311 → 29375",5,Active,1419,12.68,26,[],Consumer
+29382,"food mills","2 → 2001 → 10033 → 10311 → 29382",5,Active,,0,0,[],Consumer
+29376,"garlic presses","2 → 2001 → 10033 → 10311 → 29376",5,Active,1002,12.68,26,[],Consumer
+29378,"ice cream scoops","2 → 2001 → 10033 → 10311 → 29378",5,Active,999,12.68,26,[],Consumer
+29379,"melon ballers","2 → 2001 → 10033 → 10311 → 29379",5,Active,,0,0,[],Consumer
+29377,"mortar and pestle sets","2 → 2001 → 10033 → 10311 → 29377",5,Active,1382,12.68,26,[],Consumer
+29384,"pasta makers and accessories","2 → 2001 → 10033 → 10311 → 29384",5,Active,1402,12.68,26,[],Consumer
+29694,"pizza cutters","2 → 2001 → 10033 → 10311 → 29694",5,Active,1000,12.68,26,[],Consumer
+29385,"pizza pans and stones","2 → 2001 → 10033 → 10311 → 29385",5,Active,998,12.68,26,[],Consumer
+29380,"popsicle molds","2 → 2001 → 10033 → 10311 → 29380",5,Active,,0,0,[],Consumer
+29383,"potato ricers","2 → 2001 → 10033 → 10311 → 29383",5,Active,,0,0,[],Consumer
+29381,"splatter screens","2 → 2001 → 10033 → 10311 → 29381",5,Active,,0,0,[],Consumer
+29369,"spoon rests","2 → 2001 → 10033 → 29369",4,Active,1362,12.68,26,[],Consumer
+10013,"knives and chopping boards","2 → 2001 → 10013",3,Inactive,,0,0,[],Consumer
+29567,"major kitchen appliance parts and accessories","2 → 2001 → 29567",3,Active,735,5,25,[],Consumer
+10014,"major kitchen appliances","2 → 2001 → 10014",3,Active,650,5,25,[],Consumer
+10045,"beer and wine refrigerators","2 → 2001 → 10014 → 10045",4,Active,,0,0,[],Consumer
+10020,cooktops,"2 → 2001 → 10014 → 10020",4,Active,,0,0,[],Consumer
+10018,dishwashers,"2 → 2001 → 10014 → 10018",4,Active,,0,0,[],Consumer
+29683,freezers,"2 → 2001 → 10014 → 29683",4,Active,,0,0,[],Consumer
+10035,"gas ranges and electric ranges","2 → 2001 → 10014 → 10035",4,Active,,0,0,[],Consumer
+29386,"ice makers","2 → 2001 → 10014 → 29386",4,Active,,0,0,[],Consumer
+10017,"microwave ovens","2 → 2001 → 10014 → 10017",4,Active,,0,0,[],Consumer
+10019,ovens,"2 → 2001 → 10014 → 10019",4,Active,,0,0,[],Consumer
+10016,"range hoods and vents","2 → 2001 → 10014 → 10016",4,Active,,0,0,[],Consumer
+10015,refrigerators,"2 → 2001 → 10014 → 10015",4,Active,,0,0,[],Consumer
+29387,"warming drawers","2 → 2001 → 10014 → 29387",4,Active,,0,0,[],Consumer
+10025,"small kitchen appliances","2 → 2001 → 10025",3,Active,723,5,25,[],Consumer
+10027,blenders,"2 → 2001 → 10025 → 10027",4,Active,,0,0,[],Consumer
+29388,"bread machines","2 → 2001 → 10025 → 29388",4,Active,,0,0,[],Consumer
+29389,"deep fryers","2 → 2001 → 10025 → 29389",4,Active,,0,0,[],Consumer
+29390,dehydrators,"2 → 2001 → 10025 → 29390",4,Active,,0,0,[],Consumer
+29391,"electric can openers","2 → 2001 → 10025 → 29391",4,Active,,0,0,[],Consumer
+10038,"electric grills and skillets","2 → 2001 → 10025 → 10038",4,Active,,0,0,[],Consumer
+29392,"electric roaster ovens","2 → 2001 → 10025 → 29392",4,Active,,0,0,[],Consumer
+29393,"fondue and raclette sets","2 → 2001 → 10025 → 29393",4,Active,,0,0,[],Consumer
+10044,"food processors","2 → 2001 → 10025 → 10044",4,Active,,0,0,[],Consumer
+29394,"hot plates and burners","2 → 2001 → 10025 → 29394",4,Active,,0,0,[],Consumer
+29395,"ice cream makers","2 → 2001 → 10025 → 29395",4,Active,,0,0,[],Consumer
+10039,juicers,"2 → 2001 → 10025 → 10039",4,Active,,0,0,[],Consumer
+10040,mixers,"2 → 2001 → 10025 → 10040",4,Active,,0,0,[],Consumer
+29697,"popcorn makers","2 → 2001 → 10025 → 29697",4,Active,,0,0,[],Consumer
+29396,"rice cookers and food steamers","2 → 2001 → 10025 → 29396",4,Active,,0,0,[],Consumer
+10041,"slow cookers","2 → 2001 → 10025 → 10041",4,Active,,0,0,[],Consumer
+29397,"small kitchen appliance accessories","2 → 2001 → 10025 → 29397",4,Active,,0,0,[],Consumer
+10042,"specialty small kitchen appliances","2 → 2001 → 10025 → 10042",4,Active,,0,0,[],Consumer
+29568,"toaster ovens","2 → 2001 → 10025 → 29568",4,Active,,0,0,[],Consumer
+10026,toasters,"2 → 2001 → 10025 → 10026",4,Active,,0,0,[],Consumer
+10043,"waffle makers","2 → 2001 → 10025 → 10043",4,Active,,0,0,[],Consumer
+11012,"wine and bar tools","2 → 2001 → 11012",3,Active,683,10,26,[],Consumer
+29332,"beer taps and dispensers","2 → 2001 → 11012 → 29332",4,Active,,0,0,[],Consumer
+29333,"carbonators and soda siphons","2 → 2001 → 11012 → 29333",4,Active,,0,0,[],Consumer
+29334,coasters,"2 → 2001 → 11012 → 29334",4,Active,970,12.98,26,[],Consumer
+29331,"cocktail shakers and bar tool sets","2 → 2001 → 11012 → 29331",4,Active,1313,12.98,26,[],Consumer
+29327,decanters,"2 → 2001 → 11012 → 29327",4,Active,1253,12.98,26,[],Consumer
+29330,"ice tools and buckets  ","2 → 2001 → 11012 → 29330",4,Active,973,12.98,26,[],Consumer
+29329,"wine aerators and stoppers","2 → 2001 → 11012 → 29329",4,Active,972,12.98,26,[],Consumer
+29328,"wine and bottle openers","2 → 2001 → 11012 → 29328",4,Active,971,12.98,26,[],Consumer
+29692,"wine charms and markers","2 → 2001 → 11012 → 29692",4,Active,1392,12.98,26,[],Consumer
+2019,"lifestyle and leisure","2 → 2019",2,Active,,0,0,[],Consumer
+21900,"board games and card games","2 → 2019 → 21900",3,Active,1252,12.63,25,[],Consumer
+29124,"darts and dartboards","2 → 2019 → 29124",3,Active,1011,12.63,25,[],Consumer
+21902,"home gym equipment","2 → 2019 → 21902",3,Active,1196,12.63,25,[],Consumer
+13009,"pet supplies","2 → 2019 → 13009",3,Active,1305,12.75,25,[],Consumer
+29577,"cat supplies","2 → 2019 → 13009 → 29577",4,Active,,0,0,[],Consumer
+29578,"cat beds","2 → 2019 → 13009 → 29577 → 29578",5,Active,1341,12.75,25,[],Consumer
+29579,"cat furniture","2 → 2019 → 13009 → 29577 → 29579",5,Active,1311,12.75,25,[],Consumer
+29580,"cat toys","2 → 2019 → 13009 → 29577 → 29580",5,Active,1404,12.75,25,[],Consumer
+29581,"litter boxes and covers","2 → 2019 → 13009 → 29577 → 29581",5,Active,1272,12.75,25,[],Consumer
+29582,"dog supplies","2 → 2019 → 13009 → 29582",4,Active,,0,0,[],Consumer
+13100,"dog beds","2 → 2019 → 13009 → 29582 → 13100",5,Active,990,12.75,25,[],Consumer
+29584,"dog gates","2 → 2019 → 13009 → 29582 → 29584",5,Active,987,12.75,25,[],Consumer
+29585,"dog houses","2 → 2019 → 13009 → 29582 → 29585",5,Active,1284,12.75,25,[],Consumer
+29583,"dog kennels and crates","2 → 2019 → 13009 → 29582 → 29583",5,Active,1189,12.75,25,[],Consumer
+13102,"dog toys","2 → 2019 → 13009 → 29582 → 13102",5,Active,1367,12.75,25,[],Consumer
+13103,"fish supplies","2 → 2019 → 13009 → 13103",4,Active,988,12.75,25,[],Consumer
+13101,"pet bowls and feeding","2 → 2019 → 13009 → 13101",4,Active,1282,12.75,25,[],Consumer
+29586,"pet doors","2 → 2019 → 13009 → 29586",4,Active,1324,12.75,25,[],Consumer
+29587,"small pet supplies","2 → 2019 → 13009 → 29587",4,Active,1287,12.75,25,[],Consumer
+2011,lighting,"2 → 2011",2,Active,,0,0,[],Consumer
+20013,"ceiling fans","2 → 2011 → 20013",3,Active,1099,12.48,26,[],Consumer
+20002,"ceiling lighting","2 → 2011 → 20002",3,Active,881,14.54,31,[],Consumer
+20003,chandeliers,"2 → 2011 → 20002 → 20003",4,Active,888,14.31,31,[],Consumer
+29267,"flush-mount ceiling lighting","2 → 2011 → 20002 → 29267",4,Active,920,13.69,31,[],Consumer
+20008,"kitchen island lighting","2 → 2011 → 20002 → 20008",4,Active,878,14.54,31,[],Consumer
+20007,"pendant lighting","2 → 2011 → 20002 → 20007",4,Active,1095,15.49,31,[],Consumer
+29268,"pool table lights","2 → 2011 → 20002 → 29268",4,Active,1193,14.54,31,[],Consumer
+20009,"recessed lighting","2 → 2011 → 20002 → 20009",4,Active,880,14.54,31,[],Consumer
+29253,"recessed housings","2 → 2011 → 20002 → 20009 → 29253",5,Active,,0,0,[],Consumer
+29254,"recessed lighting kits","2 → 2011 → 20002 → 20009 → 29254",5,Active,1197,14.54,31,[],Consumer
+29255,"recessed shower lighting","2 → 2011 → 20002 → 20009 → 29255",5,Active,1363,14.54,31,[],Consumer
+29256,"recessed trims","2 → 2011 → 20002 → 20009 → 29256",5,Active,1239,14.54,31,[],Consumer
+29266,"spot lights","2 → 2011 → 20002 → 29266",4,Active,882,14.54,31,[],Consumer
+20011,"track lighting","2 → 2011 → 20002 → 20011",4,Active,884,14.54,31,[],Consumer
+29257,"track heads and pendants","2 → 2011 → 20002 → 20011 → 29257",5,Active,885,14.54,31,[],Consumer
+29258,"track lighting accessories","2 → 2011 → 20002 → 20011 → 29258",5,Active,879,14.54,31,[],Consumer
+29259,"track lighting kits","2 → 2011 → 20002 → 20011 → 29259",5,Active,883,14.54,31,[],Consumer
+29260,"tracks and rails","2 → 2011 → 20002 → 20011 → 29260",5,Active,1358,14.54,31,[],Consumer
+16013,"kids lighting","2 → 2011 → 16013",3,Active,716,10,29,[],Consumer
+29224,"kids ceiling lighting","2 → 2011 → 16013 → 29224",4,Active,1256,14.63,29,[],Consumer
+29225,"kids lamps","2 → 2011 → 16013 → 29225",4,Active,877,14.63,29,[],Consumer
+29398,lamps,"2 → 2011 → 29398",3,Active,1331,16.1,28,[],Consumer
+29228,"desk lamps","2 → 2011 → 29398 → 29228",4,Active,819,16.1,28,[],Consumer
+20004,"floor lamps","2 → 2011 → 29398 → 20004",4,Active,839,15.69,28,[],Consumer
+29226,"lamp sets","2 → 2011 → 29398 → 29226",4,Active,1160,16.1,28,[],Consumer
+29227,"piano lamps","2 → 2011 → 29398 → 29227",4,Active,1215,16.1,28,[],Consumer
+20010,"table lamps","2 → 2011 → 29398 → 20010",4,Active,816,16.71,28,[],Consumer
+29240,"lighting hardware and accessories","2 → 2011 → 29240",3,Active,659,10,25,[],Consumer
+29239,"ceiling fan accessories","2 → 2011 → 29240 → 29239",4,Active,865,14.88,25,[],Consumer
+29243,"ceiling medallions","2 → 2011 → 29240 → 29243",4,Active,863,14.88,25,[],Consumer
+29242,"lamp bases","2 → 2011 → 29240 → 29242",4,Active,1257,14.88,25,[],Consumer
+20005,"lamp shades","2 → 2011 → 29240 → 20005",4,Active,851,15.19,25,[],Consumer
+20006,"light bulbs","2 → 2011 → 29240 → 20006",4,Active,,0,0,[],Consumer
+29233,"compact fluorescent bulbs","2 → 2011 → 29240 → 20006 → 29233",5,Active,862,14.88,25,[],Consumer
+29234,"fluorescent tubes","2 → 2011 → 29240 → 20006 → 29234",5,Active,,0,0,[],Consumer
+29235,"halogen bulbs","2 → 2011 → 29240 → 20006 → 29235",5,Active,1376,14.88,25,[],Consumer
+29236,"incandescent bulbs","2 → 2011 → 29240 → 20006 → 29236",5,Active,868,14.88,25,[],Consumer
+29237,"krypton and xenon bulbs","2 → 2011 → 29240 → 20006 → 29237",5,Active,,0,0,[],Consumer
+29238,"led bulbs","2 → 2011 → 29240 → 20006 → 29238",5,Active,861,14.88,25,[],Consumer
+29245,"lighting globes and shades","2 → 2011 → 29240 → 29245",4,Active,866,14.88,25,[],Consumer
+29241,"lighting hardware","2 → 2011 → 29240 → 29241",4,Active,867,14.88,25,[],Consumer
+29244,"timers and lighting controls","2 → 2011 → 29240 → 29244",4,Active,864,14.88,25,[],Consumer
+29261,night-lights,"2 → 2011 → 29261",3,Active,1350,14.63,29,[],Consumer
+29246,"novelty lighting","2 → 2011 → 29246",3,Active,1255,14.63,29,[],Consumer
+23017,"outdoor lighting","2 → 2011 → 23017",3,Active,901,13.78,29,[],Consumer
+29229,"landscape lighting","2 → 2011 → 23017 → 29229",4,Active,1322,13.78,29,[],Consumer
+29230,"deck lighting","2 → 2011 → 23017 → 29229 → 29230",5,Active,907,13.78,29,[],Consumer
+29231,"inground and well lights","2 → 2011 → 23017 → 29229 → 29231",5,Active,905,13.78,29,[],Consumer
+29232,"path lights","2 → 2011 → 23017 → 29229 → 29232",5,Active,1176,13.78,29,[],Consumer
+29263,"stair and step lights","2 → 2011 → 23017 → 29229 → 29263",5,Active,1258,13.78,29,[],Consumer
+29249,"outdoor flood and spot lights","2 → 2011 → 23017 → 29249",4,Active,900,13.78,29,[],Consumer
+29687,"outdoor floor lamps","2 → 2011 → 23017 → 29687",4,Active,906,13.78,29,[],Consumer
+29248,"outdoor flush-mount ceiling lighting","2 → 2011 → 23017 → 29248",4,Active,902,13.78,29,[],Consumer
+29588,"outdoor hanging lights","2 → 2011 → 23017 → 29588",4,Active,904,13.78,29,[],Consumer
+29250,"outdoor rope and string lights","2 → 2011 → 23017 → 29250",4,Active,1190,13.78,29,[],Consumer
+29688,"outdoor table lamps","2 → 2011 → 23017 → 29688",4,Active,903,13.78,29,[],Consumer
+29251,"outdoor wall lights and sconces","2 → 2011 → 23017 → 29251",4,Active,1100,13.86,29,[],Consumer
+29252,"post lights","2 → 2011 → 23017 → 29252",4,Active,1144,13.78,29,[],Consumer
+29247,"undercabinet lighting","2 → 2011 → 29247",3,Active,876,14.63,26,[],Consumer
+20012,"wall lighting","2 → 2011 → 20012",3,Active,631,10,34,[],Consumer
+20001,"bathroom vanity lighting","2 → 2011 → 20012 → 20001",4,Active,1098,14.05,34,[],Consumer
+29262,"display and picture lights","2 → 2011 → 20012 → 29262",4,Active,1166,14.92,34,[],Consumer
+29264,"swing arm wall lamps","2 → 2011 → 20012 → 29264",4,Active,1156,14.92,34,[],Consumer
+29265,"wall sconces","2 → 2011 → 20012 → 29265",4,Active,831,15.9,34,[],Consumer
+2014,"outdoor products","2 → 2014",2,Active,,0,0,[],Consumer
+29590,"aboveground swimming pools","2 → 2014 → 29590",3,Active,755,10,26,[],Consumer
+29591,"backyard play","2 → 2014 → 29591",3,Active,664,10,25,[],Consumer
+23006,"kids playsets and swing sets","2 → 2014 → 29591 → 23006",4,Active,954,13.37,25,[],Consumer
+29592,"outdoor and lawn games","2 → 2014 → 29591 → 29592",4,Active,943,13.37,25,[],Consumer
+23005,"outdoor playhouses","2 → 2014 → 29591 → 23005",4,Active,1277,13.37,25,[],Consumer
+29593,"sandboxes and sand toys","2 → 2014 → 29591 → 29593",4,Active,1274,13.37,25,[],Consumer
+29595,"trampoline accessories","2 → 2014 → 29591 → 29595",4,Active,953,13.37,25,[],Consumer
+29594,trampolines,"2 → 2014 → 29591 → 29594",4,Active,939,13.37,25,[],Consumer
+29598,chimineas,"2 → 2014 → 29598",3,Active,948,13.37,26,[],Consumer
+29596,"deck tiles and planks","2 → 2014 → 29596",3,Active,1244,13.37,26,[],Consumer
+29599,"fire pit accessories","2 → 2014 → 29599",3,Active,1124,10.18,26,[],Consumer
+23007,"fire pits","2 → 2014 → 23007",3,Active,960,13.12,26,[],Consumer
+29600,"firewood racks","2 → 2014 → 29600",3,Active,940,13.37,26,[],Consumer
+29601,"gardening and lawn care","2 → 2014 → 29601",3,Active,636,10,25,[],Consumer
+29602,"bulbs and seeds","2 → 2014 → 29601 → 29602",4,Active,979,12.81,25,[],Consumer
+29309,"compost bins","2 → 2014 → 29601 → 29309",4,Active,1296,12.81,25,[],Consumer
+23016,"gardening tools","2 → 2014 → 29601 → 23016",4,Active,,0,0,[],Consumer
+29603,"forks rakes and hoes","2 → 2014 → 29601 → 23016 → 29603",5,Active,1366,12.81,25,[],Consumer
+29615,"gardening accessories","2 → 2014 → 29601 → 23016 → 29615",5,Active,1234,12.81,25,[],Consumer
+29607,"gardening gloves","2 → 2014 → 29601 → 23016 → 29607",5,Active,977,12.81,25,[],Consumer
+29604,"gardening hand tools","2 → 2014 → 29601 → 23016 → 29604",5,Active,978,12.81,25,[],Consumer
+29605,"pruning tools","2 → 2014 → 29601 → 23016 → 29605",5,Active,1351,12.81,25,[],Consumer
+29606,"shovels and spades","2 → 2014 → 29601 → 23016 → 29606",5,Active,1374,12.81,25,[],Consumer
+29614,"wheelbarrows and garden carts","2 → 2014 → 29601 → 23016 → 29614",5,Active,1288,12.81,25,[],Consumer
+23023,"outdoor pots and planters","2 → 2014 → 29601 → 23023",4,Active,1109,12.95,25,[],Consumer
+23038,"outdoor power equipment","2 → 2014 → 29601 → 23038",4,Active,1235,12.81,25,[],Consumer
+29609,"planter hardware and accessories","2 → 2014 → 29601 → 29609",4,Active,1205,12.81,25,[],Consumer
+29608,"sprayers and spreaders","2 → 2014 → 29601 → 29608",4,Active,980,12.81,25,[],Consumer
+23013,"watering and irrigation equipment","2 → 2014 → 29601 → 23013",4,Active,,0,0,[],Consumer
+29610,"garden hoses","2 → 2014 → 29601 → 23013 → 29610",5,Active,976,12.81,25,[],Consumer
+29612,"rain barrels","2 → 2014 → 29601 → 23013 → 29612",5,Active,981,12.81,25,[],Consumer
+29611,sprinklers,"2 → 2014 → 29601 → 23013 → 29611",5,Active,1329,12.81,25,[],Consumer
+29613,"watering cans","2 → 2014 → 29601 → 23013 → 29613",5,Active,982,12.81,25,[],Consumer
+23012,"home fencing and gates","2 → 2014 → 23012",3,Active,1143,11.43,26,[],Consumer
+23015,"hot tub and pool supplies","2 → 2014 → 23015",3,Active,678,10,26,[],Consumer
+29630,"hot tub and pool accessories","2 → 2014 → 23015 → 29630",4,Active,1297,13.37,26,[],Consumer
+29696,"outdoor showers","2 → 2014 → 23015 → 29696",4,Active,951,13.37,26,[],Consumer
+29628,"pool chemicals and cleaning tools","2 → 2014 → 23015 → 29628",4,Active,944,13.37,26,[],Consumer
+29627,"pool pumps and filters","2 → 2014 → 23015 → 29627",4,Active,945,13.37,26,[],Consumer
+29629,"pool toys and floats","2 → 2014 → 23015 → 29629",4,Active,1211,13.37,26,[],Consumer
+29616,"hot tubs","2 → 2014 → 29616",3,Active,506,10,26.5,[],Consumer
+23014,"landscaping stones and pavers","2 → 2014 → 23014",3,Active,956,13.37,26,[],Consumer
+29101,"outdoor cooking","2 → 2014 → 29101",3,Active,702,10,25,[],Consumer
+29102,"grill tools & accessories","2 → 2014 → 29101 → 29102",4,Active,950,13.37,25,[],Consumer
+29103,"outdoor cookers & fryers","2 → 2014 → 29101 → 29103",4,Active,,0,0,[],Consumer
+23001,"outdoor grills","2 → 2014 → 29101 → 23001",4,Active,1169,13.37,25,[],Consumer
+29104,"outdoor pizza ovens","2 → 2014 → 29101 → 29104",4,Active,,0,0,[],Consumer
+29105,smokers,"2 → 2014 → 29101 → 29105",4,Active,949,13.37,25,[],Consumer
+23018,"outdoor decor","2 → 2014 → 23018",3,Active,1063,12.36,27,[],Consumer
+23029,"bird baths","2 → 2014 → 23018 → 23029",4,Active,1067,12.36,27,[],Consumer
+23028,"bird feeders","2 → 2014 → 23018 → 23028",4,Active,1243,12.36,27,[],Consumer
+23030,birdhouses,"2 → 2014 → 23018 → 23030",4,Active,1072,12.36,27,[],Consumer
+29145,cupolas,"2 → 2014 → 23018 → 29145",4,Active,1369,12.36,27,[],Consumer
+29142,"decorative thermometers","2 → 2014 → 23018 → 29142",4,Active,1069,12.36,27,[],Consumer
+29138,"flags and flagpoles","2 → 2014 → 23018 → 29138",4,Active,1062,12.36,27,[],Consumer
+23031,"garden statues and yard art","2 → 2014 → 23018 → 23031",4,Active,1012,12.63,27,[],Consumer
+23019,"house numbers","2 → 2014 → 23018 → 23019",4,Active,1070,12.36,27,[],Consumer
+29139,"mailbox accessories","2 → 2014 → 23018 → 29139",4,Active,1066,12.36,27,[],Consumer
+23020,mailboxes,"2 → 2014 → 23018 → 23020",4,Active,1132,12.36,27,[],Consumer
+23003,"outdoor cushions and pillows","2 → 2014 → 23018 → 23003",4,Active,974,12.97,27,[],Consumer
+29140,"outdoor furniture covers","2 → 2014 → 23018 → 29140",4,Active,1071,12.36,27,[],Consumer
+23021,"outdoor holiday decorations","2 → 2014 → 23018 → 23021",4,Active,1191,12.36,27,[],Consumer
+29631,"outdoor torches","2 → 2014 → 23018 → 29631",4,Active,1068,12.36,27,[],Consumer
+29632,"outdoor wall art","2 → 2014 → 23018 → 29632",4,Active,1180,12.36,27,[],Consumer
+29141,"rain chains","2 → 2014 → 23018 → 29141",4,Active,1064,12.36,27,[],Consumer
+29144,sundials,"2 → 2014 → 23018 → 29144",4,Active,,0,0,[],Consumer
+29143,"weather vanes","2 → 2014 → 23018 → 29143",4,Active,1061,12.36,27,[],Consumer
+29146,"wind chimes","2 → 2014 → 23018 → 29146",4,Active,1065,12.36,27,[],Consumer
+29617,"outdoor fireplaces","2 → 2014 → 29617",3,Active,1278,13.37,26,[],Consumer
+29618,"outdoor fountain and pond accessories","2 → 2014 → 29618",3,Active,1346,13.37,26,[],Consumer
+23022,"outdoor fountains and ponds","2 → 2014 → 23022",3,Active,1162,13.37,25,[],Consumer
+29619,"outdoor kitchen appliances","2 → 2014 → 29619",3,Active,509,10,26.5,[],Consumer
+29620,"outdoor ice machines","2 → 2014 → 29619 → 29620",4,Active,,0,0,[],Consumer
+29621,"outdoor refrigerators","2 → 2014 → 29619 → 29621",4,Active,,0,0,[],Consumer
+29623,"outdoor structures","2 → 2014 → 29623",3,Active,668,10,25,[],Consumer
+29624,awnings,"2 → 2014 → 29623 → 29624",4,Active,1164,13.37,25,[],Consumer
+29700,"canopies & tents","2 → 2014 → 29623 → 29700",4,Active,946,13.37,25,[],Consumer
+29701,"garden arbors","2 → 2014 → 29623 → 29701",4,Active,947,13.37,25,[],Consumer
+29702,"garden trellises","2 → 2014 → 29623 → 29702",4,Active,942,13.37,25,[],Consumer
+23008,gazebos,"2 → 2014 → 29623 → 23008",4,Active,1179,13.37,25,[],Consumer
+23011,greenhouses,"2 → 2014 → 29623 → 23011",4,Active,1232,13.37,25,[],Consumer
+29625,pergolas,"2 → 2014 → 29623 → 29625",4,Active,955,13.37,25,[],Consumer
+23010,"prefab studios","2 → 2014 → 29623 → 23010",4,Active,,0,0,[],Consumer
+29699,"shade sails","2 → 2014 → 29623 → 29699",4,Active,,0,0,[],Consumer
+29626,"outdoor umbrella accessories","2 → 2014 → 29626",3,Active,952,13.37,26,[],Consumer
+23004,"outdoor umbrellas","2 → 2014 → 23004",3,Active,1115,12.31,25,[],Consumer
+23002,"patio furniture and outdoor furniture","2 → 2014 → 23002",3,Active,924,13.62,26,[],Consumer
+29472,"hammock stands and accessories","2 → 2014 → 23002 → 29472",4,Active,1224,13.62,26,[],Consumer
+23032,"hammocks and swing chairs","2 → 2014 → 23002 → 23032",4,Active,1121,13.62,26,[],Consumer
+29685,"outdoor bar furniture","2 → 2014 → 23002 → 29685",4,Active,1301,13.62,26,[],Consumer
+29488,"outdoor bar stools and counter stools","2 → 2014 → 23002 → 29685 → 29488",5,Active,1108,13.62,26,[],Consumer
+29486,"outdoor pub and bistro sets","2 → 2014 → 23002 → 29685 → 29486",5,Active,1120,13.62,26,[],Consumer
+29487,"outdoor pub and bistro tables","2 → 2014 → 23002 → 29685 → 29487",5,Active,931,13.62,26,[],Consumer
+29489,"outdoor serving carts","2 → 2014 → 23002 → 29685 → 29489",5,Active,925,13.62,26,[],Consumer
+23036,"outdoor benches","2 → 2014 → 23002 → 23036",4,Active,926,13.62,26,[],Consumer
+29483,"outdoor dining furniture","2 → 2014 → 23002 → 29483",4,Active,,0,0,[],Consumer
+29484,"outdoor dining chairs","2 → 2014 → 23002 → 29483 → 29484",5,Active,890,14.28,26,[],Consumer
+29485,"outdoor dining sets","2 → 2014 → 23002 → 29483 → 29485",5,Active,1096,13.62,26,[],Consumer
+23033,"outdoor dining tables","2 → 2014 → 23002 → 29483 → 23033",5,Active,830,15.91,26,[],Consumer
+29473,"outdoor lounge furniture","2 → 2014 → 23002 → 29473",4,Active,,0,0,[],Consumer
+29114,"accent and garden stools","2 → 2014 → 23002 → 29473 → 29114",5,Active,1138,16.09,28,[],Consumer
+29474,"adirondack chairs","2 → 2014 → 23002 → 29473 → 29474",5,Active,927,13.62,26,[],Consumer
+23037,"outdoor chaise lounges","2 → 2014 → 23002 → 29473 → 23037",5,Active,928,13.62,26,[],Consumer
+29475,"outdoor coffee tables","2 → 2014 → 23002 → 29473 → 29475",5,Active,1134,13.62,26,[],Consumer
+29476,"outdoor folding chairs","2 → 2014 → 23002 → 29473 → 29476",5,Active,923,13.62,26,[],Consumer
+29477,"outdoor footstools and ottomans","2 → 2014 → 23002 → 29473 → 29477",5,Active,930,13.62,26,[],Consumer
+29478,"outdoor gliders","2 → 2014 → 23002 → 29473 → 29478",5,Active,1177,13.62,26,[],Consumer
+23035,"outdoor lounge chairs","2 → 2014 → 23002 → 29473 → 23035",5,Active,1105,15.9,26,[],Consumer
+29479,"outdoor lounge sets","2 → 2014 → 23002 → 29473 → 29479",5,Active,1093,12.4,26,[],Consumer
+29480,"outdoor loveseats","2 → 2014 → 23002 → 29473 → 29480",5,Active,921,13.62,26,[],Consumer
+29481,"outdoor rocking chairs","2 → 2014 → 23002 → 29473 → 29481",5,Active,922,13.62,26,[],Consumer
+29482,"outdoor side tables","2 → 2014 → 23002 → 29473 → 29482",5,Active,1119,13.62,26,[],Consumer
+23034,"outdoor sofas","2 → 2014 → 23002 → 29473 → 23034",5,Active,929,13.62,26,[],Consumer
+29490,"porch swings","2 → 2014 → 23002 → 29490",4,Active,1136,13.62,26,[],Consumer
+29622,saunas,"2 → 2014 → 29622",3,Active,941,13.37,26,[],Consumer
+2013,"storage and organization","2 → 2013",2,Active,,0,0,[],Consumer
+22001,"bookcases cabinets and computer armoires","2 → 2013 → 22001",3,Inactive,,0,0,[],Consumer
+29644,"charging stations","2 → 2013 → 29644",3,Active,833,15.87,25,[],Consumer
+22005,"closet storage","2 → 2013 → 22005",3,Active,686,10,25,[],Consumer
+22004,"closet organizers","2 → 2013 → 22005 → 22004",4,Active,887,14.53,25,[],Consumer
+29633,"clothes hangers","2 → 2013 → 22005 → 29633",4,Active,886,14.53,25,[],Consumer
+22006,"clothes racks","2 → 2013 → 22005 → 22006",4,Active,1212,14.53,25,[],Consumer
+29642,"clothing valets and suit stands","2 → 2013 → 29642",3,Active,1290,15.87,25,[],Consumer
+22002,"coatracks and umbrella stands","2 → 2013 → 22002",3,Active,1077,11.95,25,[],Consumer
+29643,"dresser valets and organizers","2 → 2013 → 29643",3,Active,832,15.87,25,[],Consumer
+23039,"garage and tool storage","2 → 2013 → 23039",3,Active,835,15.87,25,[],Consumer
+29634,"holiday storage","2 → 2013 → 29634",3,Active,834,15.87,25,[],Consumer
+13021,"magazine racks","2 → 2013 → 13021",3,Active,1229,15.87,25,[],Consumer
+29635,"outdoor storage","2 → 2013 → 29635",3,Active,661,10,25,[],Consumer
+29636,"deck boxes and storage","2 → 2013 → 29635 → 29636",4,Active,811,17.25,25,[],Consumer
+29637,"garden hose reels","2 → 2013 → 29635 → 29637",4,Active,1275,17.25,25,[],Consumer
+29638,"potting benches","2 → 2013 → 29635 → 29638",4,Active,1220,17.25,25,[],Consumer
+23009,sheds,"2 → 2013 → 29635 → 23009",4,Active,812,17.25,25,[],Consumer
+29640,shelving,"2 → 2013 → 29640",3,Active,847,15.34,25,[],Consumer
+22011,"display and wall shelves ","2 → 2013 → 29640 → 22011",4,Active,843,15.42,25,[],Consumer
+29641,"utility shelves","2 → 2013 → 29640 → 29641",4,Active,848,15.34,25,[],Consumer
+22010,"shoe storage","2 → 2013 → 22010",3,Active,1081,11.71,25,[],Consumer
+22013,"storage bins and boxes","2 → 2013 → 22013",3,Active,770,20,25,[],Consumer
+14026,"storage cabinets","2 → 2013 → 14026",3,Active,836,15.87,25,[],Consumer
+29639,"utility carts","2 → 2013 → 29639",3,Active,1298,15.87,25,[],Consumer
+22007,"wall hooks","2 → 2013 → 22007",3,Active,1183,13.72,32,[],Consumer
+29695,"wall organizers","2 → 2013 → 29695",3,Active,837,15.87,25,[],Consumer
+2002,tabletop,"2 → 2002",2,Active,,0,0,[],Consumer
+11007,"cups and glassware","2 → 2002 → 11007",3,Active,676,10,27,[],Consumer
+29654,"bar glasses","2 → 2002 → 11007 → 29654",4,Active,,0,0,[],Consumer
+29655,"beer glasses","2 → 2002 → 11007 → 29654 → 29655",5,Active,1343,11.68,27,[],Consumer
+29657,"cocktail glasses","2 → 2002 → 11007 → 29654 → 29657",5,Active,1247,11.68,27,[],Consumer
+29658,"liquor glasses","2 → 2002 → 11007 → 29654 → 29658",5,Active,1319,11.68,27,[],Consumer
+29656,"shot glasses","2 → 2002 → 11007 → 29654 → 29656",5,Active,1084,11.68,27,[],Consumer
+29652,"cappuccino and espresso cups","2 → 2002 → 11007 → 29652",4,Active,1082,11.68,27,[],Consumer
+11201,"everyday glasses","2 → 2002 → 11007 → 11201",4,Active,1087,11.68,27,[],Consumer
+29660,"holiday drinkware","2 → 2002 → 11007 → 29660",4,Active,1398,11.68,27,[],Consumer
+11202,mugs,"2 → 2002 → 11007 → 11202",4,Active,1085,11.68,27,[],Consumer
+29659,"outdoor drinkware","2 → 2002 → 11007 → 29659",4,Active,1083,11.68,27,[],Consumer
+29653,teacups,"2 → 2002 → 11007 → 29653",4,Active,1086,11.68,27,[],Consumer
+11200,"wine glasses","2 → 2002 → 11007 → 11200",4,Active,1184,11.68,27,[],Consumer
+11005,dinnerware,"2 → 2002 → 11005",3,Active,685,10,28,[],Consumer
+11103,"charger plates","2 → 2002 → 11005 → 11103",4,Active,1260,12.35,28,[],Consumer
+29645,"coffee and tea saucers","2 → 2002 → 11005 → 29645",4,Active,1074,12.35,28,[],Consumer
+11102,"dining bowls","2 → 2002 → 11005 → 11102",4,Active,1279,12.35,28,[],Consumer
+11101,"dinner plates","2 → 2002 → 11005 → 11101",4,Active,1266,12.35,28,[],Consumer
+11100,"dinnerware sets","2 → 2002 → 11005 → 11100",4,Active,1167,12.35,28,[],Consumer
+29647,"holiday dinnerware","2 → 2002 → 11005 → 29647",4,Active,1310,12.35,28,[],Consumer
+29646,"salad and dessert plates","2 → 2002 → 11005 → 29646",4,Active,1073,12.35,28,[],Consumer
+29648,"disposable tableware","2 → 2002 → 29648",3,Active,758,10,28,[],Consumer
+29649,"disposable cups","2 → 2002 → 29648 → 29649",4,Active,,0,0,[],Consumer
+29650,"disposable plates and bowls","2 → 2002 → 29648 → 29650",4,Active,,0,0,[],Consumer
+29651,"disposable utensils","2 → 2002 → 29648 → 29651",4,Active,,0,0,[],Consumer
+11006,flatware,"2 → 2002 → 11006",3,Active,711,10,31,[],Consumer
+29661,chopsticks,"2 → 2002 → 11006 → 29661",4,Active,,0,0,[],Consumer
+29666,"flatware and silverware sets","2 → 2002 → 11006 → 29666",4,Active,1198,13.72,31,[],Consumer
+29663,forks,"2 → 2002 → 11006 → 29663",4,Active,1352,13.72,31,[],Consumer
+11302,"serving utensils","2 → 2002 → 11006 → 11302",4,Active,1326,13.72,31,[],Consumer
+29664,spoons,"2 → 2002 → 11006 → 29664",4,Active,1347,13.72,31,[],Consumer
+29662,"table knives","2 → 2002 → 11006 → 29662",4,Active,918,13.72,31,[],Consumer
+11011,serveware,"2 → 2002 → 11011",3,Active,662,10,28,[],Consumer
+29667,"beverage dispensers","2 → 2002 → 11011 → 29667",4,Active,1231,14.64,28,[],Consumer
+29668,"butter dishes","2 → 2002 → 11011 → 29668",4,Active,1340,14.64,28,[],Consumer
+29674,carafes,"2 → 2002 → 11011 → 29674",4,Active,1368,14.64,28,[],Consumer
+29698,"cheese boards and platters","2 → 2002 → 11011 → 29698",4,Active,874,14.64,28,[],Consumer
+29669,"chip and dip sets","2 → 2002 → 11011 → 29669",4,Active,1371,14.64,28,[],Consumer
+29670,"condiment sets","2 → 2002 → 11011 → 29670",4,Active,870,14.64,28,[],Consumer
+29002,"dessert and cake stands","2 → 2002 → 11011 → 29002",4,Active,1264,14.64,28,[],Consumer
+29671,"egg cups","2 → 2002 → 11011 → 29671",4,Active,,0,0,[],Consumer
+29672,"fruit bowls and baskets","2 → 2002 → 11011 → 29672",4,Active,1271,14.64,28,[],Consumer
+29673,"gravy boats","2 → 2002 → 11011 → 29673",4,Active,1372,14.64,28,[],Consumer
+29003,pitchers,"2 → 2002 → 11011 → 29003",4,Active,873,14.64,28,[],Consumer
+29675,"punch bowls","2 → 2002 → 11011 → 29675",4,Active,,0,0,[],Consumer
+11300,"serving and salad bowls","2 → 2002 → 11011 → 11300",4,Active,875,14.64,28,[],Consumer
+11301,"serving dishes and platters","2 → 2002 → 11011 → 11301",4,Active,1268,14.64,28,[],Consumer
+29001,"serving trays","2 → 2002 → 11011 → 29001",4,Active,860,15.01,28,[],Consumer
+29676,"specialty serveware","2 → 2002 → 11011 → 29676",4,Active,1332,14.64,28,[],Consumer
+29004,"sugar bowls and creamers","2 → 2002 → 11011 → 29004",4,Active,872,14.64,28,[],Consumer
+29677,"tea sets","2 → 2002 → 11011 → 29677",4,Active,871,14.64,28,[],Consumer
+29005,teapots,"2 → 2002 → 11011 → 29005",4,Active,1317,14.64,28,[],Consumer
+29678,tureens,"2 → 2002 → 11011 → 29678",4,Active,,0,0,[],Consumer
+29679,"tabletop accessories","2 → 2002 → 29679",3,Active,744,10,28,[],Consumer
+11009,"napkin rings","2 → 2002 → 29679 → 11009",4,Active,917,13.72,28,[],Consumer
+29680,"place card holders","2 → 2002 → 29679 → 29680",4,Active,1365,13.72,28,[],Consumer
+29681,trivets,"2 → 2002 → 29679 → 29681",4,Active,919,13.72,28,[],Consumer
+2012,"window treatments","2 → 2012",2,Active,,0,0,[],Consumer
+21008,"curtain rods","2 → 2012 → 21008",3,Active,1080,11.84,26,[],Consumer
+21001,curtains,"2 → 2012 → 21001",3,Active,845,15.37,25,[],Consumer
+29168,"interior shutters","2 → 2012 → 29168",3,Active,1383,14.66,25,[],Consumer
+29166,valances,"2 → 2012 → 29166",3,Active,1221,14.72,26,[],Consumer
+21002,"window blinds","2 → 2012 → 21002",3,Active,690,10,25,[],Consumer
+21006,"cellular shades","2 → 2012 → 21002 → 21006",4,Active,994,12.7,25,[],Consumer
+21004,"roller shades","2 → 2012 → 21002 → 21004",4,Active,993,12.7,25,[],Consumer
+21007,"roman shades","2 → 2012 → 21002 → 21007",4,Active,992,12.7,25,[],Consumer
+21005,"venetian blinds","2 → 2012 → 21002 → 21005",4,Active,1259,12.7,25,[],Consumer
+21003,"vertical blinds","2 → 2012 → 21002 → 21003",4,Active,,0,0,[],Consumer
+29167,"window film","2 → 2012 → 29167",3,Active,869,14.66,25,[],Consumer
+29169,"window treatment accessories","2 → 2012 → 29169",3,Active,1249,14.66,25,[],Consumer
+2,products,2,1,Active,,0,0,[],Trade
+2007,"baby and kids","2 → 2007",2,Active,,0,0,[],Trade
+29401,"baby and kids tableware","2 → 2007 → 29401",3,Active,389,5,28,[],Trade
+29403,"baby and kids silverware","2 → 2007 → 29401 → 29403",4,Active,,0,0,[],Trade
+29402,"baby cups and dishes","2 → 2007 → 29401 → 29402",4,Active,,0,0,[],Trade
+29404,"baby and kids toys","2 → 2007 → 29404",3,Active,390,5,27,[],Trade
+16006,"baby and toddler toys","2 → 2007 → 29404 → 16006",4,Active,,0,0,[],Trade
+29406,"baby gyms and play mats","2 → 2007 → 29404 → 29406",4,Active,,0,0,[],Trade
+16015,"baby swings and bouncers","2 → 2007 → 29404 → 16015",4,Active,,0,0,[],Trade
+16009,"kids toys and games","2 → 2007 → 29404 → 16009",4,Active,,0,0,[],Trade
+29405,playpens,"2 → 2007 → 29404 → 29405",4,Active,,0,0,[],Trade
+16022,"baby gates and child safety","2 → 2007 → 16022",3,Active,349,5,22,[],Trade
+16012,"kids decor","2 → 2007 → 16012",3,Active,347,5,23,[],Trade
+29407,"growth charts","2 → 2007 → 16012 → 29407",4,Active,,0,0,[],Trade
+29410,"kids clocks","2 → 2007 → 16012 → 29410",4,Active,,0,0,[],Trade
+29411,"kids hampers","2 → 2007 → 16012 → 29411",4,Active,,0,0,[],Trade
+29412,"kids jewelry boxes","2 → 2007 → 16012 → 29412",4,Active,,0,0,[],Trade
+29413,"kids mirrors","2 → 2007 → 16012 → 29413",4,Active,,0,0,[],Trade
+29415,"kids room accessories","2 → 2007 → 16012 → 29415",4,Active,,0,0,[],Trade
+29414,"kids wall decor","2 → 2007 → 16012 → 29414",4,Active,,0,0,[],Trade
+29408,"piggy banks","2 → 2007 → 16012 → 29408",4,Active,,0,0,[],Trade
+29409,"wall letters","2 → 2007 → 16012 → 29409",4,Active,,0,0,[],Trade
+16018,"nursery decor","2 → 2007 → 16018",3,Active,348,5,27,[],Trade
+16020,"baby mobiles","2 → 2007 → 16018 → 16020",4,Active,,0,0,[],Trade
+16003,"diaper pails and stackers","2 → 2007 → 16018 → 16003",4,Active,,0,0,[],Trade
+2003,"bath products","2 → 2003",2,Active,,0,0,[],Trade
+12005,"bathroom accessories","2 → 2003 → 12005",3,Active,338,5,19,[],Trade
+12007,"bath mats","2 → 2003 → 12005 → 12007",4,Active,,0,0,[],Trade
+29175,"bathroom accessory sets","2 → 2003 → 12005 → 29175",4,Active,,0,0,[],Trade
+29416,"bathroom canisters","2 → 2003 → 12005 → 29416",4,Active,,0,0,[],Trade
+29191,"bathroom organizers","2 → 2003 → 12005 → 29191",4,Active,,0,0,[],Trade
+29171,"bathroom safety","2 → 2003 → 12005 → 29171",4,Active,,0,0,[],Trade
+29172,"grab bars","2 → 2003 → 12005 → 29171 → 29172",5,Active,,0,0,[],Trade
+29173,"shower benches & seats","2 → 2003 → 12005 → 29171 → 29173",5,Active,,0,0,[],Trade
+29174,"toilet safety accessories","2 → 2003 → 12005 → 29171 → 29174",5,Active,,0,0,[],Trade
+29176,"bathroom scales","2 → 2003 → 12005 → 29176",4,Active,,0,0,[],Trade
+16021,"kids bathroom accessories","2 → 2003 → 12005 → 16021",4,Active,,0,0,[],Trade
+12016,"shower caddies","2 → 2003 → 12005 → 12016",4,Active,,0,0,[],Trade
+29177,"shower curtain rings","2 → 2003 → 12005 → 29177",4,Active,,0,0,[],Trade
+29178,"shower curtain rods","2 → 2003 → 12005 → 29178",4,Active,,0,0,[],Trade
+12002,"shower curtains","2 → 2003 → 12005 → 12002",4,Active,,0,0,[],Trade
+29179,"soap & lotion dispensers","2 → 2003 → 12005 → 29179",4,Active,,0,0,[],Trade
+29180,"soap dishes & holders","2 → 2003 → 12005 → 29180",4,Active,,0,0,[],Trade
+29181,"tissue box holders","2 → 2003 → 12005 → 29181",4,Active,,0,0,[],Trade
+12006,"toilet accessories","2 → 2003 → 12005 → 12006",4,Active,,0,0,[],Trade
+29182,"toilet brushes & holders","2 → 2003 → 12005 → 12006 → 29182",5,Active,,0,0,[],Trade
+29184,"toilet paper holders","2 → 2003 → 12005 → 12006 → 29184",5,Active,,0,0,[],Trade
+29183,"toilet plungers & holders","2 → 2003 → 12005 → 12006 → 29183",5,Active,,0,0,[],Trade
+29185,"toothbrush holders","2 → 2003 → 12005 → 29185",4,Active,,0,0,[],Trade
+12017,"bathroom cabinets","2 → 2003 → 12017",3,Active,340,5,14,[],Trade
+29551,"bathroom fixture parts","2 → 2003 → 29551",3,Active,397,5,14,[],Trade
+29424,"bathroom sink and faucet parts","2 → 2003 → 29551 → 29424",4,Active,,0,0,[],Trade
+29432,"bidet and toilet parts","2 → 2003 → 29551 → 29432",4,Active,,0,0,[],Trade
+29428,"shower doors","2 → 2003 → 29551 → 29428",4,Active,90,5,13,[],Trade
+29427,"shower pans and bases","2 → 2003 → 29551 → 29427",4,Active,,0,0,[],Trade
+29426,"showerhead parts","2 → 2003 → 29551 → 29426",4,Active,,0,0,[],Trade
+29434,"toilet handles and levers","2 → 2003 → 29551 → 29434",4,Active,,0,0,[],Trade
+29433,"toilet seats","2 → 2003 → 29551 → 29433",4,Active,,0,0,[],Trade
+29665,"tub and shower parts","2 → 2003 → 29551 → 29665",4,Active,,0,0,[],Trade
+29417,"bathroom fixtures","2 → 2003 → 29417",3,Active,,0,0,[],Trade
+12008,"bathroom faucets and showerheads","2 → 2003 → 29417 → 12008",4,Active,,0,0,[],Trade
+29419,"bathroom sink faucets","2 → 2003 → 29417 → 12008 → 29419",5,Active,42,5,24,[],Trade
+29421,"bathtub faucets","2 → 2003 → 29417 → 12008 → 29421",5,Active,88,5,24,[],Trade
+29420,"bidet faucets","2 → 2003 → 29417 → 12008 → 29420",5,Active,,0,0,[],Trade
+29429,"shower panels and columns","2 → 2003 → 29417 → 12008 → 29429",5,Active,,0,0,[],Trade
+12011,"showerheads and body sprays","2 → 2003 → 29417 → 12008 → 12011",5,Active,48,5,24,[],Trade
+29422,"tub and shower faucet sets","2 → 2003 → 29417 → 12008 → 29422",5,Active,89,5,24,[],Trade
+12009,"bathroom sinks","2 → 2003 → 29417 → 12009",4,Active,46,5,16,[],Trade
+12010,bathtubs,"2 → 2003 → 29417 → 12010",4,Active,47,5,12,[],Trade
+29425,bidets,"2 → 2003 → 29417 → 29425",4,Active,,0,0,[],Trade
+29430,"shower stalls and kits","2 → 2003 → 29417 → 29430",4,Active,,0,0,[],Trade
+29431,"steam showers","2 → 2003 → 29417 → 29431",4,Active,,0,0,[],Trade
+12012,toilets,"2 → 2003 → 29417 → 12012",4,Active,,0,0,[],Trade
+29423,urinals,"2 → 2003 → 29417 → 29423",4,Active,,0,0,[],Trade
+29715,"bathroom shelves","2 → 2003 → 29715",3,Active,240,5,27.44,[],Trade
+12014,"bathroom tile","2 → 2003 → 12014",3,Inactive,,0,0,[],Trade
+12013,"bathroom vanities and sink consoles","2 → 2003 → 12013",3,Active,620,5,18,[],Trade
+22009,"medicine cabinets","2 → 2003 → 22009",3,Active,361,5,25,[],Trade
+12003,"towel bars and hooks","2 → 2003 → 12003",3,Active,336,5,20,[],Trade
+29190,"robe & towel hooks","2 → 2003 → 12003 → 29190",4,Active,,0,0,[],Trade
+29188,"towel bars","2 → 2003 → 12003 → 29188",4,Active,,0,0,[],Trade
+29186,"towel racks & stands","2 → 2003 → 12003 → 29186",4,Active,78,5,19,[],Trade
+29189,"towel rings","2 → 2003 → 12003 → 29189",4,Active,,0,0,[],Trade
+29187,"towel warmers","2 → 2003 → 12003 → 29187",4,Active,79,5,19,[],Trade
+12004,towels,"2 → 2003 → 12004",3,Active,337,5,21,[],Trade
+29214,"bath towels","2 → 2003 → 12004 → 29214",4,Active,,0,0,[],Trade
+29215,bathrobes,"2 → 2003 → 12004 → 29215",4,Active,,0,0,[],Trade
+29216,"beach towels","2 → 2003 → 12004 → 29216",4,Active,,0,0,[],Trade
+29217,"kids towels","2 → 2003 → 12004 → 29217",4,Active,,0,0,[],Trade
+12018,"vanity stools and benches","2 → 2003 → 12018",3,Active,341,5,28,[],Trade
+12015,"vanity tops and side splashes","2 → 2003 → 12015",3,Active,339,5,38,[],Trade
+2006,"bedroom products","2 → 2006",2,Active,,0,0,[],Trade
+15002,bedding,"2 → 2006 → 15002",3,Active,346,5,27,[],Trade
+16005,"baby bedding","2 → 2006 → 15002 → 16005",4,Active,,0,0,[],Trade
+29704,"baby blankets","2 → 2006 → 15002 → 16005 → 29704",5,Active,,0,0,[],Trade
+29705,"baby quilts","2 → 2006 → 15002 → 16005 → 29705",5,Active,,0,0,[],Trade
+29707,"crib accessories","2 → 2006 → 15002 → 16005 → 29707",5,Active,,0,0,[],Trade
+29706,"crib bedding sets","2 → 2006 → 15002 → 16005 → 29706",5,Active,,0,0,[],Trade
+29708,"crib mattress pads & protectors","2 → 2006 → 15002 → 16005 → 29708",5,Active,,0,0,[],Trade
+29703,"fitted crib sheets","2 → 2006 → 15002 → 16005 → 29703",5,Active,,0,0,[],Trade
+29436,"bed accessories","2 → 2006 → 15002 → 29436",4,Active,,0,0,[],Trade
+15006,"bed pillows","2 → 2006 → 15002 → 15006",4,Active,,0,0,[],Trade
+15007,bedskirts,"2 → 2006 → 15002 → 15007",4,Active,,0,0,[],Trade
+29269,blankets,"2 → 2006 → 15002 → 29269",4,Active,,0,0,[],Trade
+29274,"comforters and comforter sets","2 → 2006 → 15002 → 29274",4,Active,85,5,27,[],Trade
+15003,"duvet covers and duvet sets","2 → 2006 → 15002 → 15003",4,Active,58,5,27,[],Trade
+29270,"duvet inserts","2 → 2006 → 15002 → 29270",4,Active,,0,0,[],Trade
+16008,"kids bedding","2 → 2006 → 15002 → 16008",4,Active,,0,0,[],Trade
+29709,"kids bedding sets","2 → 2006 → 15002 → 16008 → 29709",5,Active,,0,0,[],Trade
+29711,"kids blankets & quilts","2 → 2006 → 15002 → 16008 → 29711",5,Active,,0,0,[],Trade
+29714,"kids comforters","2 → 2006 → 15002 → 16008 → 29714",5,Active,,0,0,[],Trade
+29713,"kids pillowcases & shams","2 → 2006 → 15002 → 16008 → 29713",5,Active,,0,0,[],Trade
+29710,"kids pillows","2 → 2006 → 15002 → 16008 → 29710",5,Active,,0,0,[],Trade
+29712,"kids sheets","2 → 2006 → 15002 → 16008 → 29712",5,Active,,0,0,[],Trade
+29272,"mattress protectors and covers","2 → 2006 → 15002 → 29272",4,Active,,0,0,[],Trade
+29271,"mattress toppers and pads","2 → 2006 → 15002 → 29271",4,Active,,0,0,[],Trade
+29273,"pillow protectors","2 → 2006 → 15002 → 29273",4,Active,,0,0,[],Trade
+15014,"pillowcases and shams","2 → 2006 → 15002 → 15014",4,Active,,0,0,[],Trade
+15004,"quilts and quilt sets","2 → 2006 → 15002 → 15004",4,Active,,0,0,[],Trade
+15005,sheets,"2 → 2006 → 15002 → 15005",4,Active,,0,0,[],Trade
+29275,"fitted sheets","2 → 2006 → 15002 → 15005 → 29275",5,Active,,0,0,[],Trade
+29276,"flat sheets","2 → 2006 → 15002 → 15005 → 29276",5,Active,,0,0,[],Trade
+29277,"sheet and pillowcase sets","2 → 2006 → 15002 → 15005 → 29277",5,Active,,0,0,[],Trade
+29435,"toddler bedding","2 → 2006 → 15002 → 29435",4,Active,,0,0,[],Trade
+2017,fabric,"2 → 2017",2,Active,,0,0,[],Trade
+29122,"drapery fabric","2 → 2017 → 29122",3,Active,,0,0,[],Trade
+29123,"fabric trim","2 → 2017 → 29123",3,Active,,0,0,[],Trade
+26002,"outdoor fabric","2 → 2017 → 26002",3,Active,,0,0,[],Trade
+26001,"upholstery fabric","2 → 2017 → 26001",3,Active,,0,0,[],Trade
+2005,furniture,"2 → 2005",2,Active,,0,0,[],Trade
+29278,"assistive furniture","2 → 2005 → 29278",3,Active,,0,0,[],Trade
+29283,"adjustable beds","2 → 2005 → 29278 → 29283",4,Active,,0,0,[],Trade
+29284,"lift chairs","2 → 2005 → 29278 → 29284",4,Active,,0,0,[],Trade
+29279,"bedroom furniture","2 → 2005 → 29279",3,Active,,0,0,[],Trade
+29285,"armoires and wardrobes","2 → 2005 → 29279 → 29285",4,Active,,0,0,[],Trade
+29286,"bed frames","2 → 2005 → 29279 → 29286",4,Active,,0,0,[],Trade
+29219,"bedroom & makeup vanities","2 → 2005 → 29279 → 29219",4,Active,,0,0,[],Trade
+29287,"bedroom furniture sets","2 → 2005 → 29279 → 29287",4,Active,86,5,23,[],Trade
+15008,beds,"2 → 2005 → 29279 → 15008",4,Active,,0,0,[],Trade
+29290,"bunk beds","2 → 2005 → 29279 → 15008 → 29290",5,Active,,0,0,[],Trade
+29291,"canopy beds","2 → 2005 → 29279 → 15008 → 29291",5,Active,,0,0,[],Trade
+29292,daybeds,"2 → 2005 → 29279 → 15008 → 29292",5,Active,,0,0,[],Trade
+29296,"folding beds","2 → 2005 → 29279 → 15008 → 29296",5,Active,,0,0,[],Trade
+29293,"loft beds","2 → 2005 → 29279 → 15008 → 29293",5,Active,,0,0,[],Trade
+29294,"murphy beds","2 → 2005 → 29279 → 15008 → 29294",5,Active,,0,0,[],Trade
+29418,"panel beds","2 → 2005 → 29279 → 15008 → 29418",5,Active,,0,0,[],Trade
+29295,"platform beds","2 → 2005 → 29279 → 15008 → 29295",5,Active,,0,0,[],Trade
+29297,"sleigh beds","2 → 2005 → 29279 → 15008 → 29297",5,Active,,0,0,[],Trade
+29288,"blanket and quilt racks","2 → 2005 → 29279 → 29288",4,Active,,0,0,[],Trade
+15012,dressers,"2 → 2005 → 29279 → 15012",4,Active,,0,0,[],Trade
+15010,headboards,"2 → 2005 → 29279 → 15010",4,Active,60,5,16,[],Trade
+29289,"jewelry armoires","2 → 2005 → 29279 → 29289",4,Active,,0,0,[],Trade
+15015,mattresses,"2 → 2005 → 29279 → 15015",4,Active,61,5,16,[],Trade
+15011,"nightstands and bedside tables","2 → 2005 → 29279 → 15011",4,Active,,0,0,[],Trade
+14023,bookcases,"2 → 2005 → 14023",3,Active,,0,0,[],Trade
+14014,"dining chairs and benches","2 → 2005 → 14014",3,Inactive,,0,0,[],Trade
+29280,"futons and accessories","2 → 2005 → 29280",3,Active,,0,0,[],Trade
+29298,"futon covers","2 → 2005 → 29280 → 29298",4,Active,,0,0,[],Trade
+29299,"futon frames","2 → 2005 → 29280 → 29299",4,Active,,0,0,[],Trade
+29300,"futon mattresses","2 → 2005 → 29280 → 29300",4,Active,,0,0,[],Trade
+15013,futons,"2 → 2005 → 29280 → 15013",4,Active,,0,0,[],Trade
+29281,"game room and bar furniture","2 → 2005 → 29281",3,Active,,0,0,[],Trade
+29301,"bean bag chairs","2 → 2005 → 29281 → 29301",4,Active,,0,0,[],Trade
+29170,"game table accessories","2 → 2005 → 29281 → 29170",4,Active,,0,0,[],Trade
+21901,"game tables","2 → 2005 → 29281 → 21901",4,Active,,0,0,[],Trade
+29302,"gaming chairs","2 → 2005 → 29281 → 29302",4,Active,,0,0,[],Trade
+14025,"indoor pub and bistro sets","2 → 2005 → 29281 → 14025",4,Active,,0,0,[],Trade
+14011,"indoor pub and bistro tables","2 → 2005 → 29281 → 14011",4,Active,,0,0,[],Trade
+29303,"theater seating","2 → 2005 → 29281 → 29303",4,Active,,0,0,[],Trade
+29304,"wine and bar cabinets","2 → 2005 → 29281 → 29304",4,Active,,0,0,[],Trade
+29282,"home office furniture","2 → 2005 → 29282",3,Active,,0,0,[],Trade
+17001,"desks and hutches","2 → 2005 → 29282 → 17001",4,Active,,0,0,[],Trade
+29305,"drafting tables","2 → 2005 → 29282 → 29305",4,Active,,0,0,[],Trade
+17005,"filing cabinets","2 → 2005 → 29282 → 17005",4,Active,,0,0,[],Trade
+14024,"office carts and stands","2 → 2005 → 29282 → 14024",4,Active,,0,0,[],Trade
+17002,"office chairs","2 → 2005 → 29282 → 17002",4,Active,,0,0,[],Trade
+14009,"indoor benches","2 → 2005 → 14009",3,Active,,0,0,[],Trade
+29437,"accent and storage benches","2 → 2005 → 14009 → 29437",4,Active,91,5,16,[],Trade
+22014,"hall trees","2 → 2005 → 14009 → 22014",4,Active,,0,0,[],Trade
+15009,"upholstered benches","2 → 2005 → 14009 → 15009",4,Active,59,5,17,[],Trade
+29438,"kids furniture","2 → 2005 → 29438",3,Active,,0,0,[],Trade
+29441,"kids bedroom furniture sets","2 → 2005 → 29438 → 29441",4,Active,,0,0,[],Trade
+29442,"kids bedroom vanities","2 → 2005 → 29438 → 29442",4,Active,,0,0,[],Trade
+16004,"kids beds","2 → 2005 → 29438 → 16004",4,Active,,0,0,[],Trade
+29439,"kids bookcases","2 → 2005 → 29438 → 29439",4,Active,,0,0,[],Trade
+16011,"kids chairs","2 → 2005 → 29438 → 16011",4,Active,,0,0,[],Trade
+29440,"kids desks and desk sets","2 → 2005 → 29438 → 29440",4,Active,,0,0,[],Trade
+16019,"kids dressers and armoires","2 → 2005 → 29438 → 16019",4,Active,,0,0,[],Trade
+29445,"kids nightstands","2 → 2005 → 29438 → 29445",4,Active,,0,0,[],Trade
+29443,"kids sofas","2 → 2005 → 29438 → 29443",4,Active,,0,0,[],Trade
+29444,"kids step stools and stools","2 → 2005 → 29438 → 29444",4,Active,,0,0,[],Trade
+29446,"kids storage benches and toy boxes","2 → 2005 → 29438 → 29446",4,Active,,0,0,[],Trade
+16010,"kids tables and chairs","2 → 2005 → 29438 → 16010",4,Active,,0,0,[],Trade
+16016,"toy organizers","2 → 2005 → 29438 → 16016",4,Active,,0,0,[],Trade
+29447,"kitchen and dining furniture","2 → 2005 → 29447",3,Active,,0,0,[],Trade
+29448,"baker's racks","2 → 2005 → 29447 → 29448",4,Active,,0,0,[],Trade
+14012,"bar carts","2 → 2005 → 29447 → 14012",4,Active,,0,0,[],Trade
+10002,"bar stools and counter stools","2 → 2005 → 29447 → 10002",4,Active,32,5,17,[],Trade
+14016,"buffets and sideboards","2 → 2005 → 29447 → 14016",4,Active,56,5,16,[],Trade
+29449,"china cabinets and hutches","2 → 2005 → 29447 → 29449",4,Active,,0,0,[],Trade
+14022,"dining benches","2 → 2005 → 29447 → 14022",4,Active,,0,0,[],Trade
+14021,"dining chairs","2 → 2005 → 29447 → 14021",4,Active,33,5,17,[],Trade
+14020,"dining sets","2 → 2005 → 29447 → 14020",4,Active,57,5,16,[],Trade
+14013,"dining tables","2 → 2005 → 29447 → 14013",4,Active,35,5,17,[],Trade
+29452,"folding chairs and stools","2 → 2005 → 29447 → 29452",4,Active,92,5,16,[],Trade
+29450,"folding tables","2 → 2005 → 29447 → 29450",4,Active,,0,0,[],Trade
+10032,"kitchen islands and kitchen carts","2 → 2005 → 29447 → 10032",4,Active,,0,0,[],Trade
+10022,"pantry cabinets","2 → 2005 → 29447 → 10022",4,Active,,0,0,[],Trade
+29451,"table tops and bases","2 → 2005 → 29447 → 29451",4,Active,,0,0,[],Trade
+29453,"living room furniture","2 → 2005 → 29453",3,Active,,0,0,[],Trade
+29454,"accent chests and cabinets","2 → 2005 → 29453 → 29454",4,Active,93,5,16,[],Trade
+29457,"coffee and accent tables","2 → 2005 → 29453 → 29457",4,Active,,0,0,[],Trade
+29458,"coffee table sets","2 → 2005 → 29453 → 29457 → 29458",5,Active,94,5,16,[],Trade
+14006,"coffee tables","2 → 2005 → 29453 → 29457 → 14006",5,Active,55,5,16,[],Trade
+14027,"console tables","2 → 2005 → 29453 → 29457 → 14027",5,Active,,0,0,[],Trade
+29459,"plant stands and telephone tables","2 → 2005 → 29453 → 29457 → 29459",5,Active,,0,0,[],Trade
+14007,"side tables and end tables","2 → 2005 → 29453 → 29457 → 14007",5,Active,36,5,18,[],Trade
+29460,"tv trays","2 → 2005 → 29453 → 29457 → 29460",5,Active,,0,0,[],Trade
+14005,"footstools and ottomans","2 → 2005 → 29453 → 14005",4,Active,54,5,16,[],Trade
+14008,"living room chairs","2 → 2005 → 29453 → 14008",4,Active,,0,0,[],Trade
+14003,"armchairs and accent chairs","2 → 2005 → 29453 → 14008 → 14003",5,Active,52,5,16,[],Trade
+16014,gliders,"2 → 2005 → 29453 → 14008 → 16014",5,Active,,0,0,[],Trade
+29463,"hanging chairs","2 → 2005 → 29453 → 14008 → 29463",5,Active,,0,0,[],Trade
+14004,"indoor chaise lounge chairs","2 → 2005 → 29453 → 14008 → 14004",5,Active,53,5,16,[],Trade
+29464,"massage chairs","2 → 2005 → 29453 → 14008 → 29464",5,Active,,0,0,[],Trade
+29686,"recliner chairs","2 → 2005 → 29453 → 14008 → 29686",5,Active,104,5,16,[],Trade
+14018,"rocking chairs","2 → 2005 → 29453 → 14008 → 14018",5,Active,,0,0,[],Trade
+29462,"sleeper chairs","2 → 2005 → 29453 → 14008 → 29462",5,Active,,0,0,[],Trade
+29461,"living room furniture sets","2 → 2005 → 29453 → 29461",4,Active,,0,0,[],Trade
+29455,"sofas and sectionals","2 → 2005 → 29453 → 29455",4,Active,,0,0,[],Trade
+14002,loveseats,"2 → 2005 → 29453 → 29455 → 14002",5,Active,51,5,16,[],Trade
+14001,"sectional sofas","2 → 2005 → 29453 → 29455 → 14001",5,Active,,0,0,[],Trade
+29456,"sleeper sofas","2 → 2005 → 29453 → 29455 → 29456",5,Active,,0,0,[],Trade
+14010,sofas,"2 → 2005 → 29453 → 29455 → 14010",5,Active,,0,0,[],Trade
+22008,"media storage","2 → 2005 → 22008",3,Active,,0,0,[],Trade
+29306,"entertainment centers and tv stands","2 → 2005 → 22008 → 29306",4,Active,37,5,17,[],Trade
+29308,"media cabinets","2 → 2005 → 22008 → 29308",4,Active,,0,0,[],Trade
+29307,"media racks and towers","2 → 2005 → 22008 → 29307",4,Active,,0,0,[],Trade
+29465,"nursery furniture","2 → 2005 → 29465",3,Active,,0,0,[],Trade
+29467,"bed rails","2 → 2005 → 29465 → 29467",4,Active,,0,0,[],Trade
+29466,"changing table pads and covers","2 → 2005 → 29465 → 29466",4,Active,,0,0,[],Trade
+16002,"changing tables","2 → 2005 → 29465 → 16002",4,Active,,0,0,[],Trade
+29469,"cradles and bassinets","2 → 2005 → 29465 → 29469",4,Active,,0,0,[],Trade
+29470,"crib mattresses","2 → 2005 → 29465 → 29470",4,Active,,0,0,[],Trade
+16001,cribs,"2 → 2005 → 29465 → 16001",4,Active,,0,0,[],Trade
+16007,"high chairs and booster seats","2 → 2005 → 29465 → 16007",4,Active,,0,0,[],Trade
+29468,"nursery furniture sets","2 → 2005 → 29465 → 29468",4,Active,,0,0,[],Trade
+29471,"toddler beds","2 → 2005 → 29465 → 29471",4,Active,,0,0,[],Trade
+29716,"gift cards","2 → 29716",2,Active,,0,0,[],Trade
+2004,"home decor","2 → 2004",2,Active,,0,0,[],Trade
+13019,artwork,"2 → 2004 → 13019",3,Active,,0,0,[],Trade
+29161,"drawings and illustrations","2 → 2004 → 13019 → 29161",4,Active,,0,0,[],Trade
+29165,"fine art prints","2 → 2004 → 13019 → 29165",4,Active,,0,0,[],Trade
+29162,"mixed media art","2 → 2004 → 13019 → 29162",4,Active,,0,0,[],Trade
+13028,paintings,"2 → 2004 → 13019 → 13028",4,Active,,0,0,[],Trade
+29163,photographs,"2 → 2004 → 13019 → 29163",4,Active,,0,0,[],Trade
+13031,sculptures,"2 → 2004 → 13019 → 13031",4,Active,,0,0,[],Trade
+13002,clocks,"2 → 2004 → 13002",3,Active,,0,0,[],Trade
+29106,"alarm clocks","2 → 2004 → 13002 → 29106",4,Active,,0,0,[],Trade
+29107,"cuckoo clocks","2 → 2004 → 13002 → 29107",4,Active,,0,0,[],Trade
+29108,"desk and mantel clocks","2 → 2004 → 13002 → 29108",4,Active,,0,0,[],Trade
+29109,"floor and grandfather clocks","2 → 2004 → 13002 → 29109",4,Active,,0,0,[],Trade
+29111,"outdoor clocks","2 → 2004 → 13002 → 29111",4,Active,,0,0,[],Trade
+29110,"wall clocks","2 → 2004 → 13002 → 29110",4,Active,,0,0,[],Trade
+29112,"decorative accents","2 → 2004 → 29112",3,Active,,0,0,[],Trade
+13030,"artificial flowers plants and trees","2 → 2004 → 29112 → 13030",4,Active,,0,0,[],Trade
+29133,"artificial flower arrangements","2 → 2004 → 29112 → 13030 → 29133",5,Active,,0,0,[],Trade
+29134,"artificial plants and trees","2 → 2004 → 29112 → 13030 → 29134",5,Active,,0,0,[],Trade
+22012,baskets,"2 → 2004 → 29112 → 22012",4,Active,,0,0,[],Trade
+29115,bookends,"2 → 2004 → 29112 → 29115",4,Active,,0,0,[],Trade
+13016,books,"2 → 2004 → 29112 → 13016",4,Active,,0,0,[],Trade
+13001,"candles and candleholders","2 → 2004 → 29112 → 13001",4,Active,,0,0,[],Trade
+29128,candleholders,"2 → 2004 → 29112 → 13001 → 29128",5,Active,,0,0,[],Trade
+29127,candles,"2 → 2004 → 29112 → 13001 → 29127",5,Active,,0,0,[],Trade
+29130,"decorative bowls","2 → 2004 → 29112 → 29130",4,Active,,0,0,[],Trade
+29129,"decorative boxes","2 → 2004 → 29112 → 29129",4,Active,,0,0,[],Trade
+29691,"decorative jars and urns","2 → 2004 → 29112 → 29691",4,Active,,0,0,[],Trade
+29218,"decorative objects and figurines","2 → 2004 → 29112 → 29218",4,Active,80,5,20,[],Trade
+13010,"decorative pillows","2 → 2004 → 29112 → 13010",4,Active,49,5,24,[],Trade
+29131,"decorative plates","2 → 2004 → 29112 → 29131",4,Active,,0,0,[],Trade
+29113,"decorative trunks","2 → 2004 → 29112 → 29113",4,Active,,0,0,[],Trade
+29118,"floor pillows and poufs","2 → 2004 → 29112 → 29118",4,Active,,0,0,[],Trade
+13018,"home fragrances","2 → 2004 → 29112 → 13018",4,Active,,0,0,[],Trade
+13004,"indoor fountains","2 → 2004 → 29112 → 13004",4,Active,,0,0,[],Trade
+13011,"indoor pots and planters","2 → 2004 → 29112 → 13011",4,Active,,0,0,[],Trade
+29116,"jewelry boxes and organizers","2 → 2004 → 29112 → 29116",4,Active,,0,0,[],Trade
+29117,"photo albums","2 → 2004 → 29112 → 29117",4,Active,,0,0,[],Trade
+13005,"picture frames","2 → 2004 → 29112 → 13005",4,Active,,0,0,[],Trade
+13024,plants,"2 → 2004 → 29112 → 13024",4,Active,,0,0,[],Trade
+29132,"plate stands and hangers","2 → 2004 → 29112 → 29132",4,Active,,0,0,[],Trade
+13023,"screens and room dividers","2 → 2004 → 29112 → 13023",4,Active,50,5,20,[],Trade
+29119,"stained glass panels","2 → 2004 → 29112 → 29119",4,Active,,0,0,[],Trade
+29136,telescopes,"2 → 2004 → 29112 → 29136",4,Active,,0,0,[],Trade
+29135,terrariums,"2 → 2004 → 29112 → 29135",4,Active,,0,0,[],Trade
+13013,throws,"2 → 2004 → 29112 → 13013",4,Active,,0,0,[],Trade
+13014,vases,"2 → 2004 → 29112 → 13014",4,Active,,0,0,[],Trade
+29137,"world globes","2 → 2004 → 29112 → 29137",4,Active,,0,0,[],Trade
+29121,"game room and bar decor","2 → 2004 → 29121",3,Active,,0,0,[],Trade
+29126,"game room wall art and signs","2 → 2004 → 29121 → 29126",4,Active,,0,0,[],Trade
+29125,"sports and game room memorabilia","2 → 2004 → 29121 → 29125",4,Active,,0,0,[],Trade
+13006,"holiday decorations","2 → 2004 → 13006",3,Active,,0,0,[],Trade
+29151,"christmas decorations","2 → 2004 → 13006 → 29151",4,Active,,0,0,[],Trade
+29152,"christmas ornaments","2 → 2004 → 13006 → 29151 → 29152",5,Active,,0,0,[],Trade
+29153,"christmas stockings and holders","2 → 2004 → 13006 → 29151 → 29153",5,Active,,0,0,[],Trade
+29154,"christmas tree skirts","2 → 2004 → 13006 → 29151 → 29154",5,Active,,0,0,[],Trade
+29155,"christmas tree stands and care","2 → 2004 → 13006 → 29151 → 29155",5,Active,,0,0,[],Trade
+29156,"christmas trees","2 → 2004 → 13006 → 29151 → 29156",5,Active,,0,0,[],Trade
+29157,"holiday accents and figurines","2 → 2004 → 13006 → 29157",4,Active,,0,0,[],Trade
+29158,"holiday lighting","2 → 2004 → 13006 → 29158",4,Active,,0,0,[],Trade
+29159,"wreaths and garlands","2 → 2004 → 13006 → 29159",4,Active,,0,0,[],Trade
+13007,mirrors,"2 → 2004 → 13007",3,Active,,0,0,[],Trade
+12001,"bathroom mirrors","2 → 2004 → 13007 → 12001",4,Active,45,5,23,[],Trade
+29400,"floor mirrors","2 → 2004 → 13007 → 29400",4,Active,,0,0,[],Trade
+15001,"makeup mirrors","2 → 2004 → 13007 → 15001",4,Active,,0,0,[],Trade
+29399,"wall mirrors","2 → 2004 → 13007 → 29399",4,Active,87,5,23,[],Trade
+13012,rugs,"2 → 2004 → 13012",3,Active,,0,0,[],Trade
+29147,"area rugs","2 → 2004 → 13012 → 29147",4,Active,76,5,12,[],Trade
+23027,doormats,"2 → 2004 → 13012 → 23027",4,Active,,0,0,[],Trade
+29148,"hall and stair runners","2 → 2004 → 13012 → 29148",4,Active,77,5,12,[],Trade
+16017,"kids rugs","2 → 2004 → 13012 → 16017",4,Active,,0,0,[],Trade
+29717,"kitchen mats","2 → 2004 → 13012 → 29717",4,Active,,0,0,[],Trade
+29150,"novelty rugs","2 → 2004 → 13012 → 29150",4,Active,,0,0,[],Trade
+23025,"outdoor rugs","2 → 2004 → 13012 → 23025",4,Active,,0,0,[],Trade
+29194,"rug pads","2 → 2004 → 13012 → 29194",4,Active,,0,0,[],Trade
+29149,"stair tread rugs","2 → 2004 → 13012 → 29149",4,Active,,0,0,[],Trade
+14015,"seat cushions","2 → 2004 → 14015",3,Active,,0,0,[],Trade
+29120,"slipcovers and chair covers","2 → 2004 → 29120",3,Active,,0,0,[],Trade
+29220,"wall decor","2 → 2004 → 29220",3,Active,,0,0,[],Trade
+29690,"metal wall art","2 → 2004 → 29220 → 29690",4,Active,,0,0,[],Trade
+29160,"novelty signs","2 → 2004 → 29220 → 29160",4,Active,,0,0,[],Trade
+13029,"prints and posters","2 → 2004 → 29220 → 13029",4,Active,,0,0,[],Trade
+29164,tapestries,"2 → 2004 → 29220 → 29164",4,Active,,0,0,[],Trade
+29689,"wall accents","2 → 2004 → 29220 → 29689",4,Active,105,5,22,[],Trade
+13022,"wall decals","2 → 2004 → 29220 → 13022",4,Active,,0,0,[],Trade
+29589,"wall sculptures","2 → 2004 → 29220 → 29589",4,Active,,0,0,[],Trade
+13020,"home electronics","2 → 13020",2,Active,,0,0,[],Trade
+2015,"home improvement","2 → 2015",2,Active,,0,0,[],Trade
+29495,"building materials","2 → 2015 → 29495",3,Active,391,5,20,[],Trade
+29684,"bricks and masonry","2 → 2015 → 29495 → 29684",4,Active,,0,0,[],Trade
+10011,"kitchen countertops","2 → 2015 → 29495 → 10011",4,Active,,0,0,[],Trade
+11500,"molding and millwork","2 → 2015 → 29495 → 11500",4,Active,,0,0,[],Trade
+11504,"columns and capitals","2 → 2015 → 29495 → 11500 → 11504",5,Active,,0,0,[],Trade
+11501,corbels,"2 → 2015 → 29495 → 11500 → 11501",5,Active,,0,0,[],Trade
+11502,"molding and trim","2 → 2015 → 29495 → 11500 → 11502",5,Active,44,5,28,[],Trade
+11503,"onlays and appliques","2 → 2015 → 29495 → 11500 → 11503",5,Active,,0,0,[],Trade
+29499,"roofing and gutters","2 → 2015 → 29495 → 29499",4,Active,,0,0,[],Trade
+29496,"siding and stone veneer","2 → 2015 → 29495 → 29496",4,Active,,0,0,[],Trade
+29500,"stair parts","2 → 2015 → 29495 → 29500",4,Active,,0,0,[],Trade
+29501,"wall panels","2 → 2015 → 29495 → 29501",4,Active,,0,0,[],Trade
+2016,"windows and doors","2 → 2015 → 29495 → 2016",4,Active,,0,0,[],Trade
+29498,"exterior shutters","2 → 2015 → 29495 → 2016 → 29498",5,Active,,0,0,[],Trade
+25002,"front doors","2 → 2015 → 29495 → 2016 → 25002",5,Active,,0,0,[],Trade
+25001,"garage doors and openers","2 → 2015 → 29495 → 2016 → 25001",5,Active,,0,0,[],Trade
+25003,"interior doors","2 → 2015 → 29495 → 2016 → 25003",5,Active,75,5,24,[],Trade
+29497,"patio doors","2 → 2015 → 29495 → 2016 → 29497",5,Active,,0,0,[],Trade
+25004,"screen doors","2 → 2015 → 29495 → 2016 → 25004",5,Active,,0,0,[],Trade
+25005,skylights,"2 → 2015 → 29495 → 2016 → 25005",5,Active,,0,0,[],Trade
+25006,windows,"2 → 2015 → 29495 → 2016 → 25006",5,Active,,0,0,[],Trade
+29502,"electrical supplies","2 → 2015 → 29502",3,Active,392,5,24,[],Trade
+29503,"extension cords and power strips","2 → 2015 → 29502 → 29503",4,Active,,0,0,[],Trade
+24004,"switch plates and outlet covers","2 → 2015 → 29502 → 24004",4,Active,,0,0,[],Trade
+29504,"switches and outlets","2 → 2015 → 29502 → 29504",4,Active,100,5,28,[],Trade
+2010,flooring,"2 → 2015 → 2010",3,Active,321,5,13,[],Trade
+29491,"bamboo flooring","2 → 2015 → 2010 → 29491",4,Active,,0,0,[],Trade
+19003,"carpet tiles","2 → 2015 → 2010 → 19003",4,Active,,0,0,[],Trade
+29492,"cork flooring","2 → 2015 → 2010 → 29492",4,Active,99,5,13,[],Trade
+29493,"engineered wood flooring","2 → 2015 → 2010 → 29493",4,Active,,0,0,[],Trade
+29494,"floor medallions and inlays","2 → 2015 → 2010 → 29494",4,Active,,0,0,[],Trade
+19001,"hardwood flooring","2 → 2015 → 2010 → 19001",4,Active,,0,0,[],Trade
+19002,"laminate flooring","2 → 2015 → 2010 → 19002",4,Active,,0,0,[],Trade
+19005,"vinyl flooring","2 → 2015 → 2010 → 19005",4,Active,,0,0,[],Trade
+29509,hardware,"2 → 2015 → 29509",3,Active,393,5,10,[],Trade
+24005,brackets,"2 → 2015 → 29509 → 24005",4,Active,,0,0,[],Trade
+29510,"cabinet and drawer hardware","2 → 2015 → 29509 → 29510",4,Active,,0,0,[],Trade
+24003,"cabinet and drawer handle pulls","2 → 2015 → 29509 → 29510 → 24003",5,Active,,0,0,[],Trade
+24002,"cabinet and drawer knobs","2 → 2015 → 29509 → 29510 → 24002",5,Active,,0,0,[],Trade
+24001,"door hardware","2 → 2015 → 29509 → 24001",4,Active,,0,0,[],Trade
+29518,"barn door hardware","2 → 2015 → 29509 → 24001 → 29518",5,Active,,0,0,[],Trade
+29512,"door entry sets","2 → 2015 → 29509 → 24001 → 29512",5,Active,,0,0,[],Trade
+29515,"door knockers","2 → 2015 → 29509 → 24001 → 29515",5,Active,,0,0,[],Trade
+29513,"door levers","2 → 2015 → 29509 → 24001 → 29513",5,Active,,0,0,[],Trade
+29516,"door locks","2 → 2015 → 29509 → 24001 → 29516",5,Active,,0,0,[],Trade
+29517,"door stops","2 → 2015 → 29509 → 24001 → 29517",5,Active,,0,0,[],Trade
+29511,"doorbells and chimes","2 → 2015 → 29509 → 24001 → 29511",5,Active,,0,0,[],Trade
+29514,doorknobs,"2 → 2015 → 29509 → 24001 → 29514",5,Active,,0,0,[],Trade
+29519,"pocket door hardware","2 → 2015 → 29509 → 24001 → 29519",5,Active,,0,0,[],Trade
+29520,hinges,"2 → 2015 → 29509 → 29520",4,Active,,0,0,[],Trade
+29521,"nails screws and fasteners","2 → 2015 → 29509 → 29521",4,Active,,0,0,[],Trade
+29522,"window hardware and parts","2 → 2015 → 29509 → 29522",4,Active,,0,0,[],Trade
+28000,"heating and cooling","2 → 2015 → 28000",3,Active,375,5,17,[],Trade
+29529,"air conditioner accessories","2 → 2015 → 28000 → 29529",4,Active,,0,0,[],Trade
+28002,"air conditioners","2 → 2015 → 28000 → 28002",4,Active,,0,0,[],Trade
+29530,"bathroom exhaust fans","2 → 2015 → 28000 → 29530",4,Active,,0,0,[],Trade
+28004,"electric fans","2 → 2015 → 28000 → 28004",4,Active,,0,0,[],Trade
+13003,"fireplace accessories","2 → 2015 → 28000 → 13003",4,Active,,0,0,[],Trade
+29525,"fire starters and fuel","2 → 2015 → 28000 → 13003 → 29525",5,Active,,0,0,[],Trade
+29524,"fireplace grates and andirons","2 → 2015 → 28000 → 13003 → 29524",5,Active,,0,0,[],Trade
+13032,"fireplace mantels","2 → 2015 → 28000 → 13003 → 13032",5,Active,,0,0,[],Trade
+29526,"fireplace screens","2 → 2015 → 28000 → 13003 → 29526",5,Active,,0,0,[],Trade
+29523,"fireplace tools","2 → 2015 → 28000 → 13003 → 29523",5,Active,,0,0,[],Trade
+29528,"freestanding stoves","2 → 2015 → 28000 → 29528",4,Active,,0,0,[],Trade
+28003,"humidifiers and purifiers","2 → 2015 → 28000 → 28003",4,Active,,0,0,[],Trade
+29535,"air purifiers","2 → 2015 → 28000 → 28003 → 29535",5,Active,,0,0,[],Trade
+29536,dehumidifiers,"2 → 2015 → 28000 → 28003 → 29536",5,Active,,0,0,[],Trade
+29537,humidifiers,"2 → 2015 → 28000 → 28003 → 29537",5,Active,,0,0,[],Trade
+13027,"indoor fireplaces","2 → 2015 → 28000 → 13027",4,Active,,0,0,[],Trade
+29531,"patio heaters","2 → 2015 → 28000 → 29531",4,Active,,0,0,[],Trade
+29532,radiators,"2 → 2015 → 28000 → 29532",4,Active,,0,0,[],Trade
+29533,"registers grilles and vents","2 → 2015 → 28000 → 29533",4,Active,,0,0,[],Trade
+28001,"space heaters","2 → 2015 → 28000 → 28001",4,Active,,0,0,[],Trade
+29527,"tabletop fireplaces","2 → 2015 → 28000 → 29527",4,Active,,0,0,[],Trade
+29534,thermostats,"2 → 2015 → 28000 → 29534",4,Active,,0,0,[],Trade
+29541,"home safety and security","2 → 2015 → 29541",3,Active,394,5,22,[],Trade
+29547,"carbon monoxide and smoke detectors","2 → 2015 → 29541 → 29547",4,Active,,0,0,[],Trade
+29542,"emergency and first aid kits","2 → 2015 → 29541 → 29542",4,Active,,0,0,[],Trade
+29544,"fire protection","2 → 2015 → 29541 → 29544",4,Active,,0,0,[],Trade
+29543,flashlights,"2 → 2015 → 29541 → 29543",4,Active,,0,0,[],Trade
+29545,"home security and surveillance","2 → 2015 → 29541 → 29545",4,Active,,0,0,[],Trade
+29546,safes,"2 → 2015 → 29541 → 29546",4,Active,,0,0,[],Trade
+13026,"paint and wall covering supplies","2 → 2015 → 13026",3,Active,344,5,23,[],Trade
+29538,paint,"2 → 2015 → 13026 → 29538",4,Active,,0,0,[],Trade
+29539,primers,"2 → 2015 → 13026 → 29539",4,Active,,0,0,[],Trade
+29540,"stains and varnishes","2 → 2015 → 13026 → 29540",4,Active,,0,0,[],Trade
+13025,"wall stencils","2 → 2015 → 13026 → 13025",4,Active,,0,0,[],Trade
+13015,wallpaper,"2 → 2015 → 13026 → 13015",4,Active,,0,0,[],Trade
+10034,tile,"2 → 2015 → 10034",3,Active,326,5,10,[],Trade
+29505,"accent trim and border tile","2 → 2015 → 10034 → 29505",4,Active,,0,0,[],Trade
+29506,"ceiling tile","2 → 2015 → 10034 → 29506",4,Active,,0,0,[],Trade
+29507,"mosaic tile","2 → 2015 → 10034 → 29507",4,Active,,0,0,[],Trade
+29508,"tile murals","2 → 2015 → 10034 → 29508",4,Active,,0,0,[],Trade
+19004,"wall and floor tile","2 → 2015 → 10034 → 19004",4,Active,1421,10,10,[],Trade
+29221,"tools and equipment","2 → 2015 → 29221",3,Active,386,5,20,[],Trade
+29222,"hand tools and tool sets","2 → 2015 → 29221 → 29222",4,Active,,0,0,[],Trade
+27005,"ladders and step stools","2 → 2015 → 29221 → 27005",4,Active,,0,0,[],Trade
+29548,"painting tools","2 → 2015 → 29221 → 29548",4,Active,,0,0,[],Trade
+29223,"power tools","2 → 2015 → 29221 → 29223",4,Active,,0,0,[],Trade
+2008,"home office accessories","2 → 2008",2,Active,,0,0,[],Trade
+17007,"bulletin boards and chalkboards","2 → 2008 → 17007",3,Active,352,5,25,[],Trade
+17003,"cable management","2 → 2008 → 17003",3,Active,350,5,23,[],Trade
+29213,"chair mats","2 → 2008 → 29213",3,Active,385,5,14,[],Trade
+17004,"desk accessories","2 → 2008 → 17004",3,Active,351,5,25,[],Trade
+2018,housekeeping,"2 → 2018",2,Active,,0,0,[],Trade
+29192,"drawer & shelf liners","2 → 2018 → 29192",3,Active,381,5,44,[],Trade
+29193,"furniture floor protectors","2 → 2018 → 29193",3,Active,382,5,34,[],Trade
+27001,"household cleaning supplies","2 → 2018 → 27001",3,Active,373,5,25,[],Trade
+29199,"cleaning buckets","2 → 2018 → 27001 → 29199",4,Active,,0,0,[],Trade
+29201,"cleaning cloths","2 → 2018 → 27001 → 29201",4,Active,,0,0,[],Trade
+29200,"cleaning gloves","2 → 2018 → 27001 → 29200",4,Active,,0,0,[],Trade
+29195,dusters,"2 → 2018 → 27001 → 29195",4,Active,,0,0,[],Trade
+29196,"household cleaning products","2 → 2018 → 27001 → 29196",4,Active,,0,0,[],Trade
+27002,"mops brooms and dustpans","2 → 2018 → 27001 → 27002",4,Active,,0,0,[],Trade
+29197,"scrub brushes & sponges","2 → 2018 → 27001 → 29197",4,Active,,0,0,[],Trade
+29198,squeegees,"2 → 2018 → 27001 → 29198",4,Active,,0,0,[],Trade
+27004,"laundry products","2 → 2018 → 27004",3,Active,374,5,21,[],Trade
+18004,clotheslines,"2 → 2018 → 27004 → 18004",4,Active,,0,0,[],Trade
+18005,"drying racks","2 → 2018 → 27004 → 18005",4,Active,,0,0,[],Trade
+29682,"garment steamers","2 → 2018 → 27004 → 29682",4,Active,,0,0,[],Trade
+18006,hampers,"2 → 2018 → 27004 → 18006",4,Active,,0,0,[],Trade
+18007,"ironing board covers","2 → 2018 → 27004 → 18007",4,Active,,0,0,[],Trade
+18002,"ironing boards","2 → 2018 → 27004 → 18002",4,Active,,0,0,[],Trade
+18003,irons,"2 → 2018 → 27004 → 18003",4,Active,,0,0,[],Trade
+18001,"laundry room appliances","2 → 2018 → 27004 → 18001",4,Active,,0,0,[],Trade
+29205,dryers,"2 → 2018 → 27004 → 18001 → 29205",5,Active,,0,0,[],Trade
+29206,"washing machines","2 → 2018 → 27004 → 18001 → 29206",5,Active,,0,0,[],Trade
+29208,"sewing machines","2 → 2018 → 29208",3,Active,,0,0,[],Trade
+29209,"trash & recycling","2 → 2018 → 29209",3,Active,384,5,17,[],Trade
+29211,"outdoor trash cans","2 → 2018 → 29209 → 29211",4,Active,,0,0,[],Trade
+29210,"recycling bins","2 → 2018 → 29209 → 29210",4,Active,,0,0,[],Trade
+29346,"trash and recycling accessories","2 → 2018 → 29209 → 29346",4,Active,,0,0,[],Trade
+10030,"trash cans","2 → 2018 → 29209 → 10030",4,Active,,0,0,[],Trade
+29212,"trash compactors","2 → 2018 → 29209 → 29212",4,Active,,0,0,[],Trade
+13017,wastebaskets,"2 → 2018 → 29209 → 13017",4,Active,,0,0,[],Trade
+29202,"vacuums & floor care","2 → 2018 → 29202",3,Active,383,5,27,[],Trade
+29203,"carpet & steam cleaners","2 → 2018 → 29202 → 29203",4,Active,,0,0,[],Trade
+29204,"vacuum & floor care accessories","2 → 2018 → 29202 → 29204",4,Active,,0,0,[],Trade
+27003,"vacuum cleaners","2 → 2018 → 29202 → 27003",4,Active,,0,0,[],Trade
+2001,"kitchen products","2 → 2001",2,Active,,0,0,[],Trade
+10061,bakeware,"2 → 2001 → 10061",3,Active,328,5,21,[],Trade
+29310,"bakeware sets","2 → 2001 → 10061 → 29310",4,Active,,0,0,[],Trade
+10200,"baking dishes","2 → 2001 → 10061 → 10200",4,Active,,0,0,[],Trade
+10201,"baking tools","2 → 2001 → 10061 → 10201",4,Active,,0,0,[],Trade
+29315,"baking cups","2 → 2001 → 10061 → 10201 → 29315",5,Active,,0,0,[],Trade
+29318,"baking mats and liners","2 → 2001 → 10061 → 10201 → 29318",5,Active,,0,0,[],Trade
+10203,"cookie cutters","2 → 2001 → 10061 → 10201 → 10203",5,Active,,0,0,[],Trade
+29313,"cookie presses","2 → 2001 → 10061 → 10201 → 29313",5,Active,,0,0,[],Trade
+29312,"cookie stamps","2 → 2001 → 10061 → 10201 → 29312",5,Active,,0,0,[],Trade
+29314,"cooling racks","2 → 2001 → 10061 → 10201 → 29314",5,Active,,0,0,[],Trade
+29320,"kitchen torches","2 → 2001 → 10061 → 10201 → 29320",5,Active,,0,0,[],Trade
+29317,"pastry bags and tips","2 → 2001 → 10061 → 10201 → 29317",5,Active,,0,0,[],Trade
+29322,"pastry blenders","2 → 2001 → 10061 → 10201 → 29322",5,Active,,0,0,[],Trade
+29316,"pastry brushes","2 → 2001 → 10061 → 10201 → 29316",5,Active,,0,0,[],Trade
+29321,"pastry scrapers","2 → 2001 → 10061 → 10201 → 29321",5,Active,,0,0,[],Trade
+29319,"pie weights","2 → 2001 → 10061 → 10201 → 29319",5,Active,,0,0,[],Trade
+29311,"rolling pins","2 → 2001 → 10061 → 10201 → 29311",5,Active,,0,0,[],Trade
+29323,sifters,"2 → 2001 → 10061 → 10201 → 29323",5,Active,,0,0,[],Trade
+29324,"specialty baking tools","2 → 2001 → 10061 → 10201 → 29324",5,Active,,0,0,[],Trade
+10202,"cake pans","2 → 2001 → 10061 → 10202",4,Active,,0,0,[],Trade
+29325,"candy and chocolate molds","2 → 2001 → 10061 → 29325",4,Active,,0,0,[],Trade
+10204,"cookie sheets","2 → 2001 → 10061 → 10204",4,Active,,0,0,[],Trade
+10205,"cupcake and muffin pans","2 → 2001 → 10061 → 10205",4,Active,,0,0,[],Trade
+10207,"loaf pans","2 → 2001 → 10061 → 10207",4,Active,,0,0,[],Trade
+10206,"pie and tart pans","2 → 2001 → 10061 → 10206",4,Active,,0,0,[],Trade
+29326,"ramekins and souffle dishes","2 → 2001 → 10061 → 29326",4,Active,,0,0,[],Trade
+10029,"coffee and tea makers","2 → 2001 → 10029",3,Active,324,5,21,[],Trade
+29573,"coffee and tea maker accessories","2 → 2001 → 10029 → 29573",4,Active,,0,0,[],Trade
+29574,"coffee filters","2 → 2001 → 10029 → 29573 → 29574",5,Active,,0,0,[],Trade
+29575,"tea infusers and strainers","2 → 2001 → 10029 → 29573 → 29575",5,Active,,0,0,[],Trade
+29572,"coffee grinders","2 → 2001 → 10029 → 29572",4,Active,,0,0,[],Trade
+29571,"coffee makers","2 → 2001 → 10029 → 29571",4,Active,,0,0,[],Trade
+29569,"espresso machines","2 → 2001 → 10029 → 29569",4,Active,,0,0,[],Trade
+29570,"french presses","2 → 2001 → 10029 → 29570",4,Active,,0,0,[],Trade
+10104,kettles,"2 → 2001 → 10029 → 10104",4,Active,,0,0,[],Trade
+29576,"milk frothers","2 → 2001 → 10029 → 29576",4,Active,,0,0,[],Trade
+29350,cookbooks,"2 → 2001 → 29350",3,Active,388,5,28,[],Trade
+10060,cookware,"2 → 2001 → 10060",3,Active,327,5,26,[],Trade
+29335,"chafing dishes","2 → 2001 → 10060 → 29335",4,Active,,0,0,[],Trade
+10100,"cookware sets","2 → 2001 → 10060 → 10100",4,Active,,0,0,[],Trade
+10101,"dutch ovens and casseroles","2 → 2001 → 10060 → 10101",4,Active,,0,0,[],Trade
+10102,"frying pans and skillets","2 → 2001 → 10060 → 10102",4,Active,,0,0,[],Trade
+10103,"griddles and grill pans","2 → 2001 → 10060 → 10103",4,Active,,0,0,[],Trade
+29559,"pressure cookers","2 → 2001 → 10060 → 29559",4,Active,,0,0,[],Trade
+10108,"roasting pans and racks","2 → 2001 → 10060 → 10108",4,Active,,0,0,[],Trade
+10106,saucepans,"2 → 2001 → 10060 → 10106",4,Active,,0,0,[],Trade
+10107,"saute pans","2 → 2001 → 10060 → 10107",4,Active,,0,0,[],Trade
+10110,"specialty cookware","2 → 2001 → 10060 → 10110",4,Active,,0,0,[],Trade
+10109,stockpots,"2 → 2001 → 10060 → 10109",4,Active,,0,0,[],Trade
+29336,"woks and stirfry pans","2 → 2001 → 10060 → 29336",4,Active,,0,0,[],Trade
+29560,"cookware accessories","2 → 2001 → 29560",3,Active,398,5,23,[],Trade
+29561,"pot and pan lids","2 → 2001 → 29560 → 29561",4,Active,,0,0,[],Trade
+29562,"steamer baskets","2 → 2001 → 29560 → 29562",4,Active,,0,0,[],Trade
+10004,"cookware and bakeware","2 → 2001 → 10004",3,Inactive,,0,0,[],Trade
+11008,"kitchen and table linens","2 → 2001 → 11008",3,Active,333,5,26,[],Trade
+10001,aprons,"2 → 2001 → 11008 → 10001",4,Active,,0,0,[],Trade
+10005,"dish towels","2 → 2001 → 11008 → 10005",4,Active,,0,0,[],Trade
+11401,napkins,"2 → 2001 → 11008 → 11401",4,Active,,0,0,[],Trade
+10037,"oven mitts and pot holders","2 → 2001 → 11008 → 10037",4,Active,,0,0,[],Trade
+11402,placemats,"2 → 2001 → 11008 → 11402",4,Active,,0,0,[],Trade
+29339,"table pads","2 → 2001 → 11008 → 29339",4,Active,,0,0,[],Trade
+29340,"table runners","2 → 2001 → 11008 → 29340",4,Active,,0,0,[],Trade
+11400,tablecloths,"2 → 2001 → 11008 → 11400",4,Active,,0,0,[],Trade
+29550,"kitchen fixture parts","2 → 2001 → 29550",3,Active,396,5,17,[],Trade
+29549,"kitchen fixtures","2 → 2001 → 29549",3,Active,395,5,14,[],Trade
+29557,"bar faucets","2 → 2001 → 29549 → 29557",4,Active,,0,0,[],Trade
+29558,"bar sinks","2 → 2001 → 29549 → 29558",4,Active,102,5,14,[],Trade
+29552,"garbage disposals","2 → 2001 → 29549 → 29552",4,Active,,0,0,[],Trade
+29555,"hot water dispensers","2 → 2001 → 29549 → 29555",4,Active,101,5,14,[],Trade
+10007,"kitchen faucets","2 → 2001 → 29549 → 10007",4,Active,,0,0,[],Trade
+10008,"kitchen sinks","2 → 2001 → 29549 → 10008",4,Active,38,5,14,[],Trade
+29553,"pot fillers","2 → 2001 → 29549 → 29553",4,Active,,0,0,[],Trade
+29554,"utility sink faucets","2 → 2001 → 29549 → 29554",4,Active,,0,0,[],Trade
+18008,"utility sinks","2 → 2001 → 29549 → 18008",4,Active,,0,0,[],Trade
+29556,"water filtration systems","2 → 2001 → 29549 → 29556",4,Active,,0,0,[],Trade
+10062,"kitchen knives and accessories","2 → 2001 → 10062",3,Active,329,5,10,[],Trade
+10400,"boning knives","2 → 2001 → 10062 → 10400",4,Active,,0,0,[],Trade
+10401,"bread knives","2 → 2001 → 10062 → 10401",4,Active,,0,0,[],Trade
+10402,"ceramic knives","2 → 2001 → 10062 → 10402",4,Inactive,,0,0,[],Trade
+10404,"cheese knives","2 → 2001 → 10062 → 10404",4,Active,,0,0,[],Trade
+10403,"chef's knives","2 → 2001 → 10062 → 10403",4,Active,,0,0,[],Trade
+10405,cleavers,"2 → 2001 → 10062 → 10405",4,Active,,0,0,[],Trade
+10411,"cutting boards","2 → 2001 → 10062 → 10411",4,Active,,0,0,[],Trade
+10408,"kitchen shears","2 → 2001 → 10062 → 10408",4,Active,,0,0,[],Trade
+10413,"knife sets","2 → 2001 → 10062 → 10413",4,Active,,0,0,[],Trade
+10412,"knife sharpeners","2 → 2001 → 10062 → 10412",4,Active,,0,0,[],Trade
+10414,"knife storage","2 → 2001 → 10062 → 10414",4,Active,,0,0,[],Trade
+10406,"paring knives","2 → 2001 → 10062 → 10406",4,Active,,0,0,[],Trade
+10407,"santoku knives","2 → 2001 → 10062 → 10407",4,Active,,0,0,[],Trade
+29337,"slicing and carving knives","2 → 2001 → 10062 → 29337",4,Active,,0,0,[],Trade
+29338,"specialty knives","2 → 2001 → 10062 → 29338",4,Active,,0,0,[],Trade
+10409,"steak knives","2 → 2001 → 10062 → 10409",4,Active,,0,0,[],Trade
+10410,"utility knives","2 → 2001 → 10062 → 10410",4,Active,,0,0,[],Trade
+29563,"kitchen sink accessories","2 → 2001 → 29563",3,Active,399,5,10,[],Trade
+29341,"kitchen storage and organization","2 → 2001 → 29341",3,Active,387,5,25,[],Trade
+29368,"cookbook stands and recipe holders","2 → 2001 → 29341 → 29368",4,Active,,0,0,[],Trade
+29342,"dinnerware and stemware storage","2 → 2001 → 29341 → 29342",4,Active,,0,0,[],Trade
+10003,"dish racks","2 → 2001 → 29341 → 10003",4,Active,,0,0,[],Trade
+29343,"flatware storage","2 → 2001 → 29341 → 29343",4,Active,,0,0,[],Trade
+29354,"food and beverage carriers","2 → 2001 → 29341 → 29354",4,Active,,0,0,[],Trade
+29359,"coolers and ice chests","2 → 2001 → 29341 → 29354 → 29359",5,Active,,0,0,[],Trade
+29357,"drink sleeves","2 → 2001 → 29341 → 29354 → 29357",5,Active,,0,0,[],Trade
+29360,"lunch boxes and totes","2 → 2001 → 29341 → 29354 → 29360",5,Active,,0,0,[],Trade
+29355,"picnic baskets","2 → 2001 → 29341 → 29354 → 29355",5,Active,,0,0,[],Trade
+29358,thermoses,"2 → 2001 → 29341 → 29354 → 29358",5,Active,,0,0,[],Trade
+29356,"water bottles","2 → 2001 → 29341 → 29354 → 29356",5,Active,,0,0,[],Trade
+10006,"food containers and storage","2 → 2001 → 29341 → 10006",4,Active,,0,0,[],Trade
+29344,"bread boxes","2 → 2001 → 29341 → 10006 → 29344",5,Active,,0,0,[],Trade
+29347,"dry food dispensers","2 → 2001 → 29341 → 10006 → 29347",5,Active,,0,0,[],Trade
+29373,"food storage containers","2 → 2001 → 29341 → 10006 → 29373",5,Active,,0,0,[],Trade
+29345,"kitchen canisters and jars","2 → 2001 → 29341 → 10006 → 29345",5,Active,,0,0,[],Trade
+29348,"oil and vinegar dispensers","2 → 2001 → 29341 → 10006 → 29348",5,Active,,0,0,[],Trade
+10010,"kitchen cabinetry","2 → 2001 → 29341 → 10010",4,Active,,0,0,[],Trade
+10036,"kitchen drawer organizers","2 → 2001 → 29341 → 10036",4,Active,,0,0,[],Trade
+29361,"napkin holders","2 → 2001 → 29341 → 29361",4,Active,,0,0,[],Trade
+29349,"pantry and cabinet organizers","2 → 2001 → 29341 → 29349",4,Active,,0,0,[],Trade
+29351,"paper towel holders","2 → 2001 → 29341 → 29351",4,Active,,0,0,[],Trade
+10024,"pot racks and accessories","2 → 2001 → 29341 → 10024",4,Active,,0,0,[],Trade
+29352,"spice jars and spice racks","2 → 2001 → 29341 → 29352",4,Active,,0,0,[],Trade
+29353,"utensil holders and racks","2 → 2001 → 29341 → 29353",4,Active,,0,0,[],Trade
+10031,"wine racks","2 → 2001 → 29341 → 10031",4,Active,,0,0,[],Trade
+10033,"kitchen tools and gadgets","2 → 2001 → 10033",3,Active,325,5,24,[],Trade
+10301,"can openers","2 → 2001 → 10033 → 10301",4,Active,,0,0,[],Trade
+10302,"colanders and strainers","2 → 2001 → 10033 → 10302",4,Active,,0,0,[],Trade
+10303,"cooking utensils","2 → 2001 → 10033 → 10303",4,Active,,0,0,[],Trade
+29363,"cooking spoons","2 → 2001 → 10033 → 10303 → 29363",5,Active,,0,0,[],Trade
+29693,"cooking utensil sets","2 → 2001 → 10033 → 10303 → 29693",5,Active,,0,0,[],Trade
+29367,"kitchen tongs","2 → 2001 → 10033 → 10303 → 29367",5,Active,,0,0,[],Trade
+29364,ladles,"2 → 2001 → 10033 → 10303 → 29364",5,Active,,0,0,[],Trade
+29366,"potato mashers","2 → 2001 → 10033 → 10303 → 29366",5,Active,,0,0,[],Trade
+29362,spatulas,"2 → 2001 → 10033 → 10303 → 29362",5,Active,,0,0,[],Trade
+29365,whisks,"2 → 2001 → 10033 → 10303 → 29365",5,Active,,0,0,[],Trade
+29564,"food slicers","2 → 2001 → 10033 → 29564",4,Active,,0,0,[],Trade
+10304,graters,"2 → 2001 → 10033 → 10304",4,Active,,0,0,[],Trade
+29372,"ice trays and molds","2 → 2001 → 10033 → 29372",4,Active,,0,0,[],Trade
+10310,"kitchen scales","2 → 2001 → 10033 → 10310",4,Active,,0,0,[],Trade
+29566,"kitchen thermometers","2 → 2001 → 10033 → 29566",4,Active,,0,0,[],Trade
+29565,"kitchen timers","2 → 2001 → 10033 → 29565",4,Active,,0,0,[],Trade
+10306,mandolines,"2 → 2001 → 10033 → 10306",4,Active,,0,0,[],Trade
+10307,"measuring cups","2 → 2001 → 10033 → 10307",4,Active,,0,0,[],Trade
+29374,"measuring spoons","2 → 2001 → 10033 → 29374",4,Active,,0,0,[],Trade
+10300,"mixing bowls","2 → 2001 → 10033 → 10300",4,Active,,0,0,[],Trade
+29371,"peelers and corers","2 → 2001 → 10033 → 29371",4,Active,,0,0,[],Trade
+10309,"salt and pepper shakers and mills","2 → 2001 → 10033 → 10309",4,Active,,0,0,[],Trade
+10311,"specialty kitchen tools","2 → 2001 → 10033 → 10311",4,Active,,0,0,[],Trade
+29375,basters,"2 → 2001 → 10033 → 10311 → 29375",5,Active,,0,0,[],Trade
+29382,"food mills","2 → 2001 → 10033 → 10311 → 29382",5,Active,,0,0,[],Trade
+29376,"garlic presses","2 → 2001 → 10033 → 10311 → 29376",5,Active,,0,0,[],Trade
+29378,"ice cream scoops","2 → 2001 → 10033 → 10311 → 29378",5,Active,,0,0,[],Trade
+29379,"melon ballers","2 → 2001 → 10033 → 10311 → 29379",5,Active,,0,0,[],Trade
+29377,"mortar and pestle sets","2 → 2001 → 10033 → 10311 → 29377",5,Active,,0,0,[],Trade
+29384,"pasta makers and accessories","2 → 2001 → 10033 → 10311 → 29384",5,Active,,0,0,[],Trade
+29694,"pizza cutters","2 → 2001 → 10033 → 10311 → 29694",5,Active,,0,0,[],Trade
+29385,"pizza pans and stones","2 → 2001 → 10033 → 10311 → 29385",5,Active,,0,0,[],Trade
+29380,"popsicle molds","2 → 2001 → 10033 → 10311 → 29380",5,Active,,0,0,[],Trade
+29383,"potato ricers","2 → 2001 → 10033 → 10311 → 29383",5,Active,,0,0,[],Trade
+29381,"splatter screens","2 → 2001 → 10033 → 10311 → 29381",5,Active,,0,0,[],Trade
+29369,"spoon rests","2 → 2001 → 10033 → 29369",4,Active,,0,0,[],Trade
+10013,"knives and chopping boards","2 → 2001 → 10013",3,Inactive,,0,0,[],Trade
+29567,"major kitchen appliance parts and accessories","2 → 2001 → 29567",3,Active,400,5,17,[],Trade
+10014,"major kitchen appliances","2 → 2001 → 10014",3,Active,322,5,14,[],Trade
+10045,"beer and wine refrigerators","2 → 2001 → 10014 → 10045",4,Active,,0,0,[],Trade
+10020,cooktops,"2 → 2001 → 10014 → 10020",4,Active,,0,0,[],Trade
+10018,dishwashers,"2 → 2001 → 10014 → 10018",4,Active,,0,0,[],Trade
+29683,freezers,"2 → 2001 → 10014 → 29683",4,Active,,0,0,[],Trade
+10035,"gas ranges and electric ranges","2 → 2001 → 10014 → 10035",4,Active,,0,0,[],Trade
+29386,"ice makers","2 → 2001 → 10014 → 29386",4,Active,,0,0,[],Trade
+10017,"microwave ovens","2 → 2001 → 10014 → 10017",4,Active,,0,0,[],Trade
+10019,ovens,"2 → 2001 → 10014 → 10019",4,Active,,0,0,[],Trade
+10016,"range hoods and vents","2 → 2001 → 10014 → 10016",4,Active,,0,0,[],Trade
+10015,refrigerators,"2 → 2001 → 10014 → 10015",4,Active,,0,0,[],Trade
+29387,"warming drawers","2 → 2001 → 10014 → 29387",4,Active,,0,0,[],Trade
+10025,"small kitchen appliances","2 → 2001 → 10025",3,Active,323,5,21,[],Trade
+10027,blenders,"2 → 2001 → 10025 → 10027",4,Active,,0,0,[],Trade
+29388,"bread machines","2 → 2001 → 10025 → 29388",4,Active,,0,0,[],Trade
+29389,"deep fryers","2 → 2001 → 10025 → 29389",4,Active,,0,0,[],Trade
+29390,dehydrators,"2 → 2001 → 10025 → 29390",4,Active,,0,0,[],Trade
+29391,"electric can openers","2 → 2001 → 10025 → 29391",4,Active,,0,0,[],Trade
+10038,"electric grills and skillets","2 → 2001 → 10025 → 10038",4,Active,,0,0,[],Trade
+29392,"electric roaster ovens","2 → 2001 → 10025 → 29392",4,Active,,0,0,[],Trade
+29393,"fondue and raclette sets","2 → 2001 → 10025 → 29393",4,Active,,0,0,[],Trade
+10044,"food processors","2 → 2001 → 10025 → 10044",4,Active,,0,0,[],Trade
+29394,"hot plates and burners","2 → 2001 → 10025 → 29394",4,Active,,0,0,[],Trade
+29395,"ice cream makers","2 → 2001 → 10025 → 29395",4,Active,,0,0,[],Trade
+10039,juicers,"2 → 2001 → 10025 → 10039",4,Active,,0,0,[],Trade
+10040,mixers,"2 → 2001 → 10025 → 10040",4,Active,,0,0,[],Trade
+29697,"popcorn makers","2 → 2001 → 10025 → 29697",4,Active,,0,0,[],Trade
+29396,"rice cookers and food steamers","2 → 2001 → 10025 → 29396",4,Active,,0,0,[],Trade
+10041,"slow cookers","2 → 2001 → 10025 → 10041",4,Active,,0,0,[],Trade
+29397,"small kitchen appliance accessories","2 → 2001 → 10025 → 29397",4,Active,,0,0,[],Trade
+10042,"specialty small kitchen appliances","2 → 2001 → 10025 → 10042",4,Active,,0,0,[],Trade
+29568,"toaster ovens","2 → 2001 → 10025 → 29568",4,Active,,0,0,[],Trade
+10026,toasters,"2 → 2001 → 10025 → 10026",4,Active,,0,0,[],Trade
+10043,"waffle makers","2 → 2001 → 10025 → 10043",4,Active,,0,0,[],Trade
+11012,"wine and bar tools","2 → 2001 → 11012",3,Active,335,5,25,[],Trade
+29332,"beer taps and dispensers","2 → 2001 → 11012 → 29332",4,Active,,0,0,[],Trade
+29333,"carbonators and soda siphons","2 → 2001 → 11012 → 29333",4,Active,,0,0,[],Trade
+29334,coasters,"2 → 2001 → 11012 → 29334",4,Active,,0,0,[],Trade
+29331,"cocktail shakers and bar tool sets","2 → 2001 → 11012 → 29331",4,Active,,0,0,[],Trade
+29327,decanters,"2 → 2001 → 11012 → 29327",4,Active,,0,0,[],Trade
+29330,"ice tools and buckets  ","2 → 2001 → 11012 → 29330",4,Active,,0,0,[],Trade
+29329,"wine aerators and stoppers","2 → 2001 → 11012 → 29329",4,Active,,0,0,[],Trade
+29328,"wine and bottle openers","2 → 2001 → 11012 → 29328",4,Active,,0,0,[],Trade
+29692,"wine charms and markers","2 → 2001 → 11012 → 29692",4,Active,,0,0,[],Trade
+2019,"lifestyle and leisure","2 → 2019",2,Active,,0,0,[],Trade
+21900,"board games and card games","2 → 2019 → 21900",3,Active,356,5,27,[],Trade
+29124,"darts and dartboards","2 → 2019 → 29124",3,Active,377,5,21,[],Trade
+21902,"home gym equipment","2 → 2019 → 21902",3,Active,357,5,29,[],Trade
+13009,"pet supplies","2 → 2019 → 13009",3,Active,342,5,22,[],Trade
+29577,"cat supplies","2 → 2019 → 13009 → 29577",4,Active,,0,0,[],Trade
+29578,"cat beds","2 → 2019 → 13009 → 29577 → 29578",5,Active,,0,0,[],Trade
+29579,"cat furniture","2 → 2019 → 13009 → 29577 → 29579",5,Active,,0,0,[],Trade
+29580,"cat toys","2 → 2019 → 13009 → 29577 → 29580",5,Active,,0,0,[],Trade
+29581,"litter boxes and covers","2 → 2019 → 13009 → 29577 → 29581",5,Active,,0,0,[],Trade
+29582,"dog supplies","2 → 2019 → 13009 → 29582",4,Active,,0,0,[],Trade
+13100,"dog beds","2 → 2019 → 13009 → 29582 → 13100",5,Active,,0,0,[],Trade
+29584,"dog gates","2 → 2019 → 13009 → 29582 → 29584",5,Active,,0,0,[],Trade
+29585,"dog houses","2 → 2019 → 13009 → 29582 → 29585",5,Active,,0,0,[],Trade
+29583,"dog kennels and crates","2 → 2019 → 13009 → 29582 → 29583",5,Active,,0,0,[],Trade
+13102,"dog toys","2 → 2019 → 13009 → 29582 → 13102",5,Active,,0,0,[],Trade
+13103,"fish supplies","2 → 2019 → 13009 → 13103",4,Active,,0,0,[],Trade
+13101,"pet bowls and feeding","2 → 2019 → 13009 → 13101",4,Active,,0,0,[],Trade
+29586,"pet doors","2 → 2019 → 13009 → 29586",4,Active,,0,0,[],Trade
+29587,"small pet supplies","2 → 2019 → 13009 → 29587",4,Active,,0,0,[],Trade
+2011,lighting,"2 → 2011",2,Active,,0,0,[],Trade
+20013,"ceiling fans","2 → 2011 → 20013",3,Active,66,5,17,[],Trade
+20002,"ceiling lighting","2 → 2011 → 20002",3,Active,,0,0,[],Trade
+20003,chandeliers,"2 → 2011 → 20002 → 20003",4,Active,34,5,24,[],Trade
+29267,"flush-mount ceiling lighting","2 → 2011 → 20002 → 29267",4,Active,84,5,23,[],Trade
+20008,"kitchen island lighting","2 → 2011 → 20002 → 20008",4,Active,64,5,23,[],Trade
+20007,"pendant lighting","2 → 2011 → 20002 → 20007",4,Active,,0,0,[],Trade
+29268,"pool table lights","2 → 2011 → 20002 → 29268",4,Active,,0,0,[],Trade
+20009,"recessed lighting","2 → 2011 → 20002 → 20009",4,Active,,0,0,[],Trade
+29253,"recessed housings","2 → 2011 → 20002 → 20009 → 29253",5,Active,,0,0,[],Trade
+29254,"recessed lighting kits","2 → 2011 → 20002 → 20009 → 29254",5,Active,,0,0,[],Trade
+29255,"recessed shower lighting","2 → 2011 → 20002 → 20009 → 29255",5,Active,,0,0,[],Trade
+29256,"recessed trims","2 → 2011 → 20002 → 20009 → 29256",5,Active,,0,0,[],Trade
+29266,"spot lights","2 → 2011 → 20002 → 29266",4,Active,,0,0,[],Trade
+20011,"track lighting","2 → 2011 → 20002 → 20011",4,Active,,0,0,[],Trade
+29257,"track heads and pendants","2 → 2011 → 20002 → 20011 → 29257",5,Active,,0,0,[],Trade
+29258,"track lighting accessories","2 → 2011 → 20002 → 20011 → 29258",5,Active,,0,0,[],Trade
+29259,"track lighting kits","2 → 2011 → 20002 → 20011 → 29259",5,Active,,0,0,[],Trade
+29260,"tracks and rails","2 → 2011 → 20002 → 20011 → 29260",5,Active,,0,0,[],Trade
+16013,"kids lighting","2 → 2011 → 16013",3,Active,,0,0,[],Trade
+29224,"kids ceiling lighting","2 → 2011 → 16013 → 29224",4,Active,,0,0,[],Trade
+29225,"kids lamps","2 → 2011 → 16013 → 29225",4,Active,,0,0,[],Trade
+29398,lamps,"2 → 2011 → 29398",3,Active,,0,0,[],Trade
+29228,"desk lamps","2 → 2011 → 29398 → 29228",4,Active,,0,0,[],Trade
+20004,"floor lamps","2 → 2011 → 29398 → 20004",4,Active,63,5,20,[],Trade
+29226,"lamp sets","2 → 2011 → 29398 → 29226",4,Active,,0,0,[],Trade
+29227,"piano lamps","2 → 2011 → 29398 → 29227",4,Active,,0,0,[],Trade
+20010,"table lamps","2 → 2011 → 29398 → 20010",4,Active,65,5,20,[],Trade
+29240,"lighting hardware and accessories","2 → 2011 → 29240",3,Active,,0,0,[],Trade
+29239,"ceiling fan accessories","2 → 2011 → 29240 → 29239",4,Active,,0,0,[],Trade
+29243,"ceiling medallions","2 → 2011 → 29240 → 29243",4,Active,81,5,28,[],Trade
+29242,"lamp bases","2 → 2011 → 29240 → 29242",4,Active,,0,0,[],Trade
+20005,"lamp shades","2 → 2011 → 29240 → 20005",4,Active,,0,0,[],Trade
+20006,"light bulbs","2 → 2011 → 29240 → 20006",4,Active,,0,0,[],Trade
+29233,"compact fluorescent bulbs","2 → 2011 → 29240 → 20006 → 29233",5,Active,,0,0,[],Trade
+29234,"fluorescent tubes","2 → 2011 → 29240 → 20006 → 29234",5,Active,,0,0,[],Trade
+29235,"halogen bulbs","2 → 2011 → 29240 → 20006 → 29235",5,Active,,0,0,[],Trade
+29236,"incandescent bulbs","2 → 2011 → 29240 → 20006 → 29236",5,Active,,0,0,[],Trade
+29237,"krypton and xenon bulbs","2 → 2011 → 29240 → 20006 → 29237",5,Active,,0,0,[],Trade
+29238,"led bulbs","2 → 2011 → 29240 → 20006 → 29238",5,Active,,0,0,[],Trade
+29245,"lighting globes and shades","2 → 2011 → 29240 → 29245",4,Active,,0,0,[],Trade
+29241,"lighting hardware","2 → 2011 → 29240 → 29241",4,Active,,0,0,[],Trade
+29244,"timers and lighting controls","2 → 2011 → 29240 → 29244",4,Active,,0,0,[],Trade
+29261,night-lights,"2 → 2011 → 29261",3,Active,,0,0,[],Trade
+29246,"novelty lighting","2 → 2011 → 29246",3,Active,,0,0,[],Trade
+23017,"outdoor lighting","2 → 2011 → 23017",3,Active,,0,0,[],Trade
+29229,"landscape lighting","2 → 2011 → 23017 → 29229",4,Active,,0,0,[],Trade
+29230,"deck lighting","2 → 2011 → 23017 → 29229 → 29230",5,Active,,0,0,[],Trade
+29231,"inground and well lights","2 → 2011 → 23017 → 29229 → 29231",5,Active,,0,0,[],Trade
+29232,"path lights","2 → 2011 → 23017 → 29229 → 29232",5,Active,,0,0,[],Trade
+29263,"stair and step lights","2 → 2011 → 23017 → 29229 → 29263",5,Active,,0,0,[],Trade
+29249,"outdoor flood and spot lights","2 → 2011 → 23017 → 29249",4,Active,,0,0,[],Trade
+29687,"outdoor floor lamps","2 → 2011 → 23017 → 29687",4,Active,,0,0,[],Trade
+29248,"outdoor flush-mount ceiling lighting","2 → 2011 → 23017 → 29248",4,Active,,0,0,[],Trade
+29588,"outdoor hanging lights","2 → 2011 → 23017 → 29588",4,Active,103,5,25,[],Trade
+29250,"outdoor rope and string lights","2 → 2011 → 23017 → 29250",4,Active,,0,0,[],Trade
+29688,"outdoor table lamps","2 → 2011 → 23017 → 29688",4,Active,,0,0,[],Trade
+29251,"outdoor wall lights and sconces","2 → 2011 → 23017 → 29251",4,Active,82,5,25,[],Trade
+29252,"post lights","2 → 2011 → 23017 → 29252",4,Active,,0,0,[],Trade
+29247,"undercabinet lighting","2 → 2011 → 29247",3,Active,,0,0,[],Trade
+20012,"wall lighting","2 → 2011 → 20012",3,Active,,0,0,[],Trade
+20001,"bathroom vanity lighting","2 → 2011 → 20012 → 20001",4,Active,62,5,25,[],Trade
+29262,"display and picture lights","2 → 2011 → 20012 → 29262",4,Active,,0,0,[],Trade
+29264,"swing arm wall lamps","2 → 2011 → 20012 → 29264",4,Active,83,5,26,[],Trade
+29265,"wall sconces","2 → 2011 → 20012 → 29265",4,Active,39,5,24,[],Trade
+2014,"outdoor products","2 → 2014",2,Active,,0,0,[],Trade
+29590,"aboveground swimming pools","2 → 2014 → 29590",3,Active,401,5,24,[],Trade
+29591,"backyard play","2 → 2014 → 29591",3,Active,402,5,20,[],Trade
+23006,"kids playsets and swing sets","2 → 2014 → 29591 → 23006",4,Active,,0,0,[],Trade
+29592,"outdoor and lawn games","2 → 2014 → 29591 → 29592",4,Active,,0,0,[],Trade
+23005,"outdoor playhouses","2 → 2014 → 29591 → 23005",4,Active,,0,0,[],Trade
+29593,"sandboxes and sand toys","2 → 2014 → 29591 → 29593",4,Active,,0,0,[],Trade
+29595,"trampoline accessories","2 → 2014 → 29591 → 29595",4,Active,,0,0,[],Trade
+29594,trampolines,"2 → 2014 → 29591 → 29594",4,Active,,0,0,[],Trade
+29598,chimineas,"2 → 2014 → 29598",3,Active,404,5,27,[],Trade
+29596,"deck tiles and planks","2 → 2014 → 29596",3,Active,403,5,19,[],Trade
+29599,"fire pit accessories","2 → 2014 → 29599",3,Active,405,5,24,[],Trade
+23007,"fire pits","2 → 2014 → 23007",3,Active,366,5,15,[],Trade
+29600,"firewood racks","2 → 2014 → 29600",3,Active,406,5,24,[],Trade
+29601,"gardening and lawn care","2 → 2014 → 29601",3,Active,407,5,15,[],Trade
+29602,"bulbs and seeds","2 → 2014 → 29601 → 29602",4,Active,,0,0,[],Trade
+29309,"compost bins","2 → 2014 → 29601 → 29309",4,Active,,0,0,[],Trade
+23016,"gardening tools","2 → 2014 → 29601 → 23016",4,Active,,0,0,[],Trade
+29603,"forks rakes and hoes","2 → 2014 → 29601 → 23016 → 29603",5,Active,,0,0,[],Trade
+29615,"gardening accessories","2 → 2014 → 29601 → 23016 → 29615",5,Active,,0,0,[],Trade
+29607,"gardening gloves","2 → 2014 → 29601 → 23016 → 29607",5,Active,,0,0,[],Trade
+29604,"gardening hand tools","2 → 2014 → 29601 → 23016 → 29604",5,Active,,0,0,[],Trade
+29605,"pruning tools","2 → 2014 → 29601 → 23016 → 29605",5,Active,,0,0,[],Trade
+29606,"shovels and spades","2 → 2014 → 29601 → 23016 → 29606",5,Active,,0,0,[],Trade
+29614,"wheelbarrows and garden carts","2 → 2014 → 29601 → 23016 → 29614",5,Active,,0,0,[],Trade
+23023,"outdoor pots and planters","2 → 2014 → 29601 → 23023",4,Active,40,5,18,[],Trade
+23038,"outdoor power equipment","2 → 2014 → 29601 → 23038",4,Active,,0,0,[],Trade
+29609,"planter hardware and accessories","2 → 2014 → 29601 → 29609",4,Active,,0,0,[],Trade
+29608,"sprayers and spreaders","2 → 2014 → 29601 → 29608",4,Active,,0,0,[],Trade
+23013,"watering and irrigation equipment","2 → 2014 → 29601 → 23013",4,Active,,0,0,[],Trade
+29610,"garden hoses","2 → 2014 → 29601 → 23013 → 29610",5,Active,,0,0,[],Trade
+29612,"rain barrels","2 → 2014 → 29601 → 23013 → 29612",5,Active,,0,0,[],Trade
+29611,sprinklers,"2 → 2014 → 29601 → 23013 → 29611",5,Active,,0,0,[],Trade
+29613,"watering cans","2 → 2014 → 29601 → 23013 → 29613",5,Active,,0,0,[],Trade
+23012,"home fencing and gates","2 → 2014 → 23012",3,Active,367,5,24,[],Trade
+23015,"hot tub and pool supplies","2 → 2014 → 23015",3,Active,369,5,22,[],Trade
+29630,"hot tub and pool accessories","2 → 2014 → 23015 → 29630",4,Active,,0,0,[],Trade
+29696,"outdoor showers","2 → 2014 → 23015 → 29696",4,Active,106,5,16,[],Trade
+29628,"pool chemicals and cleaning tools","2 → 2014 → 23015 → 29628",4,Active,,0,0,[],Trade
+29627,"pool pumps and filters","2 → 2014 → 23015 → 29627",4,Active,,0,0,[],Trade
+29629,"pool toys and floats","2 → 2014 → 23015 → 29629",4,Active,,0,0,[],Trade
+29616,"hot tubs","2 → 2014 → 29616",3,Active,408,5,23,[],Trade
+23014,"landscaping stones and pavers","2 → 2014 → 23014",3,Active,368,5,21,[],Trade
+29101,"outdoor cooking","2 → 2014 → 29101",3,Active,376,5,28,[],Trade
+29102,"grill tools & accessories","2 → 2014 → 29101 → 29102",4,Active,,0,0,[],Trade
+29103,"outdoor cookers & fryers","2 → 2014 → 29101 → 29103",4,Active,,0,0,[],Trade
+23001,"outdoor grills","2 → 2014 → 29101 → 23001",4,Active,,0,0,[],Trade
+29104,"outdoor pizza ovens","2 → 2014 → 29101 → 29104",4,Active,,0,0,[],Trade
+29105,smokers,"2 → 2014 → 29101 → 29105",4,Active,,0,0,[],Trade
+23018,"outdoor decor","2 → 2014 → 23018",3,Active,370,5,23,[],Trade
+23029,"bird baths","2 → 2014 → 23018 → 23029",4,Active,,0,0,[],Trade
+23028,"bird feeders","2 → 2014 → 23018 → 23028",4,Active,,0,0,[],Trade
+23030,birdhouses,"2 → 2014 → 23018 → 23030",4,Active,,0,0,[],Trade
+29145,cupolas,"2 → 2014 → 23018 → 29145",4,Active,,0,0,[],Trade
+29142,"decorative thermometers","2 → 2014 → 23018 → 29142",4,Active,,0,0,[],Trade
+29138,"flags and flagpoles","2 → 2014 → 23018 → 29138",4,Active,,0,0,[],Trade
+23031,"garden statues and yard art","2 → 2014 → 23018 → 23031",4,Active,,0,0,[],Trade
+23019,"house numbers","2 → 2014 → 23018 → 23019",4,Active,,0,0,[],Trade
+29139,"mailbox accessories","2 → 2014 → 23018 → 29139",4,Active,,0,0,[],Trade
+23020,mailboxes,"2 → 2014 → 23018 → 23020",4,Active,,0,0,[],Trade
+23003,"outdoor cushions and pillows","2 → 2014 → 23018 → 23003",4,Active,69,5,23,[],Trade
+29140,"outdoor furniture covers","2 → 2014 → 23018 → 29140",4,Active,,0,0,[],Trade
+23021,"outdoor holiday decorations","2 → 2014 → 23018 → 23021",4,Active,,0,0,[],Trade
+29631,"outdoor torches","2 → 2014 → 23018 → 29631",4,Active,,0,0,[],Trade
+29632,"outdoor wall art","2 → 2014 → 23018 → 29632",4,Active,,0,0,[],Trade
+29141,"rain chains","2 → 2014 → 23018 → 29141",4,Active,,0,0,[],Trade
+29144,sundials,"2 → 2014 → 23018 → 29144",4,Active,,0,0,[],Trade
+29143,"weather vanes","2 → 2014 → 23018 → 29143",4,Active,,0,0,[],Trade
+29146,"wind chimes","2 → 2014 → 23018 → 29146",4,Active,,0,0,[],Trade
+29617,"outdoor fireplaces","2 → 2014 → 29617",3,Active,409,5,31,[],Trade
+29618,"outdoor fountain and pond accessories","2 → 2014 → 29618",3,Active,410,5,24,[],Trade
+23022,"outdoor fountains and ponds","2 → 2014 → 23022",3,Active,371,5,25,[],Trade
+29619,"outdoor kitchen appliances","2 → 2014 → 29619",3,Active,411,5,38,[],Trade
+29620,"outdoor ice machines","2 → 2014 → 29619 → 29620",4,Active,,0,0,[],Trade
+29621,"outdoor refrigerators","2 → 2014 → 29619 → 29621",4,Active,,0,0,[],Trade
+29623,"outdoor structures","2 → 2014 → 29623",3,Active,413,5,13,[],Trade
+29624,awnings,"2 → 2014 → 29623 → 29624",4,Active,,0,0,[],Trade
+29700,"canopies & tents","2 → 2014 → 29623 → 29700",4,Active,,0,0,[],Trade
+29701,"garden arbors","2 → 2014 → 29623 → 29701",4,Active,,0,0,[],Trade
+29702,"garden trellises","2 → 2014 → 29623 → 29702",4,Active,,0,0,[],Trade
+23008,gazebos,"2 → 2014 → 29623 → 23008",4,Active,,0,0,[],Trade
+23011,greenhouses,"2 → 2014 → 29623 → 23011",4,Active,,0,0,[],Trade
+29625,pergolas,"2 → 2014 → 29623 → 29625",4,Active,,0,0,[],Trade
+23010,"prefab studios","2 → 2014 → 29623 → 23010",4,Active,,0,0,[],Trade
+29699,"shade sails","2 → 2014 → 29623 → 29699",4,Active,,0,0,[],Trade
+29626,"outdoor umbrella accessories","2 → 2014 → 29626",3,Active,414,5,10,[],Trade
+23004,"outdoor umbrellas","2 → 2014 → 23004",3,Active,365,5,12,[],Trade
+23002,"patio furniture and outdoor furniture","2 → 2014 → 23002",3,Active,364,5,16,[],Trade
+29472,"hammock stands and accessories","2 → 2014 → 23002 → 29472",4,Active,,0,0,[],Trade
+23032,"hammocks and swing chairs","2 → 2014 → 23002 → 23032",4,Active,71,5,16,[],Trade
+29685,"outdoor bar furniture","2 → 2014 → 23002 → 29685",4,Active,,0,0,[],Trade
+29488,"outdoor bar stools and counter stools","2 → 2014 → 23002 → 29685 → 29488",5,Active,,0,0,[],Trade
+29486,"outdoor pub and bistro sets","2 → 2014 → 23002 → 29685 → 29486",5,Active,,0,0,[],Trade
+29487,"outdoor pub and bistro tables","2 → 2014 → 23002 → 29685 → 29487",5,Active,,0,0,[],Trade
+29489,"outdoor serving carts","2 → 2014 → 23002 → 29685 → 29489",5,Active,,0,0,[],Trade
+23036,"outdoor benches","2 → 2014 → 23002 → 23036",4,Active,73,5,16,[],Trade
+29483,"outdoor dining furniture","2 → 2014 → 23002 → 29483",4,Active,,0,0,[],Trade
+29484,"outdoor dining chairs","2 → 2014 → 23002 → 29483 → 29484",5,Active,41,5,16,[],Trade
+29485,"outdoor dining sets","2 → 2014 → 23002 → 29483 → 29485",5,Active,,0,0,[],Trade
+23033,"outdoor dining tables","2 → 2014 → 23002 → 29483 → 23033",5,Active,,0,0,[],Trade
+29473,"outdoor lounge furniture","2 → 2014 → 23002 → 29473",4,Active,,0,0,[],Trade
+29114,"accent and garden stools","2 → 2014 → 23002 → 29473 → 29114",5,Active,,0,0,[],Trade
+29474,"adirondack chairs","2 → 2014 → 23002 → 29473 → 29474",5,Active,95,5,16,[],Trade
+23037,"outdoor chaise lounges","2 → 2014 → 23002 → 29473 → 23037",5,Active,74,5,16,[],Trade
+29475,"outdoor coffee tables","2 → 2014 → 23002 → 29473 → 29475",5,Active,96,5,16,[],Trade
+29476,"outdoor folding chairs","2 → 2014 → 23002 → 29473 → 29476",5,Active,,0,0,[],Trade
+29477,"outdoor footstools and ottomans","2 → 2014 → 23002 → 29473 → 29477",5,Active,,0,0,[],Trade
+29478,"outdoor gliders","2 → 2014 → 23002 → 29473 → 29478",5,Active,,0,0,[],Trade
+23035,"outdoor lounge chairs","2 → 2014 → 23002 → 29473 → 23035",5,Active,,0,0,[],Trade
+29479,"outdoor lounge sets","2 → 2014 → 23002 → 29473 → 29479",5,Active,,0,0,[],Trade
+29480,"outdoor loveseats","2 → 2014 → 23002 → 29473 → 29480",5,Active,,0,0,[],Trade
+29481,"outdoor rocking chairs","2 → 2014 → 23002 → 29473 → 29481",5,Active,,0,0,[],Trade
+29482,"outdoor side tables","2 → 2014 → 23002 → 29473 → 29482",5,Active,97,5,16,[],Trade
+23034,"outdoor sofas","2 → 2014 → 23002 → 29473 → 23034",5,Active,72,5,16,[],Trade
+29490,"porch swings","2 → 2014 → 23002 → 29490",4,Active,98,5,16,[],Trade
+29622,saunas,"2 → 2014 → 29622",3,Active,412,5,22,[],Trade
+2013,"storage and organization","2 → 2013",2,Active,,0,0,[],Trade
+22001,"bookcases cabinets and computer armoires","2 → 2013 → 22001",3,Inactive,,0,0,[],Trade
+29644,"charging stations","2 → 2013 → 29644",3,Active,421,5,25,[],Trade
+22005,"closet storage","2 → 2013 → 22005",3,Active,359,5,14,[],Trade
+22004,"closet organizers","2 → 2013 → 22005 → 22004",4,Active,,0,0,[],Trade
+29633,"clothes hangers","2 → 2013 → 22005 → 29633",4,Active,,0,0,[],Trade
+22006,"clothes racks","2 → 2013 → 22005 → 22006",4,Active,,0,0,[],Trade
+29642,"clothing valets and suit stands","2 → 2013 → 29642",3,Active,419,5,32,[],Trade
+22002,"coatracks and umbrella stands","2 → 2013 → 22002",3,Active,358,5,22,[],Trade
+29643,"dresser valets and organizers","2 → 2013 → 29643",3,Active,420,5,25,[],Trade
+23039,"garage and tool storage","2 → 2013 → 23039",3,Active,372,5,22,[],Trade
+29634,"holiday storage","2 → 2013 → 29634",3,Active,415,5,29,[],Trade
+13021,"magazine racks","2 → 2013 → 13021",3,Active,343,5,25,[],Trade
+29635,"outdoor storage","2 → 2013 → 29635",3,Active,416,5,27,[],Trade
+29636,"deck boxes and storage","2 → 2013 → 29635 → 29636",4,Active,,0,0,[],Trade
+29637,"garden hose reels","2 → 2013 → 29635 → 29637",4,Active,,0,0,[],Trade
+29638,"potting benches","2 → 2013 → 29635 → 29638",4,Active,,0,0,[],Trade
+23009,sheds,"2 → 2013 → 29635 → 23009",4,Active,,0,0,[],Trade
+29640,shelving,"2 → 2013 → 29640",3,Active,418,5,16,[],Trade
+22011,"display and wall shelves ","2 → 2013 → 29640 → 22011",4,Active,,0,0,[],Trade
+29641,"utility shelves","2 → 2013 → 29640 → 29641",4,Active,,0,0,[],Trade
+22010,"shoe storage","2 → 2013 → 22010",3,Active,362,5,26,[],Trade
+22013,"storage bins and boxes","2 → 2013 → 22013",3,Active,363,5,31,[],Trade
+14026,"storage cabinets","2 → 2013 → 14026",3,Active,345,5,18,[],Trade
+29639,"utility carts","2 → 2013 → 29639",3,Active,417,5,19,[],Trade
+22007,"wall hooks","2 → 2013 → 22007",3,Active,360,5,24,[],Trade
+29695,"wall organizers","2 → 2013 → 29695",3,Active,424,5,23,[],Trade
+2002,tabletop,"2 → 2002",2,Active,,0,0,[],Trade
+11007,"cups and glassware","2 → 2002 → 11007",3,Active,332,5,26,[],Trade
+29654,"bar glasses","2 → 2002 → 11007 → 29654",4,Active,,0,0,[],Trade
+29655,"beer glasses","2 → 2002 → 11007 → 29654 → 29655",5,Active,,0,0,[],Trade
+29657,"cocktail glasses","2 → 2002 → 11007 → 29654 → 29657",5,Active,,0,0,[],Trade
+29658,"liquor glasses","2 → 2002 → 11007 → 29654 → 29658",5,Active,,0,0,[],Trade
+29656,"shot glasses","2 → 2002 → 11007 → 29654 → 29656",5,Active,,0,0,[],Trade
+29652,"cappuccino and espresso cups","2 → 2002 → 11007 → 29652",4,Active,,0,0,[],Trade
+11201,"everyday glasses","2 → 2002 → 11007 → 11201",4,Active,,0,0,[],Trade
+29660,"holiday drinkware","2 → 2002 → 11007 → 29660",4,Active,,0,0,[],Trade
+11202,mugs,"2 → 2002 → 11007 → 11202",4,Active,,0,0,[],Trade
+29659,"outdoor drinkware","2 → 2002 → 11007 → 29659",4,Active,,0,0,[],Trade
+29653,teacups,"2 → 2002 → 11007 → 29653",4,Active,,0,0,[],Trade
+11200,"wine glasses","2 → 2002 → 11007 → 11200",4,Active,,0,0,[],Trade
+11005,dinnerware,"2 → 2002 → 11005",3,Active,330,5,21,[],Trade
+11103,"charger plates","2 → 2002 → 11005 → 11103",4,Active,,0,0,[],Trade
+29645,"coffee and tea saucers","2 → 2002 → 11005 → 29645",4,Active,,0,0,[],Trade
+11102,"dining bowls","2 → 2002 → 11005 → 11102",4,Active,,0,0,[],Trade
+11101,"dinner plates","2 → 2002 → 11005 → 11101",4,Active,,0,0,[],Trade
+11100,"dinnerware sets","2 → 2002 → 11005 → 11100",4,Active,,0,0,[],Trade
+29647,"holiday dinnerware","2 → 2002 → 11005 → 29647",4,Active,,0,0,[],Trade
+29646,"salad and dessert plates","2 → 2002 → 11005 → 29646",4,Active,,0,0,[],Trade
+29648,"disposable tableware","2 → 2002 → 29648",3,Active,422,5,19,[],Trade
+29649,"disposable cups","2 → 2002 → 29648 → 29649",4,Active,,0,0,[],Trade
+29650,"disposable plates and bowls","2 → 2002 → 29648 → 29650",4,Active,,0,0,[],Trade
+29651,"disposable utensils","2 → 2002 → 29648 → 29651",4,Active,,0,0,[],Trade
+11006,flatware,"2 → 2002 → 11006",3,Active,331,5,27,[],Trade
+29661,chopsticks,"2 → 2002 → 11006 → 29661",4,Active,,0,0,[],Trade
+29666,"flatware and silverware sets","2 → 2002 → 11006 → 29666",4,Active,,0,0,[],Trade
+29663,forks,"2 → 2002 → 11006 → 29663",4,Active,,0,0,[],Trade
+11302,"serving utensils","2 → 2002 → 11006 → 11302",4,Active,,0,0,[],Trade
+29664,spoons,"2 → 2002 → 11006 → 29664",4,Active,,0,0,[],Trade
+29662,"table knives","2 → 2002 → 11006 → 29662",4,Active,,0,0,[],Trade
+11011,serveware,"2 → 2002 → 11011",3,Active,334,5,28,[],Trade
+29667,"beverage dispensers","2 → 2002 → 11011 → 29667",4,Active,,0,0,[],Trade
+29668,"butter dishes","2 → 2002 → 11011 → 29668",4,Active,,0,0,[],Trade
+29674,carafes,"2 → 2002 → 11011 → 29674",4,Active,,0,0,[],Trade
+29698,"cheese boards and platters","2 → 2002 → 11011 → 29698",4,Active,,0,0,[],Trade
+29669,"chip and dip sets","2 → 2002 → 11011 → 29669",4,Active,,0,0,[],Trade
+29670,"condiment sets","2 → 2002 → 11011 → 29670",4,Active,,0,0,[],Trade
+29002,"dessert and cake stands","2 → 2002 → 11011 → 29002",4,Active,,0,0,[],Trade
+29671,"egg cups","2 → 2002 → 11011 → 29671",4,Active,,0,0,[],Trade
+29672,"fruit bowls and baskets","2 → 2002 → 11011 → 29672",4,Active,,0,0,[],Trade
+29673,"gravy boats","2 → 2002 → 11011 → 29673",4,Active,,0,0,[],Trade
+29003,pitchers,"2 → 2002 → 11011 → 29003",4,Active,,0,0,[],Trade
+29675,"punch bowls","2 → 2002 → 11011 → 29675",4,Active,,0,0,[],Trade
+11300,"serving and salad bowls","2 → 2002 → 11011 → 11300",4,Active,,0,0,[],Trade
+11301,"serving dishes and platters","2 → 2002 → 11011 → 11301",4,Active,,0,0,[],Trade
+29001,"serving trays","2 → 2002 → 11011 → 29001",4,Active,,0,0,[],Trade
+29676,"specialty serveware","2 → 2002 → 11011 → 29676",4,Active,,0,0,[],Trade
+29004,"sugar bowls and creamers","2 → 2002 → 11011 → 29004",4,Active,,0,0,[],Trade
+29677,"tea sets","2 → 2002 → 11011 → 29677",4,Active,,0,0,[],Trade
+29005,teapots,"2 → 2002 → 11011 → 29005",4,Active,,0,0,[],Trade
+29678,tureens,"2 → 2002 → 11011 → 29678",4,Active,,0,0,[],Trade
+29679,"tabletop accessories","2 → 2002 → 29679",3,Active,423,5,26,[],Trade
+11009,"napkin rings","2 → 2002 → 29679 → 11009",4,Active,,0,0,[],Trade
+29680,"place card holders","2 → 2002 → 29679 → 29680",4,Active,,0,0,[],Trade
+29681,trivets,"2 → 2002 → 29679 → 29681",4,Active,,0,0,[],Trade
+2012,"window treatments","2 → 2012",2,Active,,0,0,[],Trade
+21008,"curtain rods","2 → 2012 → 21008",3,Active,355,5,24,[],Trade
+21001,curtains,"2 → 2012 → 21001",3,Active,353,5,24,[],Trade
+29168,"interior shutters","2 → 2012 → 29168",3,Active,,0,0,[],Trade
+29166,valances,"2 → 2012 → 29166",3,Active,378,5,25,[],Trade
+21002,"window blinds","2 → 2012 → 21002",3,Active,354,5,28,[],Trade
+21006,"cellular shades","2 → 2012 → 21002 → 21006",4,Active,,0,0,[],Trade
+21004,"roller shades","2 → 2012 → 21002 → 21004",4,Active,,0,0,[],Trade
+21007,"roman shades","2 → 2012 → 21002 → 21007",4,Active,,0,0,[],Trade
+21005,"venetian blinds","2 → 2012 → 21002 → 21005",4,Active,,0,0,[],Trade
+21003,"vertical blinds","2 → 2012 → 21002 → 21003",4,Active,,0,0,[],Trade
+29167,"window film","2 → 2012 → 29167",3,Active,379,5,27,[],Trade
+29169,"window treatment accessories","2 → 2012 → 29169",3,Active,380,5,20,[],Trade

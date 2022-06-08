@@ -41,10 +41,13 @@ with os as (
 	        os.created,
 	        os.order_date,
 	        os.conversion_ts,
-	        os.order_id,
-	        po.gmv,
-	        po.adjusted_cm,
-	        po.coupons_promotions 
+	        po.adjusted_cm + po.coupons_promotions
+--	        ,
+--	        os.order_id,
+--	        po.gmv,
+--	        po.adjusted_cm,
+	        
+--	        po.coupons_promotions 
             ,po.*
 	from os
 	left join 
@@ -52,12 +55,12 @@ with os as (
 	on 
 		sa.session_id = os.session_id 
 --		and sa.dt >= '2022-04-27'
-		and sa.dt = '2022-05-17'
-	JOIN
+		and sa.dt BETWEEN '2022-04-17' AND '2022-05-17'
+	left JOIN
 	    dm.mp_admp_click_events ad
 	ON 
 		sa.landing_page_key = ad.request_id 
-		and sa.dt = ad.dt
+		and ad.dt BETWEEN '2022-04-17' AND '2022-05-17'
 	left join
 	    mp.order_metrics_with_adjustments po
 	on os.order_id = po.order_id
@@ -78,6 +81,20 @@ from web_requests
 group by 1, 2, 3, 4, 5, 6
 
 
+-- missing m_refid in the click
+select * from dm.mp_admp_click_events 
+where request_id = '3293b2c2-86f1-4ae3-bdad-c7e72e4bf649'
+
+
+select * from l2.raw_web_request 
+where dt >= '2022-05-16'
+--and session_id = 'f18a14808a588e6f11bc5cd18db8b503'
+and request_id = '3293b2c2-86f1-4ae3-bdad-c7e72e4bf649'
+and event_type = 'm_refid'
+
+select * from l2.session_analytics 
+where dt >= '2022-05-16'
+and session_id = 'f18a14808a588e6f11bc5cd18db8b503'
 
 -- validated to have only 1 converted row after undo/redo 2022-04-27
 select * from dm.mp_admp_conversions_daily
@@ -127,6 +144,52 @@ in
 
 
 
--- 
-select * from dm.mp_admp_conversions_daily 
+-- 4 conversions on 05-17
+select *, conversion_time_in_est at time zone 'America/New_York' from dm.mp_admp_conversions_daily 
 where dt = '2022-05-17'
+
+
+
+
+
+-- os
+select *,
+		row_number() over (partition by order_id order by start_ts desc) rk
+from dm.order_sess
+where 
+medium = 'PAID'
+and refid like '%us-dsp-mpl-admp-%'
+and dt = '2022-05-17'
+
+
+
+
+select substr(created, 1, 7) order_mt, 
+		count(distinct order_id) tot_orders, 
+		sum(gmv) gmv, 
+		sum(adjusted_cm) adjCM, 
+--		sum(coupons_promotions) coupon_amount, 
+--		1.0000*sum(adjusted_cm)/sum(gmv), 1.0000*sum(adjusted_cm-coupons_promotions)/sum(gmv), 
+		count(distinct if(adjusted_cm< 0, order_id, null)) num_negative_adjCM_orders,
+		count(distinct if(adjusted_cm-coupons_promotions < 0, order_id, null)) num_negative_adjCM_b4coupon_orders,
+		
+		1.00*count(distinct if(adjusted_cm< 0, order_id, null))/count(distinct order_id) negative_adjCM_orders_perc,
+		1.00*count(distinct if(adjusted_cm-coupons_promotions < 0, order_id, null))/count(distinct order_id) negative_adjCM_b4coupon_orders_perc
+		
+from mp.order_metrics_with_adjustments 
+	where substr(created, 1, 4) = '2022'
+	and order_status in (0, 1, 2, 3, 4, 5, 20, 99)
+	and is_replacement_order = 0
+	and order_id not in (select order_id from logs.marketplace_gift_cards_purchased)
+group by 1
+
+
+
+select *, adjusted_cm - coupons_promotions
+from mp.order_metrics_with_adjustments 
+where substr(created, 1, 4) = '2022'
+and order_status in (0, 1, 2, 3, 4, 5, 20, 99)
+and is_replacement_order = 0
+and order_id not in (select order_id from logs.marketplace_gift_cards_purchased)
+and substr(created, 1, 10) = '2022-05-17'
+and adjusted_cm - coupons_promotions < 0

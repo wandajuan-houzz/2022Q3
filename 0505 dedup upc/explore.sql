@@ -1,3 +1,4 @@
+--/Users/wj/Google Drive/2022/2022Q3/0505 dedup upc/explore.sql
 -- ways to dedup upc
 
 
